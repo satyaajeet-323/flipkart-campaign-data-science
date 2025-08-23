@@ -1,0 +1,5 @@
+outs:
+- md5: 47742e7cc0c5486cdb3853f81883fc58
+  size: 183477
+  hash: md5
+  path: flipkart_campaign_cleaned.csv
