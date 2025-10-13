@@ -1,0 +1,8 @@
+README.md
+pyproject.toml
+src/flipkart_campaign.egg-info/PKG-INFO
+src/flipkart_campaign.egg-info/SOURCES.txt
+src/flipkart_campaign.egg-info/dependency_links.txt
+src/flipkart_campaign.egg-info/top_level.txt
+tests/test_campaign_analyzer.py
+tests/test_performance_metrics.py

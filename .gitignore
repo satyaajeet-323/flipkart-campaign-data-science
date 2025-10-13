@@ -1,3 +1,7 @@
-/flipkart_campaign.csv
-/flipkart_campaign_cleaned.csv
-/flipkart_campaign_featured.csv
+__pycache__/
+*.pyc
+.env
+data/*.csv
+.dvc/cache/
+.dvc/tmp/
+.vscode/

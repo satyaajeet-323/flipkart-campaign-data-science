@@ -1,0 +1,21 @@
+[tool.black]
+line-length = 88
+
+[tool.ruff]
+line-length = 88
+select = ["E", "F", "I", "B", "C", "TC", "TCH"]
+[build-system]
+requires = ["setuptools>=45", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "flipkart-campaign"
+version = "0.1.0"
+description = "Flipkart Campaign Analysis and Customer Segmentation"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+include = ["flipkart_campaign*"]
+
+[tool.setuptools.package-dir]
+flipkart_campaign = "src/flipkart_campaign"
