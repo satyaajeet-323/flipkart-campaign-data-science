@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Flipkart Campaign Analysis
 
 This repository contains utilities for analyzing Flipkart campaign performance, simple customer segmentation, and KPI calculations. It includes automated tests and a CI pipeline (Experiment 7) using open-source tools.
@@ -84,3 +85,6 @@ black .
 ```
 
 
+=======
+exp2
+>>>>>>> 8cdb98e10cc494e1e34e5747eb8a39de351b5ad5
