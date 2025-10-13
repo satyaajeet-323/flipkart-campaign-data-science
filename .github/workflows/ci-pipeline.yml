@@ -91,6 +91,6 @@ jobs:
     tags: |
       ghcr.io/${{ github.repository_owner }}/flipkart-campaign:latest
       ghcr.io/${{ github.repository_owner }}/flipkart-campaign:${{ github.sha }}
-    push: true
+
           cache-from: type=gha
           cache-to: type=gha,mode=max
