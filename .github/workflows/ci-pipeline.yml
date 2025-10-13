@@ -85,11 +85,12 @@ jobs:
           registry: ghcr.io
           username: ${{ github.actor }}
           password: ${{ secrets.GITHUB_TOKEN }}
-      - name: Build and push
+      - name: Build and push Docker image
   uses: docker/build-push-action@v6
   with:
     tags: |
-      ghcr.io/satyajeet323/flipkart-campaign:latest
-      ghcr.io/satyajeet323/flipkart-campaign:${{ github.sha }}
+      ghcr.io/${{ github.repository_owner }}/flipkart-campaign:latest
+      ghcr.io/${{ github.repository_owner }}/flipkart-campaign:${{ github.sha }}
+    push: true
           cache-from: type=gha
           cache-to: type=gha,mode=max
