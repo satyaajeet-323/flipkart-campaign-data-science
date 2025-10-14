@@ -23,7 +23,16 @@
 - **Version control:** Data and models tracked with DVC for reproducibility.
 
 ---
+graph LR
+    A[Raw Data] --> B[Bias Scanner]
+    B --> C{Fair?}
+    C -->|Yes| D[Model Training]
+    C -->|No| E[Bias Mitigation]
+    E --> D
+    D --> F[Fairness Audit]
+    F --> G[Deployment]
 
+    
 ## Model Fairness & Bias Mitigation
 
 ### ✅ Pre-processing Checks
