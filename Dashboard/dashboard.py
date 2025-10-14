@@ -199,8 +199,8 @@ with tab_pred:
     st.subheader("Campaign Performance Predictions")
     
     if inference_pipeline is None:
-        st.warning("No trained model found. Using rule-based predictions based on conversion rate and total sales.")
-    
+        # st.warning("No trained model found. Using rule-based predictions based on conversion rate and total sales.")
+        pass
     df_in = None
     if uploaded is not None:
         try:
