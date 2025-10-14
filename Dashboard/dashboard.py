@@ -23,7 +23,7 @@ from scipy.stats import ks_2samp
 # Paths & lazy loading
 # ----------------------------
 ART_DIR = "artifacts"
-DATA_DIR = "..\data"  # Data folder outside dashboard
+DATA_DIR = "../data"  # Data folder outside dashboard
 CSV_PATH = os.path.join(DATA_DIR, "flipkart_campaign.csv")
 PIPE_PATH = os.path.join(ART_DIR, "flipkart_pipeline.joblib")
 COLS_PATH = os.path.join(ART_DIR, "expected_columns.json")
@@ -79,7 +79,7 @@ def load_data():
     try:
         if os.path.exists(CSV_PATH):
             df = pd.read_csv(CSV_PATH)
-            st.success(f"✅ Successfully loaded data from: {CSV_PATH}")
+            st.success(f"✅ Successfully loaded data")
             return df, None
         else:
             error_msg = f"CSV file not found at: {CSV_PATH}"
