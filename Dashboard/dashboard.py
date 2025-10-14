@@ -23,8 +23,8 @@ from scipy.stats import ks_2samp
 # Paths & lazy loading
 # ----------------------------
 ART_DIR = "artifacts"
-# DATA_DIR = "../data"  # Data folder outside dashboard
-CSV_PATH = os.path.join("..\data\flipkart_campaign.csv")
+DATA_DIR = "..\data"  # Data folder outside dashboard
+CSV_PATH = os.path.join(DATA_DIR, "flipkart_campaign.csv")
 PIPE_PATH = os.path.join(ART_DIR, "flipkart_pipeline.joblib")
 COLS_PATH = os.path.join(ART_DIR, "expected_columns.json")
 REF_PATH = os.path.join(ART_DIR, "reference_sample.csv")
