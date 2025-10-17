@@ -1,4 +1,0 @@
-<<<<<<< HEAD
-## Flipkart Campaign Analysis
-
-
