@@ -1,0 +1,1001 @@
+Name,timestamp,Type,year,Total_amt_of_sale,maximum_sale_category,avg_discount,no_of_customers_visited,no_of_products_sold,duration_days,platform,campaign_budget,conversion_rate,returning_customers_percent,click_through_rate,impressions,payment_mode_used,avg_session_time,customer_rating_avg,top_selling_product
+Flipkart Flash Sale in 2022! 0,2022-05-06 2:14:20,Flash Sale,2022,3320327.27,Beauty,54.37,45785,9000,1,Flipkart App,938000,3.61,43.49,2.9,399972,Debit Card,9.36,3.5,Perfume
+Flipkart Big Billion Days Sale in 2021! 1,2021-12-28 17:08:34,Big Billion Days Sale,2021,4943877.87,Electronics,26.77,39433,3987,4,Twitter,811000,3.49,42.4,2.23,817957,Wallet,13.3,4.24,Laptop
+Flipkart Deal of the Day in 2024! 2,2024-11-15 11:10:35,Deal of the Day,2024,4761454.56,Toys,48,46953,6131,2,Instagram,1872000,2.16,11.18,1.99,348795,Debit Card,12.76,4.34,Headphones
+Flipkart Big Billion Days Sale in 2023! 3,2023-09-16 12:40:12,Big Billion Days Sale,2023,6228056.24,Electronics,28.29,46057,541,6,Twitter,1615000,3.32,32.23,4.41,584084,UPI,13.82,3.74,Smartphone
+Flipkart No Cost EMI Sale in 2025! 4,2025-12-27 4:40:39,No Cost EMI Sale,2025,5057275.14,Beauty,62.82,35506,5505,7,Twitter,831000,3.31,64.8,3.74,346427,UPI,10.06,3.45,Shoes
+Flipkart Clearance Sale in 2023! 5,2023-02-27 16:09:53,Clearance Sale,2023,1420321.37,Electronics,11.98,13290,6866,6,Flipkart App,3848000,2.28,43.97,1.09,437524,Cash on Delivery,14.3,2.8,Headphones
+Flipkart No Cost EMI Sale in 2020! 6,2020-02-01 17:04:59,No Cost EMI Sale,2020,752371.49,Beauty,65.15,15769,7927,5,Twitter,7149000,0.43,12.08,3.27,307674,Debit Card,1.69,3.62,Perfume
+Flipkart Winter Sale in 2021! 7,2021-12-10 7:32:47,Winter Sale,2021,220848.57,Home,14.84,26842,8387,1,Flipkart App,6234000,3.95,65.85,3.05,454283,Cash on Delivery,10.79,4.31,Laptop
+Flipkart Big Billion Days Sale in 2025! 8,2025-11-30 1:10:14,Big Billion Days Sale,2025,2360383.97,Electronics,40.41,18476,8111,4,Instagram,5281000,1.85,24.98,2.35,344292,Cash on Delivery,1.08,3.2,Washing Machine
+Flipkart Big Billion Days Sale in 2020! 9,2020-07-24 12:12:31,Big Billion Days Sale,2020,5491668.49,Toys,26.92,32933,3806,6,Facebook,7318000,1.31,10.91,1.75,98227,Wallet,8.23,2.59,Smartphone
+Flipkart Summer Sale in 2021! 10,2021-08-26 16:54:34,Summer Sale,2021,1175720.93,Sports,59.97,46028,9973,3,Facebook,3912000,0.9,12.76,2.08,93975,UPI,1.16,3.37,Toys
+Flipkart Flash Sale in 2025! 11,2025-01-13 15:23:07,Flash Sale,2025,3046021.04,Fashion,16.66,44672,1031,4,Twitter,2199000,4.1,79.06,2.4,21727,UPI,6.38,4.78,Laptop
+Flipkart Monsoon Sale in 2021! 12,2021-07-26 6:40:29,Monsoon Sale,2021,7990688.68,Fashion,26.05,37515,9259,6,Twitter,6235000,3.64,64.73,1.99,126899,Wallet,6.71,3.29,Laptop
+Flipkart Deal of the Day in 2024! 13,2024-05-21 18:26:26,Deal of the Day,2024,3895452.48,Toys,14.6,13041,8077,5,Facebook,6455000,4.35,72.51,4.72,40154,UPI,3.55,3.62,Washing Machine
+Flipkart GOAT Sale in 2023! 14,2023-08-21 18:59:29,GOAT Sale,2023,7738915.91,Electronics,8.84,43071,6100,6,Twitter,2171000,3.8,67.5,4.41,313262,Debit Card,14.97,4.79,Books
+Flipkart Festive Sale in 2025! 15,2025-05-16 22:30:30,Festive Sale,2025,2378387.96,Fashion,35.24,40986,2871,2,Twitter,685000,3.38,35.32,3.01,133846,Credit Card,5.67,3.84,Shoes
+Flipkart No Cost EMI Sale in 2020! 16,2020-06-24 7:44:23,No Cost EMI Sale,2020,8132881.89,Fashion,50.2,47673,2188,7,Instagram,4415000,3.35,15,4.2,133006,Cash on Delivery,3.57,4.39,Toys
+Flipkart Winter Sale in 2023! 17,2023-07-18 11:56:55,Winter Sale,2023,2635733.54,Toys,9.79,3205,4999,5,Twitter,4015000,4.96,15.03,2.93,599318,Cash on Delivery,2.48,3.37,Shoes
+Flipkart Summer Sale in 2025! 18,2025-07-09 7:06:27,Summer Sale,2025,1945415.6,Beauty,54.8,1146,6836,1,Email,1624000,0.4,12.78,2.57,465129,Wallet,4.16,3.84,Smartphone
+Flipkart No Cost EMI Sale in 2022! 19,2022-02-01 12:48:29,No Cost EMI Sale,2022,4940421.41,Toys,38.7,8033,1125,5,Facebook,6513000,3.15,60.69,1.61,470450,Debit Card,9.14,3.92,Toys
+Flipkart Monsoon Sale in 2025! 20,2025-05-15 18:58:05,Monsoon Sale,2025,3657203.91,Electronics,45.81,19816,9250,7,Email,8150000,1.06,23.16,2.03,163261,Debit Card,3.83,4.49,Books
+Flipkart No Cost EMI Sale in 2020! 21,2020-07-28 7:37:09,No Cost EMI Sale,2020,9249368.97,Fashion,41.85,19395,7717,7,Flipkart App,4439000,3.33,76.56,3.74,66469,Cash on Delivery,6.14,4.43,Smartphone
+Flipkart Flash Sale in 2022! 22,2022-06-17 7:50:50,Flash Sale,2022,1732893.47,Sports,15.27,36477,6554,7,Twitter,9214000,3.83,66.5,1.75,629888,Cash on Delivery,1.87,4.09,Smartphone
+Flipkart Winter Sale in 2022! 23,2022-06-24 19:09:22,Winter Sale,2022,5721718.43,Beauty,27.91,5493,8167,2,Twitter,6275000,4.17,79.66,1.84,424362,Wallet,14.94,2.91,Laptop
+Flipkart Summer Sale in 2022! 24,2022-04-23 6:44:53,Summer Sale,2022,1240054.52,Beauty,51.55,49255,3578,6,Email,5144000,2.24,66.35,4.41,397973,Wallet,4.31,4.21,Perfume
+Flipkart Big Billion Days Sale in 2021! 25,2021-12-24 14:15:44,Big Billion Days Sale,2021,7628990.44,Toys,20.78,7910,5386,6,Instagram,3882000,4.07,39.66,0.73,501372,UPI,10.57,3.91,Smartphone
+Flipkart Deal of the Day in 2022! 26,2022-08-10 6:17:19,Deal of the Day,2022,2323328.66,Toys,51.2,7444,2778,4,Email,6622000,0.35,55.5,2.77,890662,Credit Card,5,3.88,Perfume
+Flipkart No Cost EMI Sale in 2020! 27,2020-06-09 6:11:00,No Cost EMI Sale,2020,3990117.87,Beauty,58.78,15969,3180,6,Email,1694000,3.9,19.38,2.52,322544,Debit Card,3.77,4.21,Perfume
+Flipkart GOAT Sale in 2021! 28,2021-03-19 15:40:44,GOAT Sale,2021,2236213.56,Toys,38.7,33551,8866,5,Flipkart App,5999000,4.07,18.87,3.87,323615,UPI,3.05,4.58,Books
+Flipkart No Cost EMI Sale in 2021! 29,2021-05-23 6:15:24,No Cost EMI Sale,2021,3311574.8,Beauty,45.68,13202,6210,5,Email,9918000,2.75,76.66,1.77,748455,Wallet,4.79,2.81,Books
+Flipkart Flash Sale in 2023! 30,2023-04-21 0:41:46,Flash Sale,2023,2639034.51,Books,19.7,7383,8751,4,Instagram,705000,4.83,27.03,1.17,785006,UPI,5.84,4.91,Headphones
+Flipkart Summer Sale in 2023! 31,2023-04-05 7:36:26,Summer Sale,2023,2076265.31,Books,6.34,31336,2715,7,Email,6555000,4.38,27.74,3.91,262077,Debit Card,2.47,3.71,Laptop
+Flipkart Deal of the Day in 2025! 32,2025-04-10 6:38:38,Deal of the Day,2025,9767793.42,Groceries,10.72,12316,3332,5,Facebook,3093000,4.18,10.44,1.79,496380,Cash on Delivery,5.68,2.93,Perfume
+Flipkart Flash Sale in 2020! 33,2020-03-16 12:45:49,Flash Sale,2020,4925293.9,Books,26.22,19954,604,1,Instagram,6522000,3.34,38.5,4.78,270693,Debit Card,3.59,4.45,Smartphone
+Flipkart Clearance Sale in 2021! 34,2021-09-17 16:36:28,Clearance Sale,2021,6562278.18,Beauty,65.04,31837,9131,3,Flipkart App,1528000,3.9,55.08,2.66,533225,Credit Card,5.94,4.05,Headphones
+Flipkart Festive Sale in 2025! 35,2025-02-09 23:03:19,Festive Sale,2025,6133745.4,Toys,8.01,47849,9740,3,Flipkart App,3192000,0.44,39.77,2.35,617668,Wallet,14.8,4.73,Laptop
+Flipkart Flash Sale in 2024! 36,2024-12-05 14:35:13,Flash Sale,2024,1912159.11,Sports,46.38,39738,7318,6,Email,9016000,1.13,12.79,0.86,459873,Cash on Delivery,12.86,3.25,Headphones
+Flipkart Clearance Sale in 2024! 37,2024-06-04 10:03:13,Clearance Sale,2024,446197.13,Home,5.13,27652,8662,3,Email,1878000,3.52,79.92,2.25,299929,Debit Card,14.32,4.89,Perfume
+Flipkart Winter Sale in 2021! 38,2021-03-23 15:26:38,Winter Sale,2021,9470268.44,Sports,10.99,26530,9900,2,Email,6166000,4.67,34.93,2.15,183068,Credit Card,6.66,3.05,Laptop
+Flipkart Deal of the Day in 2021! 39,2021-03-19 10:31:59,Deal of the Day,2021,6807316.98,Home,69.09,17770,8516,3,Twitter,7528000,1.26,70.98,2.01,419826,Credit Card,11.75,3.58,Washing Machine
+Flipkart Festive Sale in 2023! 40,2023-08-23 7:45:20,Festive Sale,2023,6372339.5,Sports,14.73,32088,7621,5,Flipkart App,9004000,1.6,17.98,4.89,282676,Credit Card,6.66,3.03,Laptop
+Flipkart No Cost EMI Sale in 2021! 41,2021-09-27 0:27:42,No Cost EMI Sale,2021,5508421.74,Books,57.91,5565,2969,4,Email,7665000,4.21,39.77,4.13,756160,Cash on Delivery,1.89,3.36,Books
+Flipkart No Cost EMI Sale in 2022! 42,2022-12-01 18:46:44,No Cost EMI Sale,2022,4041307.12,Electronics,8.3,29281,6361,4,Facebook,9129000,1.28,27.04,1.36,199871,Credit Card,10.08,3.41,Washing Machine
+Flipkart Flash Sale in 2024! 43,2024-12-29 14:06:08,Flash Sale,2024,6571604.14,Sports,36,15710,895,7,Instagram,591000,1.17,46.79,3.33,485483,Wallet,8,3.26,Books
+Flipkart Summer Sale in 2024! 44,2024-04-20 6:15:03,Summer Sale,2024,4329883.94,Home,21.8,19156,8334,6,Flipkart App,9211000,0.28,28.33,4.31,470550,Credit Card,10.35,3.88,Laptop
+Flipkart Deal of the Day in 2022! 45,2022-06-21 14:40:10,Deal of the Day,2022,2681775.14,Electronics,63.56,18765,6104,5,Email,9595000,3.81,61.64,1.94,292551,UPI,8.4,4.28,Washing Machine
+Flipkart Winter Sale in 2024! 46,2024-03-14 11:14:00,Winter Sale,2024,9521038.93,Home,18.54,19609,2585,1,Facebook,8584000,4.7,57.13,3.22,61274,UPI,14.8,4.92,Smartphone
+Flipkart Festive Sale in 2022! 47,2022-11-15 6:21:25,Festive Sale,2022,2038755.31,Toys,49.53,6061,3447,7,Twitter,7793000,1.66,42.47,2.89,653704,UPI,2.35,3.35,Books
+Flipkart Flash Sale in 2022! 48,2022-05-14 19:58:03,Flash Sale,2022,3011694.71,Beauty,58.36,17898,9594,4,Flipkart App,5183000,2.55,76.86,4.23,427970,Cash on Delivery,7.93,2.56,Books
+Flipkart GOAT Sale in 2021! 49,2021-01-31 5:21:20,GOAT Sale,2021,6723246.96,Sports,51.8,34018,2297,4,Email,8106000,2.32,54.37,2.53,26955,Wallet,5.84,4.69,Headphones
+Flipkart Festive Sale in 2025! 50,2025-03-19 18:46:09,Festive Sale,2025,4014236.63,Home,51.1,42390,5079,1,Facebook,8279000,2.61,18.9,1.4,363338,UPI,3.39,4.38,Washing Machine
+Flipkart No Cost EMI Sale in 2025! 51,2025-06-29 13:35:24,No Cost EMI Sale,2025,1813875.21,Toys,29.2,44872,928,4,Facebook,3184000,2.94,75.94,1.04,829834,Cash on Delivery,2.84,4.54,Perfume
+Flipkart Festive Sale in 2023! 52,2023-03-23 11:32:36,Festive Sale,2023,7810485.96,Electronics,45.71,8377,1305,6,Email,8464000,1.26,72.3,4.33,410451,Wallet,6.55,3.55,Washing Machine
+Flipkart Festive Sale in 2020! 53,2020-03-28 3:26:11,Festive Sale,2020,3749242.2,Home,15.51,48964,6146,7,Facebook,6750000,2.82,26.6,3.91,166540,UPI,5.91,2.78,Toys
+Flipkart Big Billion Days Sale in 2023! 54,2023-02-11 10:05:35,Big Billion Days Sale,2023,6331324.5,Groceries,22.45,17250,8741,7,Twitter,3992000,4.9,78.9,2.63,429381,Cash on Delivery,1.3,3.86,Headphones
+Flipkart Monsoon Sale in 2025! 55,2025-09-15 16:56:37,Monsoon Sale,2025,8311189.02,Sports,60.57,3409,9112,2,Facebook,6562000,2.06,57.52,4.68,483248,Debit Card,4.36,3.72,Smartphone
+Flipkart GOAT Sale in 2020! 56,2020-12-26 19:25:12,GOAT Sale,2020,1361095.23,Sports,18.46,35793,5010,6,Facebook,6057000,0.9,14.39,1.15,456250,Debit Card,13.31,4.44,Washing Machine
+Flipkart Festive Sale in 2023! 57,2023-12-23 14:56:34,Festive Sale,2023,8233940.21,Electronics,39.86,28916,2763,5,Email,9139000,1.97,55.06,2.62,195208,UPI,10.4,3.12,Perfume
+Flipkart Summer Sale in 2025! 58,2025-09-20 4:15:33,Summer Sale,2025,5053199.78,Electronics,69.56,37302,4125,3,Instagram,6166000,3.01,56.1,2.27,361269,Cash on Delivery,7.06,3.47,Laptop
+Flipkart Festive Sale in 2021! 59,2021-10-31 21:53:33,Festive Sale,2021,262524.9,Electronics,12.68,4472,3968,2,Flipkart App,9260000,2.5,75.44,4.86,14041,Wallet,6.43,4.56,Shoes
+Flipkart Flash Sale in 2020! 60,2020-03-30 14:23:11,Flash Sale,2020,1716336.38,Books,56.47,48257,3096,3,Flipkart App,2192000,2.31,12.83,3.11,357469,UPI,9.22,2.67,Books
+Flipkart Flash Sale in 2023! 61,2023-03-15 0:27:39,Flash Sale,2023,398229.58,Fashion,49.99,23601,8134,3,Flipkart App,2524000,0.94,76.06,1.25,246718,UPI,10.74,3.03,Smartphone
+Flipkart Clearance Sale in 2022! 62,2022-11-22 14:15:48,Clearance Sale,2022,2697743.67,Beauty,39.96,22085,7284,1,Facebook,7722000,3.61,65.98,2.79,327794,Cash on Delivery,1.86,4.05,Washing Machine
+Flipkart No Cost EMI Sale in 2020! 63,2020-02-20 17:11:58,No Cost EMI Sale,2020,2729713.57,Sports,64.86,19148,8821,4,Instagram,4278000,1.69,31.66,1.6,556837,Debit Card,13.09,2.73,Headphones
+Flipkart No Cost EMI Sale in 2025! 64,2025-05-04 13:51:15,No Cost EMI Sale,2025,4214055.21,Electronics,61.53,29306,7659,1,Facebook,4188000,1.65,27.98,4.43,713579,Wallet,7.46,3.13,Laptop
+Flipkart Clearance Sale in 2024! 65,2024-05-14 0:57:00,Clearance Sale,2024,2886413.45,Sports,5.16,49446,9541,7,Flipkart App,4978000,3.83,76.04,1.29,736583,UPI,9.05,4.49,Toys
+Flipkart Flash Sale in 2020! 66,2020-07-29 6:54:22,Flash Sale,2020,5579423.77,Sports,40.95,9783,519,2,Instagram,9123000,4.26,52.61,3.55,475650,Debit Card,5.78,4.56,Perfume
+Flipkart GOAT Sale in 2024! 67,2024-10-31 0:04:55,GOAT Sale,2024,8368059.69,Beauty,18.83,40235,7642,2,Instagram,4940000,1.1,61.39,2.14,397083,Credit Card,10.2,3.88,Laptop
+Flipkart Clearance Sale in 2021! 68,2021-07-20 8:44:23,Clearance Sale,2021,6762975.43,Home,41.65,21526,2547,1,Flipkart App,3076000,2.12,47.09,3.7,762754,UPI,5.4,3.73,Shoes
+Flipkart Big Billion Days Sale in 2022! 69,2022-09-17 15:52:41,Big Billion Days Sale,2022,7149089.36,Groceries,33.87,31416,5903,7,Facebook,6456000,3.11,10.17,0.7,446129,Wallet,12.3,3.69,Toys
+Flipkart GOAT Sale in 2024! 70,2024-04-06 13:47:30,GOAT Sale,2024,5403674.73,Sports,57.45,18067,3393,5,Email,2566000,4.52,70.97,4.34,712933,Credit Card,12.37,4.02,Perfume
+Flipkart Winter Sale in 2024! 71,2024-12-12 6:04:17,Winter Sale,2024,7397055.19,Beauty,29.34,2539,9356,6,Email,596000,2.28,21.93,1.04,770971,Debit Card,5.71,4.29,Toys
+Flipkart Big Billion Days Sale in 2020! 72,2020-09-16 12:59:35,Big Billion Days Sale,2020,4101479.71,Toys,34,24524,8813,4,Facebook,2016000,3.93,17,2.55,861706,Debit Card,4.18,4.78,Shoes
+Flipkart Summer Sale in 2023! 73,2023-02-15 21:03:45,Summer Sale,2023,4074413.97,Sports,24.85,25996,3793,2,Twitter,1075000,0.93,10.56,3.19,526182,Cash on Delivery,2.07,4.89,Laptop
+Flipkart Summer Sale in 2022! 74,2022-09-22 12:22:32,Summer Sale,2022,6876245.61,Toys,68.09,25026,2318,2,Facebook,6741000,2.27,75.95,2.72,149982,Credit Card,9.89,2.83,Laptop
+Flipkart Flash Sale in 2020! 75,2020-10-27 17:29:32,Flash Sale,2020,8794191.66,Toys,21.66,4117,5758,7,Email,6485000,4.41,14.35,3,469309,Credit Card,3.59,4.08,Shoes
+Flipkart Festive Sale in 2024! 76,2024-10-26 10:53:50,Festive Sale,2024,4556996.42,Books,63.15,12206,726,2,Facebook,6918000,1.09,50.26,1.43,626637,Credit Card,9.87,4.02,Shoes
+Flipkart Deal of the Day in 2024! 77,2024-09-16 5:08:07,Deal of the Day,2024,6231353.01,Books,53.02,35833,1613,6,Twitter,641000,2.92,52.1,0.9,762914,Wallet,5.86,4.12,Toys
+Flipkart Winter Sale in 2023! 78,2023-02-19 22:40:48,Winter Sale,2023,1308533.37,Toys,59.15,32196,5394,2,Facebook,1932000,0.36,49.11,4.5,596626,Cash on Delivery,1.08,4.32,Books
+Flipkart Flash Sale in 2023! 79,2023-10-18 10:00:31,Flash Sale,2023,3810739.53,Groceries,35.37,43425,9641,2,Instagram,5906000,2.7,14.83,3.67,703703,Cash on Delivery,4.45,3.51,Toys
+Flipkart Big Billion Days Sale in 2020! 80,2020-01-21 7:40:01,Big Billion Days Sale,2020,3922224.65,Groceries,6.98,13713,5454,1,Twitter,7933000,2.56,28.2,3.12,779544,UPI,3.25,4.25,Toys
+Flipkart Big Billion Days Sale in 2024! 81,2024-03-17 16:47:19,Big Billion Days Sale,2024,5522509.8,Electronics,61.65,47974,6589,5,Instagram,8254000,3.62,51.98,1.49,738747,Cash on Delivery,12.58,3.34,Toys
+Flipkart Big Billion Days Sale in 2025! 82,2025-07-29 12:49:36,Big Billion Days Sale,2025,6464715.32,Beauty,11.32,18960,1242,2,Facebook,5070000,1.7,74.44,4.58,317167,Wallet,5.79,4.02,Toys
+Flipkart Summer Sale in 2024! 83,2024-12-11 13:56:23,Summer Sale,2024,6247318.39,Home,16.08,4433,4317,7,Twitter,8652000,0.47,13.86,4.74,148626,UPI,11.88,4.4,Smartphone
+Flipkart Winter Sale in 2024! 84,2024-02-27 9:37:48,Winter Sale,2024,6427515.98,Books,30.54,43675,6180,2,Facebook,5704000,0.17,20.6,0.51,572477,Credit Card,13.05,3.25,Smartphone
+Flipkart Festive Sale in 2022! 85,2022-12-13 7:22:05,Festive Sale,2022,2247276.41,Sports,10.63,37725,3914,6,Facebook,3710000,3.16,72.46,0.66,655373,Credit Card,3.76,4.79,Washing Machine
+Flipkart Deal of the Day in 2025! 86,2025-05-07 22:45:21,Deal of the Day,2025,1830409.28,Electronics,36.62,33275,8788,4,Email,2125000,0.77,10.43,2.26,804710,Wallet,14.41,3.34,Laptop
+Flipkart Big Billion Days Sale in 2024! 87,2024-02-28 10:07:10,Big Billion Days Sale,2024,8818292.35,Electronics,49.3,21605,5146,6,Flipkart App,3300000,2.9,20.19,0.51,687114,Debit Card,3.68,5,Headphones
+Flipkart Deal of the Day in 2021! 88,2021-05-20 9:37:32,Deal of the Day,2021,9825640.25,Electronics,13.48,43806,4765,2,Email,3733000,0.92,20.84,2.58,691111,UPI,4.12,4.95,Smartphone
+Flipkart Summer Sale in 2025! 89,2025-12-13 22:14:49,Summer Sale,2025,1207176.46,Toys,21.57,49525,5734,4,Facebook,1077000,2.7,77.14,1.05,702679,Wallet,11.3,2.78,Perfume
+Flipkart Winter Sale in 2020! 90,2020-10-09 0:17:13,Winter Sale,2020,9007558.42,Groceries,9.05,7532,4034,4,Flipkart App,2408000,0.33,64.07,4.16,183425,Credit Card,3.43,3.43,Smartphone
+Flipkart Flash Sale in 2022! 91,2022-06-28 9:25:37,Flash Sale,2022,4631971.29,Books,38.54,36636,946,7,Instagram,3396000,4.27,51.61,0.73,29473,Wallet,5.25,4.34,Shoes
+Flipkart Big Billion Days Sale in 2023! 92,2023-11-30 16:50:50,Big Billion Days Sale,2023,9719472.43,Toys,39.7,41556,2394,7,Twitter,5751000,4.02,54.66,4.3,431485,UPI,9.12,4.22,Laptop
+Flipkart Flash Sale in 2023! 93,2023-03-30 15:16:01,Flash Sale,2023,1471152.64,Fashion,68.13,27791,5652,3,Facebook,5381000,1.65,51.37,3.25,679287,Debit Card,1.12,4.54,Books
+Flipkart Flash Sale in 2022! 94,2022-12-06 17:16:00,Flash Sale,2022,3163875.03,Fashion,33.31,2868,7883,4,Instagram,4355000,1.18,12.05,3.99,189479,Cash on Delivery,2.17,4.47,Smartphone
+Flipkart Deal of the Day in 2020! 95,2020-03-04 9:04:51,Deal of the Day,2020,6299108.04,Fashion,66.55,44274,2406,4,Instagram,6616000,3.99,45.88,2.11,549018,Debit Card,2.74,4.76,Smartphone
+Flipkart Deal of the Day in 2023! 96,2023-11-29 1:31:18,Deal of the Day,2023,6109312.32,Books,43.39,1515,2738,5,Instagram,7632000,2.7,37.32,4.4,570679,Credit Card,3.78,4.8,Books
+Flipkart Clearance Sale in 2022! 97,2022-03-16 22:06:38,Clearance Sale,2022,2131230.03,Toys,69.71,20222,4082,5,Facebook,4583000,0.32,67.65,3.55,961872,Cash on Delivery,14.22,4.45,Shoes
+Flipkart GOAT Sale in 2025! 98,2025-09-29 17:16:36,GOAT Sale,2025,4388057.36,Home,58.45,16826,7131,5,Twitter,8247000,3.24,71.92,4.38,450609,Credit Card,11.3,4.62,Washing Machine
+Flipkart Summer Sale in 2020! 99,2020-06-09 10:59:13,Summer Sale,2020,9899940.95,Sports,20.15,35974,4389,5,Twitter,2971000,0.36,24.15,3.71,162627,Debit Card,4.15,3.79,Toys
+Flipkart Deal of the Day in 2021! 100,2021-06-10 12:15:43,Deal of the Day,2021,7478017.78,Sports,31.87,38282,5462,7,Flipkart App,8520000,4.03,70.37,0.71,483495,Cash on Delivery,7.34,4.93,Books
+Flipkart Monsoon Sale in 2023! 101,2023-03-10 4:14:03,Monsoon Sale,2023,1763777.59,Fashion,13.59,29963,4236,5,Instagram,6041000,1.34,67.87,1.68,17314,Debit Card,3.91,4.46,Headphones
+Flipkart Monsoon Sale in 2023! 102,2023-09-09 3:23:51,Monsoon Sale,2023,7747650.96,Sports,10.86,30963,131,4,Flipkart App,9586000,0.24,67.24,2.13,131627,Cash on Delivery,3.03,4.92,Washing Machine
+Flipkart GOAT Sale in 2022! 103,2022-10-07 4:47:01,GOAT Sale,2022,6402808.01,Sports,37.66,9122,1324,2,Facebook,2049000,3.96,16.46,5,866826,UPI,8.17,4.57,Perfume
+Flipkart Big Billion Days Sale in 2020! 104,2020-08-08 17:24:13,Big Billion Days Sale,2020,672934.43,Home,18.85,4300,9080,3,Instagram,3569000,1.26,51.11,4.22,25545,Wallet,7.76,3.1,Toys
+Flipkart GOAT Sale in 2020! 105,2020-02-03 19:36:53,GOAT Sale,2020,3686776.27,Toys,58.89,34626,336,6,Twitter,2539000,1.9,53.07,2.95,545232,Debit Card,4.01,4.7,Perfume
+Flipkart Big Billion Days Sale in 2023! 106,2023-05-09 15:16:02,Big Billion Days Sale,2023,735875.51,Groceries,13.77,23670,910,7,Facebook,5964000,3.58,53.84,1.51,770114,Wallet,9.14,3.36,Washing Machine
+Flipkart Clearance Sale in 2021! 107,2021-10-13 8:35:26,Clearance Sale,2021,3111872.17,Books,29.04,8092,5430,7,Instagram,7554000,3.44,25.9,1.98,155611,Credit Card,13.4,2.73,Headphones
+Flipkart Clearance Sale in 2022! 108,2022-06-07 6:02:15,Clearance Sale,2022,6289555.55,Beauty,29.85,35429,9534,5,Facebook,603000,0.46,42.41,3.02,331740,Cash on Delivery,2.84,4.2,Toys
+Flipkart Big Billion Days Sale in 2023! 109,2023-12-11 11:56:26,Big Billion Days Sale,2023,9062170.11,Fashion,5.89,24394,6700,2,Flipkart App,9443000,2.92,49.92,2.24,711814,Cash on Delivery,11.92,4.69,Perfume
+Flipkart Clearance Sale in 2020! 110,2020-07-03 8:09:28,Clearance Sale,2020,8360532.79,Sports,42.4,35476,9318,3,Instagram,1369000,4.62,24.25,3.23,608206,Wallet,7.18,2.56,Washing Machine
+Flipkart GOAT Sale in 2020! 111,2020-06-14 14:07:19,GOAT Sale,2020,9602914.46,Sports,47.43,8803,9076,1,Instagram,5262000,0.79,25.17,0.66,472922,UPI,6.42,2.72,Books
+Flipkart Summer Sale in 2022! 112,2022-02-10 4:59:42,Summer Sale,2022,2050055.5,Home,45.75,36159,8815,4,Instagram,2414000,2.35,37.23,2.34,633783,Debit Card,11.52,2.86,Laptop
+Flipkart GOAT Sale in 2021! 113,2021-12-28 18:05:39,GOAT Sale,2021,7431454.03,Sports,44.17,47281,5572,6,Email,8188000,0.82,60.76,1.44,799743,UPI,3.91,2.95,Laptop
+Flipkart Deal of the Day in 2024! 114,2024-04-28 23:08:35,Deal of the Day,2024,6277989.55,Sports,23.05,30964,5955,5,Flipkart App,6563000,2.82,28.07,3.92,254249,Cash on Delivery,5.82,3.58,Headphones
+Flipkart Monsoon Sale in 2022! 115,2022-08-07 3:52:41,Monsoon Sale,2022,3720699.43,Fashion,7.16,48925,8130,2,Flipkart App,4966000,3.84,38.5,4.82,602777,UPI,4.4,2.7,Washing Machine
+Flipkart Summer Sale in 2020! 116,2020-03-28 4:13:37,Summer Sale,2020,7015939,Books,26.17,33195,5691,7,Twitter,4160000,3.59,14.54,1.17,418496,Credit Card,6.86,4.86,Washing Machine
+Flipkart Flash Sale in 2024! 117,2024-07-18 11:18:56,Flash Sale,2024,5538473.03,Beauty,20,40758,762,1,Instagram,2278000,1.81,72.49,0.84,970158,Cash on Delivery,8.71,4.42,Headphones
+Flipkart Festive Sale in 2025! 118,2025-11-22 23:07:54,Festive Sale,2025,4545317.54,Sports,51.59,21730,2478,4,Facebook,1790000,1.43,15.64,1.43,983457,Credit Card,13.38,3.87,Shoes
+Flipkart Monsoon Sale in 2022! 119,2022-04-23 21:19:15,Monsoon Sale,2022,7391717.7,Sports,36.58,5166,6129,2,Twitter,4750000,4.1,44.24,3.31,668522,UPI,4.94,4.6,Shoes
+Flipkart Flash Sale in 2020! 120,2020-07-07 23:28:06,Flash Sale,2020,1641014.02,Beauty,42.24,7439,8152,5,Facebook,3588000,2.78,77.08,3.34,58908,Debit Card,8.08,4.33,Smartphone
+Flipkart Flash Sale in 2021! 121,2021-05-16 23:18:24,Flash Sale,2021,2049533.91,Fashion,48.68,19059,9485,2,Flipkart App,4701000,0.84,73.78,4.54,346911,Credit Card,10.38,3.27,Headphones
+Flipkart Summer Sale in 2021! 122,2021-04-04 20:04:49,Summer Sale,2021,8733129.92,Toys,32.8,43522,1898,6,Flipkart App,8715000,2.29,38.49,1.63,304392,Debit Card,11.67,4.53,Headphones
+Flipkart Flash Sale in 2023! 123,2023-08-26 10:22:41,Flash Sale,2023,5257021.56,Toys,5.19,3117,6276,1,Facebook,9999000,3.98,71.51,3.33,954401,Credit Card,7.4,4.91,Shoes
+Flipkart Winter Sale in 2022! 124,2022-02-20 11:48:23,Winter Sale,2022,3944281.05,Toys,41.44,1311,4640,5,Email,8592000,2.01,63.04,4.06,916754,Credit Card,6.17,2.6,Headphones
+Flipkart No Cost EMI Sale in 2020! 125,2020-09-21 3:04:23,No Cost EMI Sale,2020,3053355.04,Fashion,5.67,21911,3940,6,Flipkart App,8108000,3.45,57.95,0.97,747202,Debit Card,1.02,2.52,Smartphone
+Flipkart Festive Sale in 2021! 126,2021-10-13 10:53:27,Festive Sale,2021,7842171.35,Groceries,25.44,26316,3415,3,Twitter,8137000,4.22,60.6,4.04,410924,Credit Card,12.34,2.73,Washing Machine
+Flipkart Flash Sale in 2025! 127,2025-06-19 3:33:38,Flash Sale,2025,9503908.14,Fashion,26.98,20175,1739,5,Facebook,4678000,3.38,29.04,3.61,501678,Credit Card,9.74,4.48,Perfume
+Flipkart Monsoon Sale in 2024! 128,2024-01-22 14:55:27,Monsoon Sale,2024,8089228.54,Home,45.17,5499,8364,5,Facebook,6706000,4.53,44.56,3.31,320537,UPI,13.52,3.51,Laptop
+Flipkart No Cost EMI Sale in 2021! 129,2021-04-06 13:42:47,No Cost EMI Sale,2021,3561906.95,Electronics,7.86,27719,9341,6,Instagram,4312000,0.79,28.91,1.58,976362,UPI,10.57,2.8,Toys
+Flipkart Monsoon Sale in 2022! 130,2022-04-03 9:53:34,Monsoon Sale,2022,4988090.67,Books,43.72,4148,1832,1,Facebook,655000,3.9,46.75,3.57,973444,Wallet,1.33,4.08,Headphones
+Flipkart No Cost EMI Sale in 2022! 131,2022-11-09 15:54:22,No Cost EMI Sale,2022,4382135.54,Electronics,31.68,8787,5076,2,Flipkart App,5710000,1.46,23.9,1.37,450531,UPI,10.46,3.82,Books
+Flipkart GOAT Sale in 2022! 132,2022-04-06 2:00:16,GOAT Sale,2022,9148036.41,Sports,7.94,43729,2805,4,Email,7404000,1.75,72.63,2.86,333276,UPI,2.24,4.18,Perfume
+Flipkart GOAT Sale in 2024! 133,2024-06-13 5:34:42,GOAT Sale,2024,5338196.73,Beauty,15.83,17235,5514,6,Twitter,8849000,2.43,56.55,4.26,113326,Credit Card,4.26,4.81,Washing Machine
+Flipkart Clearance Sale in 2024! 134,2024-05-13 4:42:57,Clearance Sale,2024,4034323.77,Toys,37.12,49062,6850,7,Instagram,3587000,3.87,61.1,3.51,905632,Cash on Delivery,9.83,4.31,Books
+Flipkart Big Billion Days Sale in 2025! 135,2025-03-09 22:04:18,Big Billion Days Sale,2025,3315585.56,Toys,23.02,3420,1867,1,Email,2727000,0.15,46.68,2.37,425610,Wallet,8.99,4.96,Headphones
+Flipkart Winter Sale in 2021! 136,2021-04-19 21:54:15,Winter Sale,2021,9038800.88,Fashion,19.77,18914,5737,5,Twitter,8706000,0.71,50.38,0.87,406519,Debit Card,9.73,3.54,Perfume
+Flipkart No Cost EMI Sale in 2021! 137,2021-02-17 9:37:20,No Cost EMI Sale,2021,3282801.67,Home,43.78,37596,4709,5,Flipkart App,2606000,4.58,55.73,0.53,909871,UPI,13.16,3.37,Washing Machine
+Flipkart Clearance Sale in 2024! 138,2024-04-01 1:36:31,Clearance Sale,2024,7893542.53,Fashion,49.93,27827,3280,4,Twitter,2886000,0.78,40.18,4.07,762933,Debit Card,6,4.39,Shoes
+Flipkart Deal of the Day in 2024! 139,2024-12-05 13:20:59,Deal of the Day,2024,4298723.37,Beauty,44.64,15858,8891,7,Email,7040000,2.96,42.17,0.66,885270,UPI,8.32,2.85,Washing Machine
+Flipkart Big Billion Days Sale in 2023! 140,2023-10-02 0:46:38,Big Billion Days Sale,2023,271520.57,Home,35.06,4632,6280,7,Facebook,9584000,3.5,26.45,4.4,662426,Debit Card,2.14,2.69,Smartphone
+Flipkart No Cost EMI Sale in 2022! 141,2022-01-12 0:14:20,No Cost EMI Sale,2022,7082907.91,Books,50.4,10678,864,1,Twitter,8130000,2.09,20.51,2.62,908717,UPI,13.57,2.9,Smartphone
+Flipkart Deal of the Day in 2020! 142,2020-03-31 4:33:22,Deal of the Day,2020,3629115.17,Toys,33.75,18006,9593,4,Instagram,9017000,1.24,58.45,0.77,538552,Wallet,11.4,4.5,Headphones
+Flipkart Deal of the Day in 2021! 143,2021-07-18 8:52:48,Deal of the Day,2021,8414282.21,Electronics,62.78,29109,940,3,Email,3261000,2.14,50.57,2.34,385225,Wallet,6.37,4.98,Headphones
+Flipkart GOAT Sale in 2020! 144,2020-08-16 3:29:09,GOAT Sale,2020,602336.75,Electronics,34.05,15274,4665,5,Twitter,4981000,2.58,44.84,4.7,211426,Debit Card,3.82,3.2,Perfume
+Flipkart Big Billion Days Sale in 2022! 145,2022-12-24 4:40:58,Big Billion Days Sale,2022,9335619.51,Books,10.81,14500,534,6,Twitter,6922000,2.52,15.5,2.67,518429,Credit Card,13.9,3.87,Laptop
+Flipkart Summer Sale in 2025! 146,2025-02-10 21:39:40,Summer Sale,2025,8783320.27,Beauty,19.7,15710,9388,5,Instagram,5102000,1.27,70.27,0.67,556426,Cash on Delivery,2.38,3.13,Headphones
+Flipkart Clearance Sale in 2020! 147,2020-05-10 16:53:58,Clearance Sale,2020,5403303.27,Home,50.07,30302,7023,4,Email,6223000,1.41,35.14,2.31,744257,UPI,7.99,4.95,Washing Machine
+Flipkart No Cost EMI Sale in 2024! 148,2024-08-20 14:12:07,No Cost EMI Sale,2024,7683848.84,Toys,50.92,18729,660,6,Instagram,9351000,3.75,10.91,2.6,875120,Debit Card,13.67,4.54,Laptop
+Flipkart Big Billion Days Sale in 2024! 149,2024-11-01 2:05:03,Big Billion Days Sale,2024,2841719.55,Books,49.8,8987,4505,2,Email,5837000,4.64,61.06,2.21,158512,Credit Card,14.79,4.86,Laptop
+Flipkart Deal of the Day in 2024! 150,2024-03-13 5:04:59,Deal of the Day,2024,9206832.99,Electronics,34.88,43050,6042,7,Instagram,2411000,4.56,24.57,4.46,476266,Debit Card,7.64,3.99,Books
+Flipkart Monsoon Sale in 2021! 151,2021-11-29 23:50:58,Monsoon Sale,2021,8493325.36,Books,58.91,46874,8764,2,Flipkart App,2249000,0.86,35.33,0.91,206809,UPI,1.77,3.35,Toys
+Flipkart Festive Sale in 2021! 152,2021-12-08 11:08:11,Festive Sale,2021,2746997.01,Electronics,34.47,21214,6212,4,Facebook,8825000,2.7,58.98,2.01,198966,Wallet,10.64,3.38,Shoes
+Flipkart Big Billion Days Sale in 2024! 153,2024-06-12 20:44:09,Big Billion Days Sale,2024,740401.1,Sports,16.5,38681,120,4,Flipkart App,5615000,1.1,77.18,4.92,479667,Wallet,14.78,4.45,Books
+Flipkart Festive Sale in 2020! 154,2020-04-21 7:28:20,Festive Sale,2020,6436214.18,Groceries,61.82,16936,5514,2,Email,4330000,4.63,72.61,0.84,466896,Debit Card,9.88,2.59,Shoes
+Flipkart Big Billion Days Sale in 2023! 155,2023-08-18 23:32:08,Big Billion Days Sale,2023,402187.36,Groceries,40.84,34032,7251,6,Flipkart App,8529000,0.37,13.06,0.63,619619,UPI,12.45,3.42,Perfume
+Flipkart Summer Sale in 2024! 156,2024-09-26 20:12:05,Summer Sale,2024,1984665.56,Toys,68,28930,7927,4,Instagram,859000,1.51,47.93,1.38,560841,Debit Card,10.01,4.91,Books
+Flipkart Big Billion Days Sale in 2022! 157,2022-02-20 20:32:26,Big Billion Days Sale,2022,6530818.54,Home,33.29,9746,1285,7,Facebook,3288000,4.79,55.1,3.56,359735,Credit Card,14.07,3.91,Toys
+Flipkart Deal of the Day in 2024! 158,2024-01-23 14:54:06,Deal of the Day,2024,7413025.38,Sports,40.83,33977,8320,3,Instagram,8676000,0.52,23.45,4.54,486494,Cash on Delivery,3.63,4.64,Toys
+Flipkart Deal of the Day in 2020! 159,2020-11-19 13:20:59,Deal of the Day,2020,663520.26,Toys,12.17,29373,755,2,Flipkart App,9308000,2.11,32.24,2.94,146048,Wallet,13.19,4.83,Headphones
+Flipkart GOAT Sale in 2021! 160,2021-01-19 20:46:56,GOAT Sale,2021,994959.75,Toys,48.35,39602,7490,5,Email,4562000,3.86,31.76,4.95,825962,Cash on Delivery,7.23,4.64,Toys
+Flipkart Monsoon Sale in 2023! 161,2023-06-05 4:45:48,Monsoon Sale,2023,1107382.47,Fashion,55.43,7206,9797,6,Twitter,5453000,0.72,37.27,4.67,196770,Wallet,3.59,2.98,Books
+Flipkart No Cost EMI Sale in 2021! 162,2021-01-26 13:03:49,No Cost EMI Sale,2021,937056.17,Toys,51.91,28160,189,6,Instagram,529000,2.06,10.34,1.77,486725,Debit Card,1.11,4.57,Toys
+Flipkart Festive Sale in 2025! 163,2025-01-30 1:19:45,Festive Sale,2025,9648072.77,Groceries,56.2,48046,7604,3,Flipkart App,3022000,1.78,27.31,0.55,373996,Cash on Delivery,9.45,4.63,Shoes
+Flipkart Clearance Sale in 2020! 164,2020-02-02 11:57:39,Clearance Sale,2020,2469416.23,Books,34.79,18518,7609,2,Flipkart App,4289000,1.24,32.15,3.3,970579,Wallet,4.35,3.89,Perfume
+Flipkart Deal of the Day in 2020! 165,2020-06-11 12:22:28,Deal of the Day,2020,9839705.46,Groceries,44.67,47706,757,1,Facebook,1166000,0.79,50.64,3.09,804454,Debit Card,9.51,4.94,Toys
+Flipkart GOAT Sale in 2020! 166,2020-07-21 10:49:10,GOAT Sale,2020,9346527.45,Sports,11.8,35071,3614,1,Instagram,2786000,0.26,62.85,4.7,944012,Debit Card,13.36,2.65,Books
+Flipkart Festive Sale in 2024! 167,2024-09-13 10:51:55,Festive Sale,2024,7685567,Fashion,38.45,14097,8971,2,Facebook,560000,2.41,79.16,1.18,956825,Wallet,13.54,3.03,Washing Machine
+Flipkart Summer Sale in 2021! 168,2021-01-18 0:00:01,Summer Sale,2021,7705726.17,Fashion,30.2,32994,1063,6,Flipkart App,1927000,1.96,57.5,0.55,437435,Debit Card,1.05,3.99,Toys
+Flipkart Big Billion Days Sale in 2024! 169,2024-09-21 22:37:24,Big Billion Days Sale,2024,1607211.58,Sports,64.43,22999,5591,7,Facebook,6980000,0.98,21.71,3.69,411652,Debit Card,3.39,3.94,Books
+Flipkart No Cost EMI Sale in 2021! 170,2021-08-18 15:13:53,No Cost EMI Sale,2021,6876041.68,Books,68.65,16187,635,5,Instagram,7944000,0.79,28.45,1.17,710519,Wallet,13.57,3,Perfume
+Flipkart Big Billion Days Sale in 2020! 171,2020-05-10 17:18:14,Big Billion Days Sale,2020,6693711.02,Toys,58.67,35894,8055,4,Facebook,4363000,3.58,58.47,3.07,955401,Debit Card,3.77,4.81,Perfume
+Flipkart Summer Sale in 2021! 172,2021-09-01 0:41:30,Summer Sale,2021,8120234.72,Books,6.75,35261,7905,5,Instagram,4634000,2.74,51.52,1.11,529655,Wallet,14.5,4.1,Perfume
+Flipkart GOAT Sale in 2021! 173,2021-06-22 4:09:29,GOAT Sale,2021,8425305.13,Beauty,34.28,28678,5469,6,Facebook,2127000,1.66,58.48,4.19,623745,Wallet,12.29,4.93,Perfume
+Flipkart Clearance Sale in 2021! 174,2021-08-12 12:58:43,Clearance Sale,2021,8901791.07,Books,65.7,45689,767,1,Flipkart App,8259000,4.68,35.54,1.77,619784,Debit Card,9,4.13,Shoes
+Flipkart Clearance Sale in 2021! 175,2021-06-29 15:19:48,Clearance Sale,2021,2971912.13,Sports,19.54,4163,3441,7,Twitter,3134000,4.67,50.98,4.33,316813,UPI,1.78,2.79,Toys
+Flipkart Summer Sale in 2023! 176,2023-08-12 7:20:06,Summer Sale,2023,8469186.02,Electronics,54.12,17693,9942,2,Instagram,3510000,4.44,41.77,2.9,16032,Debit Card,5.32,4.98,Toys
+Flipkart GOAT Sale in 2025! 177,2025-06-20 23:54:02,GOAT Sale,2025,4243351.81,Electronics,41.71,42288,7959,6,Flipkart App,8178000,4.5,30.55,4.8,826071,Cash on Delivery,14.84,4.65,Toys
+Flipkart Winter Sale in 2025! 178,2025-02-09 14:30:17,Winter Sale,2025,6823057.01,Sports,44.4,12609,680,3,Flipkart App,6836000,3.84,16.92,1.53,449265,Wallet,4.54,2.58,Perfume
+Flipkart Clearance Sale in 2020! 179,2020-07-02 18:40:05,Clearance Sale,2020,4225647.15,Home,65.6,43595,1608,2,Twitter,7554000,1.66,58.41,1.29,588054,Wallet,3.5,3.2,Washing Machine
+Flipkart Winter Sale in 2022! 180,2022-08-28 1:28:42,Winter Sale,2022,7685292.18,Sports,6.77,10043,6774,5,Email,7850000,4.83,44.94,1.88,274407,Cash on Delivery,6.69,3.4,Washing Machine
+Flipkart No Cost EMI Sale in 2025! 181,2025-11-16 13:38:06,No Cost EMI Sale,2025,8564489.24,Fashion,21.36,14514,4863,2,Facebook,2094000,0.61,15.76,4.28,201775,Wallet,2.82,3.86,Headphones
+Flipkart Big Billion Days Sale in 2020! 182,2020-06-08 19:24:31,Big Billion Days Sale,2020,9389901.24,Beauty,15.42,41106,5194,5,Instagram,7930000,0.54,60.02,3.15,857010,Credit Card,7.07,2.79,Perfume
+Flipkart Flash Sale in 2022! 183,2022-05-08 19:58:48,Flash Sale,2022,7216240.52,Fashion,57.94,36155,3437,6,Twitter,8812000,4.86,35.74,4.65,500648,Debit Card,3.44,3.51,Headphones
+Flipkart Flash Sale in 2025! 184,2025-07-01 2:23:20,Flash Sale,2025,9786272.39,Fashion,53.59,35448,3451,4,Twitter,4346000,1.73,23.85,3.61,209191,Credit Card,4.15,3.14,Books
+Flipkart Winter Sale in 2021! 185,2021-12-28 7:45:03,Winter Sale,2021,7636539.6,Fashion,9.64,25681,1848,5,Email,3178000,2.95,79.3,3.34,960751,Wallet,8.06,3.04,Shoes
+Flipkart Deal of the Day in 2025! 186,2025-08-17 3:11:10,Deal of the Day,2025,9059754.38,Sports,22.89,40216,3862,2,Facebook,1197000,0.39,42.07,1.91,51577,Debit Card,13.97,4.9,Perfume
+Flipkart Deal of the Day in 2020! 187,2020-01-02 22:11:21,Deal of the Day,2020,8139067.22,Home,51.26,40659,8024,6,Flipkart App,9627000,1.8,16.48,3.73,838590,Wallet,2.43,3.39,Washing Machine
+Flipkart GOAT Sale in 2022! 188,2022-03-29 5:58:06,GOAT Sale,2022,8207639.64,Fashion,47.31,35896,1961,1,Flipkart App,5831000,4.91,53.57,2.85,321741,Cash on Delivery,6.88,3.76,Perfume
+Flipkart Clearance Sale in 2023! 189,2023-12-07 1:12:08,Clearance Sale,2023,4601398.9,Beauty,22.81,34341,117,2,Twitter,1086000,1.22,66.2,3.93,16862,UPI,10.17,4.68,Books
+Flipkart Monsoon Sale in 2024! 190,2024-07-24 9:57:17,Monsoon Sale,2024,4078653.22,Books,21.52,5893,9027,7,Flipkart App,7444000,2.09,47.05,3.55,113040,Debit Card,13.09,3.05,Perfume
+Flipkart Deal of the Day in 2022! 191,2022-03-06 2:02:22,Deal of the Day,2022,8931073.38,Fashion,49.21,44049,8263,2,Twitter,8670000,1.43,72.95,1.6,868311,Wallet,9.96,4.29,Toys
+Flipkart Monsoon Sale in 2022! 192,2022-01-24 10:06:45,Monsoon Sale,2022,2801189.12,Home,26.21,44392,3242,6,Flipkart App,9869000,4.48,39.35,2.98,500539,Wallet,14.24,3.75,Toys
+Flipkart Deal of the Day in 2021! 193,2021-10-16 6:58:47,Deal of the Day,2021,727055.43,Electronics,56.32,30177,7159,2,Twitter,1363000,3.66,19.69,4.06,667244,Cash on Delivery,14.18,4.22,Toys
+Flipkart Summer Sale in 2023! 194,2023-09-13 15:18:34,Summer Sale,2023,2663770,Toys,62.8,42408,2659,5,Facebook,9041000,3.51,74.76,3.28,216670,Credit Card,8.23,3.53,Perfume
+Flipkart Big Billion Days Sale in 2023! 195,2023-10-29 0:41:26,Big Billion Days Sale,2023,5436514.74,Fashion,62.58,49741,6392,1,Instagram,7596000,1.78,15.44,4.19,558432,Wallet,11.36,3.01,Headphones
+Flipkart Deal of the Day in 2020! 196,2020-09-23 3:27:44,Deal of the Day,2020,2771355.64,Home,37.73,49588,6783,3,Facebook,4667000,0.56,62.65,4.04,202817,Wallet,3.91,3.02,Headphones
+Flipkart Clearance Sale in 2024! 197,2024-04-18 2:33:38,Clearance Sale,2024,8173912.12,Toys,22.39,34753,6066,5,Email,4128000,2.18,38.51,2.46,623191,Debit Card,12.74,3.72,Washing Machine
+Flipkart Big Billion Days Sale in 2025! 198,2025-07-02 1:40:29,Big Billion Days Sale,2025,3013837.98,Sports,7.64,20472,1649,2,Instagram,4390000,3.2,46.85,1.56,99470,Cash on Delivery,10.65,3.58,Perfume
+Flipkart Festive Sale in 2023! 199,2023-12-06 16:01:25,Festive Sale,2023,1946342.41,Beauty,31.22,5105,2074,4,Twitter,2538000,4.22,79.3,2.11,511681,UPI,1.17,2.77,Books
+Flipkart Monsoon Sale in 2021! 200,2021-01-30 20:14:43,Monsoon Sale,2021,2255727.76,Sports,32.84,44486,5455,4,Facebook,4468000,2.7,36.85,4.44,828859,Credit Card,2.1,3.28,Perfume
+Flipkart Flash Sale in 2024! 201,2024-09-13 15:31:47,Flash Sale,2024,7034186.45,Groceries,52.43,43882,4089,6,Facebook,9849000,3.07,71.33,4.3,959291,Debit Card,9.51,4.13,Washing Machine
+Flipkart Big Billion Days Sale in 2025! 202,2025-10-10 20:57:40,Big Billion Days Sale,2025,9912665.04,Groceries,22.34,18212,3578,3,Instagram,7809000,1.88,43.66,1.62,727009,Credit Card,2.27,4.47,Headphones
+Flipkart Festive Sale in 2025! 203,2025-12-01 13:19:15,Festive Sale,2025,1324478.18,Home,59.61,39556,3992,1,Flipkart App,6896000,4.15,71.02,2.34,480233,Wallet,13.06,3.38,Perfume
+Flipkart GOAT Sale in 2024! 204,2024-03-22 20:37:55,GOAT Sale,2024,4733724.53,Groceries,62.68,13957,4082,4,Email,8426000,1.62,66.26,4.32,750175,Debit Card,10.31,2.56,Books
+Flipkart Summer Sale in 2022! 205,2022-12-27 7:04:25,Summer Sale,2022,4411798.45,Electronics,48.97,17245,9694,2,Twitter,4656000,1.4,14.7,1.06,567014,Wallet,6.91,4.79,Laptop
+Flipkart No Cost EMI Sale in 2022! 206,2022-11-03 21:44:50,No Cost EMI Sale,2022,6975628.8,Beauty,65.83,17635,8253,6,Facebook,9266000,4.1,52.4,2.6,822083,Wallet,1.72,2.78,Perfume
+Flipkart Clearance Sale in 2025! 207,2025-10-30 17:21:53,Clearance Sale,2025,8735866.56,Toys,6.52,14571,3725,1,Twitter,2217000,2.85,51.64,2.61,499236,Wallet,11.72,2.98,Washing Machine
+Flipkart Festive Sale in 2023! 208,2023-04-21 5:27:25,Festive Sale,2023,6146190.09,Beauty,57.51,38320,3706,5,Twitter,2310000,1.64,69.55,2.17,772911,Cash on Delivery,14.44,3.08,Toys
+Flipkart Monsoon Sale in 2021! 209,2021-07-08 18:21:33,Monsoon Sale,2021,954131.67,Fashion,15.68,45367,3424,4,Email,9263000,2.41,76.42,3.4,259768,Credit Card,2.7,2.71,Books
+Flipkart Winter Sale in 2025! 210,2025-03-05 5:49:12,Winter Sale,2025,7625090.69,Toys,61.87,9114,3667,3,Twitter,3213000,3.29,64.99,1.7,789528,Cash on Delivery,2.6,3.94,Books
+Flipkart Flash Sale in 2024! 211,2024-01-12 17:06:10,Flash Sale,2024,3182320.62,Beauty,46.6,12274,1915,5,Instagram,1329000,2.14,62.85,4.72,548793,Cash on Delivery,1.31,4.69,Books
+Flipkart Deal of the Day in 2023! 212,2023-06-28 11:19:07,Deal of the Day,2023,279510.84,Sports,32.64,40883,1632,5,Twitter,1451000,1.3,14.27,3.99,417857,UPI,6.43,3.05,Headphones
+Flipkart Festive Sale in 2025! 213,2025-05-29 22:26:57,Festive Sale,2025,9145005.95,Electronics,22.19,43393,5346,2,Twitter,8444000,0.61,76.11,2.79,783507,Credit Card,8.43,4.92,Smartphone
+Flipkart Deal of the Day in 2020! 214,2020-06-24 17:29:06,Deal of the Day,2020,1677972.09,Toys,32.81,16715,4561,5,Twitter,9083000,1.01,10.92,4.42,574918,Credit Card,9.31,4.29,Shoes
+Flipkart Clearance Sale in 2024! 215,2024-10-09 12:53:00,Clearance Sale,2024,5048105.15,Toys,55.48,27341,7005,3,Email,4969000,1.83,46.97,2.93,553313,UPI,7.96,2.96,Perfume
+Flipkart Big Billion Days Sale in 2021! 216,2021-10-13 10:43:53,Big Billion Days Sale,2021,4127931.09,Electronics,13.51,7452,4609,6,Instagram,6935000,1.22,29.91,0.59,143548,Cash on Delivery,1.11,4.66,Perfume
+Flipkart No Cost EMI Sale in 2022! 217,2022-11-14 6:34:51,No Cost EMI Sale,2022,8182583.39,Groceries,24.95,10598,3291,3,Facebook,9542000,1.1,34.27,4,938971,UPI,7.86,3.04,Books
+Flipkart No Cost EMI Sale in 2022! 218,2022-11-14 1:27:32,No Cost EMI Sale,2022,6816235.03,Books,30.94,2963,5930,1,Twitter,579000,1.28,50.35,4.34,344630,Cash on Delivery,11.02,2.55,Books
+Flipkart Monsoon Sale in 2025! 219,2025-01-04 18:51:06,Monsoon Sale,2025,1362981.9,Toys,8.4,5823,9252,3,Facebook,5592000,0.61,79.23,2.05,575694,UPI,7.11,3.68,Toys
+Flipkart Clearance Sale in 2020! 220,2020-02-11 23:32:12,Clearance Sale,2020,8961602.71,Toys,27.5,8046,5409,1,Facebook,5181000,0.57,41.63,4.92,725998,UPI,6.44,3.36,Perfume
+Flipkart Deal of the Day in 2020! 221,2020-07-07 10:28:58,Deal of the Day,2020,8709841.22,Books,38.75,48493,825,1,Email,9487000,3.19,27.39,4.18,755411,UPI,1.17,4.32,Washing Machine
+Flipkart Clearance Sale in 2024! 222,2024-06-03 7:06:34,Clearance Sale,2024,8748616.33,Fashion,26.48,46322,8329,7,Instagram,7561000,3.85,70.66,3.02,406282,Wallet,7.91,2.8,Perfume
+Flipkart Winter Sale in 2022! 223,2022-01-31 10:41:29,Winter Sale,2022,423440.48,Groceries,47.38,33860,8399,2,Instagram,5588000,3.11,25.03,0.58,646555,Debit Card,1.38,3.25,Laptop
+Flipkart Flash Sale in 2021! 224,2021-05-24 19:08:30,Flash Sale,2021,8818686.89,Sports,66.42,22982,9919,5,Email,3924000,4.35,71.36,2.07,930966,Debit Card,6.53,4.97,Books
+Flipkart Summer Sale in 2022! 225,2022-08-27 9:22:22,Summer Sale,2022,5375301.91,Sports,44.93,26195,1735,2,Twitter,4273000,3.2,52.24,2.94,414766,UPI,6.4,4.37,Books
+Flipkart Deal of the Day in 2020! 226,2020-04-07 7:24:18,Deal of the Day,2020,3705100.71,Toys,9.84,35452,7518,3,Instagram,1031000,1.7,79.25,0.83,873942,Cash on Delivery,1.47,4.79,Smartphone
+Flipkart No Cost EMI Sale in 2020! 227,2020-04-22 12:52:45,No Cost EMI Sale,2020,2754105.1,Toys,67.63,20313,9192,3,Flipkart App,710000,2.41,56.72,3.76,308835,Debit Card,1.98,3.43,Headphones
+Flipkart Monsoon Sale in 2022! 228,2022-06-23 16:48:39,Monsoon Sale,2022,5184246.5,Beauty,45.86,43924,3672,2,Flipkart App,9598000,4.13,10.38,1.52,591244,Credit Card,12.56,4.76,Shoes
+Flipkart No Cost EMI Sale in 2020! 229,2020-10-16 8:13:35,No Cost EMI Sale,2020,6639940.54,Electronics,66.27,42067,1118,6,Instagram,3212000,1.34,27.55,3.69,163319,Credit Card,13.11,4.29,Perfume
+Flipkart No Cost EMI Sale in 2025! 230,2025-01-30 14:43:14,No Cost EMI Sale,2025,8435900.88,Sports,32.48,35371,9556,3,Twitter,4587000,0.96,25.81,2.79,815937,Cash on Delivery,3.97,3.66,Smartphone
+Flipkart Clearance Sale in 2025! 231,2025-08-24 22:55:39,Clearance Sale,2025,5973477.27,Electronics,53.14,3604,9612,4,Instagram,8253000,3.87,69.1,2.42,459795,Debit Card,2.48,4.28,Washing Machine
+Flipkart Winter Sale in 2023! 232,2023-04-26 11:39:08,Winter Sale,2023,588119.4,Groceries,68.09,2332,8857,7,Email,6712000,3.38,67.85,4.86,168541,UPI,4.68,3.93,Laptop
+Flipkart No Cost EMI Sale in 2021! 233,2021-12-10 8:16:49,No Cost EMI Sale,2021,9338290.11,Beauty,28.73,5563,743,1,Instagram,1839000,4.24,78.83,4.97,545759,Credit Card,8.49,2.59,Toys
+Flipkart Deal of the Day in 2024! 234,2024-02-12 5:25:20,Deal of the Day,2024,6219705.66,Toys,43.68,39155,672,1,Facebook,2845000,1.34,59.19,3.19,17551,Debit Card,9.68,3.19,Books
+Flipkart Winter Sale in 2020! 235,2020-05-26 17:30:22,Winter Sale,2020,9053726.63,Sports,36.49,20882,8427,7,Instagram,8324000,0.61,31.06,3.55,753194,Credit Card,5.14,3.86,Shoes
+Flipkart Festive Sale in 2022! 236,2022-09-03 4:14:34,Festive Sale,2022,5465554.85,Books,36.26,9183,4532,7,Email,1286000,1.18,53.58,1.76,118907,Debit Card,2.76,4.59,Books
+Flipkart No Cost EMI Sale in 2021! 237,2021-09-26 11:27:14,No Cost EMI Sale,2021,5790840.29,Toys,58.31,1580,6142,2,Instagram,8098000,0.33,17.28,4.91,343454,UPI,1.21,3.75,Books
+Flipkart GOAT Sale in 2023! 238,2023-10-18 7:03:38,GOAT Sale,2023,5296773.95,Toys,34.13,30690,8139,2,Flipkart App,5339000,0.81,50.31,3.86,163074,Cash on Delivery,2.4,4.1,Perfume
+Flipkart Clearance Sale in 2021! 239,2021-06-19 15:59:36,Clearance Sale,2021,1983935.27,Books,64.87,28883,7850,1,Instagram,4773000,0.57,32.23,2.92,762411,Credit Card,12.41,4.61,Shoes
+Flipkart No Cost EMI Sale in 2023! 240,2023-02-15 19:27:00,No Cost EMI Sale,2023,2063502.09,Groceries,39.85,14419,3474,1,Flipkart App,6424000,4.69,10.35,3.44,925229,Cash on Delivery,7.99,3.07,Perfume
+Flipkart GOAT Sale in 2025! 241,2025-06-15 20:32:10,GOAT Sale,2025,4352488.21,Toys,22.35,15422,6378,5,Instagram,5123000,3.9,50.99,1.99,78434,Debit Card,2.99,2.6,Perfume
+Flipkart GOAT Sale in 2024! 242,2024-11-28 20:47:29,GOAT Sale,2024,2385861.96,Beauty,43.26,25732,5886,5,Facebook,4050000,2.91,58.96,4.84,552528,UPI,5.27,4.93,Shoes
+Flipkart Festive Sale in 2024! 243,2024-12-09 23:01:50,Festive Sale,2024,692575.76,Home,7.63,44271,3487,1,Flipkart App,4820000,4.59,79.94,4.45,202133,Debit Card,13.24,2.95,Headphones
+Flipkart Big Billion Days Sale in 2022! 244,2022-03-25 14:08:37,Big Billion Days Sale,2022,8933927.58,Electronics,25.92,40086,4383,7,Twitter,8121000,2.82,11.58,4.97,85858,Cash on Delivery,12.27,3.65,Toys
+Flipkart Big Billion Days Sale in 2021! 245,2021-08-03 14:07:18,Big Billion Days Sale,2021,5266262.84,Electronics,32.68,1708,7295,4,Instagram,2917000,3.45,56.57,1,156370,Debit Card,11.19,4.26,Shoes
+Flipkart Flash Sale in 2024! 246,2024-09-05 12:35:06,Flash Sale,2024,7026147.7,Beauty,38.68,41302,9168,3,Instagram,2367000,1.13,67.3,4.4,728768,UPI,11.55,2.71,Perfume
+Flipkart Winter Sale in 2021! 247,2021-09-09 5:11:32,Winter Sale,2021,2453695.75,Toys,50.29,30304,6222,7,Twitter,7395000,1.51,12.88,3.39,980047,UPI,12.22,3.62,Washing Machine
+Flipkart Festive Sale in 2021! 248,2021-08-30 12:29:34,Festive Sale,2021,166008.58,Sports,64.45,27375,3907,1,Facebook,7212000,1.83,14.39,3.67,993222,Debit Card,3.23,2.52,Washing Machine
+Flipkart Monsoon Sale in 2025! 249,2025-05-10 11:31:52,Monsoon Sale,2025,9509938.98,Groceries,33.99,16272,6298,6,Flipkart App,5348000,0.9,69.31,3.42,630442,UPI,7.19,3.93,Headphones
+Flipkart Clearance Sale in 2020! 250,2020-10-11 21:19:23,Clearance Sale,2020,5111575.08,Toys,36.23,49614,9027,3,Facebook,5356000,2.98,34.92,1.01,238209,Credit Card,12.61,4.17,Shoes
+Flipkart Deal of the Day in 2022! 251,2022-05-06 4:25:38,Deal of the Day,2022,2746809.5,Fashion,13.82,5280,5096,5,Email,5693000,1.98,79.25,1.02,269539,Credit Card,9.67,2.68,Shoes
+Flipkart Festive Sale in 2023! 252,2023-02-01 22:24:35,Festive Sale,2023,9389060.26,Beauty,31.41,6398,2402,3,Email,1393000,0.87,28.48,0.53,860452,Wallet,6.78,4.56,Books
+Flipkart Deal of the Day in 2023! 253,2023-09-11 1:00:13,Deal of the Day,2023,5066865.87,Books,40.92,47800,467,4,Flipkart App,6104000,2.64,61.96,2.09,387722,Cash on Delivery,9.13,3,Laptop
+Flipkart Big Billion Days Sale in 2024! 254,2024-10-18 2:28:02,Big Billion Days Sale,2024,3355979.1,Toys,49.58,11373,2703,6,Facebook,8313000,1.69,52.86,2.56,815171,Credit Card,11.37,2.76,Perfume
+Flipkart No Cost EMI Sale in 2025! 255,2025-02-04 16:55:20,No Cost EMI Sale,2025,3984393.31,Electronics,43.31,10943,6210,3,Instagram,9280000,2.38,65.39,4.85,920703,UPI,9.59,4.16,Perfume
+Flipkart Big Billion Days Sale in 2020! 256,2020-09-12 2:53:48,Big Billion Days Sale,2020,2364555.37,Groceries,49.37,16609,8659,3,Twitter,7231000,1.12,40.78,4.76,175428,Credit Card,1.34,4,Laptop
+Flipkart Clearance Sale in 2025! 257,2025-04-02 9:52:06,Clearance Sale,2025,8847212.3,Home,48.73,34563,6598,4,Email,1286000,2.49,19.09,3.6,497710,UPI,9.32,4.79,Laptop
+Flipkart Big Billion Days Sale in 2021! 258,2021-02-10 16:28:08,Big Billion Days Sale,2021,9166017.08,Home,18.37,12278,8200,3,Instagram,9673000,2.81,29.02,0.72,707911,UPI,9.06,4.97,Shoes
+Flipkart Clearance Sale in 2024! 259,2024-10-19 2:25:13,Clearance Sale,2024,3137431.39,Home,23.83,10307,5768,3,Facebook,3684000,4.77,54.55,3.87,929062,Credit Card,8.67,4.55,Laptop
+Flipkart GOAT Sale in 2024! 260,2024-01-28 17:21:58,GOAT Sale,2024,4529842.5,Books,67.3,29708,5070,1,Email,8691000,4.03,45.6,3.93,596985,UPI,1.43,4.65,Laptop
+Flipkart Clearance Sale in 2023! 261,2023-11-18 1:39:12,Clearance Sale,2023,996630.56,Books,25.11,17322,5509,1,Facebook,1251000,2.27,17.95,2.16,165716,UPI,3.48,4.91,Washing Machine
+Flipkart Winter Sale in 2023! 262,2023-03-19 19:28:48,Winter Sale,2023,3570647.75,Fashion,28.51,5812,1429,2,Instagram,4916000,0.98,67.97,4.54,211546,Debit Card,2.69,2.78,Smartphone
+Flipkart Flash Sale in 2024! 263,2024-08-04 21:25:42,Flash Sale,2024,6143145.02,Toys,61.48,37209,7415,6,Email,1245000,4.02,32.77,4.66,518599,UPI,12.41,3.57,Perfume
+Flipkart No Cost EMI Sale in 2021! 264,2021-10-21 13:15:15,No Cost EMI Sale,2021,4089552.91,Toys,20.89,20628,6157,6,Twitter,6711000,0.85,14.36,1.2,55073,Cash on Delivery,3.1,3.88,Smartphone
+Flipkart Summer Sale in 2025! 265,2025-12-15 15:43:00,Summer Sale,2025,2354389.33,Books,57.51,16801,8519,5,Flipkart App,2626000,0.22,45.17,4.65,45667,Cash on Delivery,8.53,4.67,Laptop
+Flipkart No Cost EMI Sale in 2022! 266,2022-03-06 21:03:36,No Cost EMI Sale,2022,1828679.3,Fashion,43.48,1071,7696,2,Flipkart App,7168000,0.49,68.65,1.52,598753,Cash on Delivery,3.9,3.15,Books
+Flipkart Monsoon Sale in 2020! 267,2020-07-03 7:26:11,Monsoon Sale,2020,6444224.24,Groceries,64.31,44277,5363,6,Flipkart App,4112000,1.33,22.45,1.67,739450,Debit Card,7.85,3.19,Washing Machine
+Flipkart Summer Sale in 2021! 268,2021-01-31 23:01:17,Summer Sale,2021,5272680.12,Beauty,68.02,20171,5580,1,Twitter,3352000,0.69,54.24,3.79,126857,Credit Card,13.59,4.27,Washing Machine
+Flipkart Big Billion Days Sale in 2022! 269,2022-03-01 5:33:11,Big Billion Days Sale,2022,8865892.36,Groceries,42.6,16328,6447,6,Flipkart App,7423000,1.57,75,3.41,322712,Cash on Delivery,7.58,3.86,Smartphone
+Flipkart Winter Sale in 2025! 270,2025-11-25 23:44:59,Winter Sale,2025,9482879.19,Books,33.76,33624,8053,7,Flipkart App,1581000,2.76,11.03,3.9,882809,Cash on Delivery,4.12,4.23,Smartphone
+Flipkart No Cost EMI Sale in 2021! 271,2021-07-29 23:44:54,No Cost EMI Sale,2021,5756780.52,Electronics,20.84,34151,4052,3,Instagram,9037000,2.08,11.23,2.06,357579,Debit Card,7.27,4.11,Shoes
+Flipkart Festive Sale in 2022! 272,2022-10-18 8:57:22,Festive Sale,2022,751369.27,Home,45.3,13642,6870,5,Facebook,9577000,0.17,28.62,4.89,875664,Credit Card,8.24,4.8,Books
+Flipkart Deal of the Day in 2025! 273,2025-07-04 3:20:13,Deal of the Day,2025,4807362.49,Fashion,12.58,34844,9582,7,Instagram,6311000,4.39,63.05,2.06,753870,Credit Card,11.11,2.7,Books
+Flipkart Big Billion Days Sale in 2021! 274,2021-02-07 8:35:26,Big Billion Days Sale,2021,4634447.45,Toys,59.97,49752,6940,7,Flipkart App,1520000,2.71,79.21,3.95,342832,Debit Card,13.5,4.5,Headphones
+Flipkart Festive Sale in 2021! 275,2021-01-18 18:09:27,Festive Sale,2021,2262758.01,Groceries,8.35,42276,4132,7,Instagram,682000,1.2,21.2,1.07,361999,Debit Card,8.42,3.34,Perfume
+Flipkart Clearance Sale in 2024! 276,2024-09-27 12:07:36,Clearance Sale,2024,1768621.54,Electronics,38.17,7154,5035,6,Email,9831000,1.94,20.98,2.33,967058,Cash on Delivery,1.63,4.73,Smartphone
+Flipkart Summer Sale in 2022! 277,2022-02-08 0:36:48,Summer Sale,2022,9581857.61,Electronics,28.8,12338,968,6,Facebook,1406000,2.43,68.45,4.42,955066,Credit Card,1.87,2.66,Shoes
+Flipkart Monsoon Sale in 2024! 278,2024-08-31 6:24:13,Monsoon Sale,2024,7532158.09,Fashion,58.07,46798,3791,3,Instagram,3908000,3.45,67.51,2.87,476464,Wallet,6.53,4.46,Smartphone
+Flipkart Deal of the Day in 2023! 279,2023-02-02 0:40:53,Deal of the Day,2023,8153567.24,Home,55.43,12005,5806,5,Facebook,4790000,3.67,23.19,4.68,103905,Debit Card,6.37,4.8,Laptop
+Flipkart Deal of the Day in 2025! 280,2025-08-03 0:13:48,Deal of the Day,2025,5499354.89,Fashion,5.54,21593,1161,2,Facebook,8152000,3.37,45.07,3.81,188354,Debit Card,1.75,4.59,Laptop
+Flipkart Clearance Sale in 2021! 281,2021-01-28 13:47:12,Clearance Sale,2021,971398.39,Electronics,37.52,19283,7767,1,Instagram,6852000,1.75,64.43,3.14,57138,Debit Card,8.1,4.28,Books
+Flipkart Summer Sale in 2024! 282,2024-11-12 10:58:01,Summer Sale,2024,3058511.34,Electronics,8.15,2884,518,6,Instagram,2818000,2.9,58.86,2.7,383860,Debit Card,12.32,4.41,Shoes
+Flipkart Clearance Sale in 2024! 283,2024-12-31 9:48:18,Clearance Sale,2024,5267519.9,Beauty,43.16,42730,5144,3,Twitter,1606000,2.82,22.25,1,283014,UPI,9.85,4.4,Books
+Flipkart Monsoon Sale in 2025! 284,2025-08-27 21:19:09,Monsoon Sale,2025,4036046.63,Fashion,36.99,37504,8915,5,Twitter,1420000,1.14,52.69,3.4,228719,UPI,5.07,3.09,Headphones
+Flipkart No Cost EMI Sale in 2022! 285,2022-11-03 18:13:55,No Cost EMI Sale,2022,3711081.1,Fashion,51.69,38743,5447,3,Flipkart App,2511000,4.03,23.5,3.17,149395,Credit Card,5.24,4.88,Books
+Flipkart Clearance Sale in 2025! 286,2025-01-16 5:14:58,Clearance Sale,2025,9843173.12,Beauty,34.49,14195,4454,1,Instagram,2252000,1.39,54.42,4.66,556707,Credit Card,1.35,4.39,Shoes
+Flipkart Winter Sale in 2021! 287,2021-02-10 7:27:23,Winter Sale,2021,5487197.44,Beauty,64.46,49148,6085,5,Twitter,6257000,4.71,16.94,3.89,386441,Credit Card,9.47,4.61,Laptop
+Flipkart Flash Sale in 2021! 288,2021-06-04 2:41:43,Flash Sale,2021,6490103.21,Home,58.52,12328,5470,5,Flipkart App,6996000,3.36,73.47,2.16,745587,UPI,1.99,2.94,Headphones
+Flipkart Big Billion Days Sale in 2023! 289,2023-10-26 11:40:11,Big Billion Days Sale,2023,5141599.68,Electronics,15,24268,6022,4,Instagram,6611000,4.5,72.07,0.53,743234,UPI,5.86,3.07,Laptop
+Flipkart GOAT Sale in 2023! 290,2023-10-03 11:47:56,GOAT Sale,2023,968238.77,Sports,5.44,27835,5129,1,Email,5824000,4.35,22.41,4.52,795549,Credit Card,10.12,4.16,Smartphone
+Flipkart Flash Sale in 2024! 291,2024-10-06 18:28:13,Flash Sale,2024,6366808.14,Groceries,41,32667,3291,1,Flipkart App,3911000,2.26,51.16,4.21,708452,Debit Card,1.33,4.4,Headphones
+Flipkart Big Billion Days Sale in 2021! 292,2021-12-26 8:05:59,Big Billion Days Sale,2021,9861662.91,Beauty,48.67,3421,8033,7,Twitter,3188000,2.18,45.75,2.11,210897,Debit Card,3.52,4.18,Washing Machine
+Flipkart Summer Sale in 2022! 293,2022-03-23 2:27:27,Summer Sale,2022,7246162.64,Toys,44.44,18069,2071,2,Facebook,8766000,4.13,30.97,2.11,114449,Wallet,3.42,3.65,Toys
+Flipkart Big Billion Days Sale in 2023! 294,2023-03-22 21:48:41,Big Billion Days Sale,2023,4846438.94,Books,48.31,47196,5375,7,Email,8963000,1.93,43.99,2.97,266917,Wallet,10.58,4.74,Headphones
+Flipkart Winter Sale in 2023! 295,2023-04-23 17:50:46,Winter Sale,2023,5308755.96,Books,8.93,6699,1492,3,Facebook,7997000,4.62,56.59,2.46,604445,Debit Card,14.77,3.48,Perfume
+Flipkart Summer Sale in 2023! 296,2023-02-21 1:41:57,Summer Sale,2023,2962227.23,Beauty,40.78,10518,5479,7,Twitter,2001000,4.27,57.94,4.67,942932,Wallet,5.6,3.03,Shoes
+Flipkart Summer Sale in 2020! 297,2020-02-03 0:30:57,Summer Sale,2020,524000.35,Toys,20.36,15560,2611,1,Instagram,8602000,3.57,63.16,3.86,258838,Credit Card,7.05,3.74,Headphones
+Flipkart GOAT Sale in 2022! 298,2022-01-02 0:50:53,GOAT Sale,2022,2162161.83,Fashion,18.68,30615,6485,2,Email,7575000,2.23,77.15,1.98,767700,UPI,6.12,3.41,Laptop
+Flipkart Flash Sale in 2020! 299,2020-02-25 18:50:21,Flash Sale,2020,3571058.37,Books,54.23,18311,3067,6,Facebook,7938000,1.96,49.06,2.36,926376,Wallet,8.65,3.62,Toys
+Flipkart Festive Sale in 2020! 300,2020-05-22 0:32:00,Festive Sale,2020,3470653.2,Beauty,68.7,30374,9265,5,Facebook,4205000,0.43,60.99,4.09,552102,UPI,4.75,2.71,Headphones
+Flipkart Summer Sale in 2020! 301,2020-08-31 18:12:27,Summer Sale,2020,9484323.83,Books,55.47,36416,1589,5,Instagram,4712000,0.54,22.38,2.74,878424,Wallet,1.43,4.63,Toys
+Flipkart Festive Sale in 2020! 302,2020-01-16 23:54:09,Festive Sale,2020,2702006.69,Home,19.42,34748,3249,6,Facebook,3698000,4.84,43.51,3.1,179170,Credit Card,3.18,4.06,Toys
+Flipkart Deal of the Day in 2024! 303,2024-01-04 1:45:33,Deal of the Day,2024,7894125.62,Books,38.07,45111,6339,7,Facebook,9239000,2.76,59.33,3.26,964334,Wallet,6.35,4.49,Washing Machine
+Flipkart Festive Sale in 2023! 304,2023-10-05 20:10:14,Festive Sale,2023,1941608.9,Groceries,27,14145,318,2,Flipkart App,4570000,3.65,33.69,3.88,841494,Cash on Delivery,6.22,3.87,Washing Machine
+Flipkart Monsoon Sale in 2023! 305,2023-01-20 7:05:36,Monsoon Sale,2023,6510868.07,Fashion,69.32,7054,6070,1,Instagram,3602000,4.87,77.89,2.48,665107,Debit Card,13.76,4.63,Headphones
+Flipkart Big Billion Days Sale in 2020! 306,2020-04-30 22:27:07,Big Billion Days Sale,2020,8497438.5,Toys,46.35,32635,5274,4,Flipkart App,2757000,3.78,18.12,4.56,17909,UPI,8.5,2.87,Headphones
+Flipkart Clearance Sale in 2023! 307,2023-12-08 2:30:34,Clearance Sale,2023,249486.06,Home,44.12,28019,4745,4,Email,8461000,3.85,26.28,0.65,548282,UPI,10.58,2.62,Smartphone
+Flipkart Summer Sale in 2022! 308,2022-07-22 7:10:10,Summer Sale,2022,8808492.75,Beauty,59.41,18903,4026,7,Facebook,2185000,3.94,78.47,2.71,57961,Credit Card,3.45,3.9,Shoes
+Flipkart Big Billion Days Sale in 2020! 309,2020-09-07 14:37:18,Big Billion Days Sale,2020,9190675.35,Beauty,26.61,20904,104,7,Facebook,8298000,2.68,73.69,4.37,159608,Wallet,10.2,4.94,Shoes
+Flipkart Flash Sale in 2022! 310,2022-09-09 11:21:46,Flash Sale,2022,6374836.41,Beauty,66.01,18317,5280,1,Email,1365000,2.14,38.85,3.73,14603,Credit Card,4.12,4.77,Shoes
+Flipkart GOAT Sale in 2021! 311,2021-05-19 18:05:59,GOAT Sale,2021,166257.8,Beauty,48.91,42839,8167,7,Twitter,4999000,2.13,64.72,0.96,589558,Wallet,2.49,3.83,Headphones
+Flipkart Big Billion Days Sale in 2020! 312,2020-03-21 16:51:59,Big Billion Days Sale,2020,1756135.3,Sports,6.72,46513,3698,4,Facebook,1073000,3.92,79.48,4.99,939944,Wallet,1.29,3.35,Books
+Flipkart Summer Sale in 2021! 313,2021-09-08 13:25:47,Summer Sale,2021,4777107.59,Sports,15.5,3852,8738,3,Facebook,691000,1.37,41.44,3.75,201019,UPI,14.92,2.78,Toys
+Flipkart Flash Sale in 2023! 314,2023-04-13 6:19:09,Flash Sale,2023,453250.52,Books,47.59,38523,8902,4,Facebook,5365000,2.09,35.39,3.12,704979,Cash on Delivery,2.38,2.96,Laptop
+Flipkart GOAT Sale in 2024! 315,2024-10-25 7:41:30,GOAT Sale,2024,2559448.48,Groceries,33.51,27012,4615,5,Instagram,6600000,2.79,36.19,3.14,116692,Credit Card,5.28,3.99,Shoes
+Flipkart Festive Sale in 2023! 316,2023-05-03 0:43:04,Festive Sale,2023,532063.2,Toys,18.61,21605,3569,7,Twitter,4696000,1.57,47.03,1.95,857757,Debit Card,2.83,2.86,Perfume
+Flipkart Flash Sale in 2022! 317,2022-10-03 7:24:24,Flash Sale,2022,3392448.29,Beauty,40.1,20966,7964,6,Email,6248000,4.79,55.89,3.7,363929,Credit Card,2.87,4.08,Toys
+Flipkart Summer Sale in 2025! 318,2025-02-19 12:40:24,Summer Sale,2025,1658126.74,Electronics,19.61,27553,9310,7,Email,8599000,3.02,31.93,1.32,313105,UPI,5.77,3.33,Shoes
+Flipkart Deal of the Day in 2024! 319,2024-10-31 14:59:44,Deal of the Day,2024,1586356.94,Sports,23.85,29839,476,5,Instagram,5753000,0.27,21.93,3.59,874877,Cash on Delivery,4.04,3.57,Headphones
+Flipkart No Cost EMI Sale in 2023! 320,2023-02-03 19:38:19,No Cost EMI Sale,2023,7407217.63,Beauty,26.46,8424,8716,7,Facebook,8341000,1.71,34.56,2.34,896725,Debit Card,4.67,4.98,Laptop
+Flipkart Big Billion Days Sale in 2022! 321,2022-09-24 14:32:24,Big Billion Days Sale,2022,912860.75,Books,6.27,34570,8492,2,Facebook,5318000,0.86,71.74,2.54,222801,UPI,2.97,4.91,Laptop
+Flipkart Deal of the Day in 2021! 322,2021-08-22 15:03:44,Deal of the Day,2021,3585670.59,Fashion,43.5,10981,1581,7,Facebook,6515000,2.41,20.01,2.59,761802,Debit Card,11.88,2.7,Headphones
+Flipkart No Cost EMI Sale in 2021! 323,2021-08-14 10:14:49,No Cost EMI Sale,2021,7606961.13,Toys,47.08,41189,5862,1,Facebook,1382000,4.05,15.25,0.96,233817,Cash on Delivery,13.16,3.26,Laptop
+Flipkart Deal of the Day in 2024! 324,2024-08-05 19:54:37,Deal of the Day,2024,527931.98,Books,22.86,28623,6737,2,Email,6636000,3.83,16.49,2.95,772277,Wallet,14.67,5,Washing Machine
+Flipkart Big Billion Days Sale in 2024! 325,2024-05-29 7:24:44,Big Billion Days Sale,2024,6853112.43,Groceries,49.95,45979,9838,1,Twitter,4227000,0.18,53.61,4.61,880478,Wallet,12.71,4.51,Toys
+Flipkart Flash Sale in 2023! 326,2023-06-24 15:41:41,Flash Sale,2023,2831330.85,Sports,9.64,16082,8324,4,Flipkart App,4897000,1.94,55.2,3.44,216675,UPI,9.03,2.55,Books
+Flipkart Festive Sale in 2021! 327,2021-06-13 4:31:53,Festive Sale,2021,4449186.04,Groceries,10.53,33557,5594,7,Flipkart App,856000,3.49,42.28,1.91,616755,Debit Card,4.94,2.53,Laptop
+Flipkart GOAT Sale in 2024! 328,2024-10-16 10:19:35,GOAT Sale,2024,6862515.16,Electronics,59.77,40153,9901,2,Twitter,876000,4.54,37.29,1.06,643844,Wallet,10.01,4.08,Toys
+Flipkart Deal of the Day in 2024! 329,2024-09-03 23:12:36,Deal of the Day,2024,6021381.05,Home,12.37,7415,9170,1,Facebook,8982000,0.99,17.49,2.75,288918,Credit Card,12.63,3.19,Toys
+Flipkart Festive Sale in 2020! 330,2020-07-11 6:20:54,Festive Sale,2020,9441331.84,Books,21.51,9225,9903,3,Facebook,1935000,4.29,61.19,1.04,910143,Cash on Delivery,8.28,3.53,Smartphone
+Flipkart Summer Sale in 2022! 331,2022-02-03 13:04:38,Summer Sale,2022,7383123.67,Home,41.24,24548,1745,4,Email,9447000,1.19,16.05,4.41,600354,UPI,10.82,3.3,Perfume
+Flipkart Flash Sale in 2020! 332,2020-06-01 6:36:51,Flash Sale,2020,2561163.9,Electronics,45.59,10524,3034,7,Flipkart App,5630000,1.51,46.45,2.01,108308,Wallet,5.12,4.86,Headphones
+Flipkart Winter Sale in 2020! 333,2020-03-18 20:42:18,Winter Sale,2020,9039826.4,Electronics,12.89,27512,6159,3,Flipkart App,5884000,2.28,66.42,3.52,593831,UPI,11.68,3.09,Books
+Flipkart GOAT Sale in 2023! 334,2023-01-25 5:15:14,GOAT Sale,2023,8658367.42,Fashion,56.56,24182,5076,3,Instagram,1946000,0.31,43.05,1.35,489738,Credit Card,10.49,4.1,Washing Machine
+Flipkart Winter Sale in 2021! 335,2021-06-23 8:35:12,Winter Sale,2021,7658531.19,Home,54.04,43434,1099,4,Email,1988000,3.37,63.22,4.85,752318,Cash on Delivery,3.06,4.86,Smartphone
+Flipkart Monsoon Sale in 2021! 336,2021-08-31 21:05:50,Monsoon Sale,2021,1769963.84,Sports,61.47,7776,1149,4,Facebook,4055000,0.79,23.25,0.81,681509,Wallet,13.52,2.52,Washing Machine
+Flipkart Winter Sale in 2022! 337,2022-10-05 19:57:15,Winter Sale,2022,1641865.77,Books,8.72,15069,2363,7,Twitter,9719000,2.12,42.92,2.26,205858,Cash on Delivery,13.21,4.77,Books
+Flipkart Monsoon Sale in 2020! 338,2020-05-19 21:04:40,Monsoon Sale,2020,9440970.04,Fashion,22.23,35394,3802,3,Twitter,1686000,1.6,34.8,0.8,862079,Credit Card,10.92,3.87,Washing Machine
+Flipkart Monsoon Sale in 2025! 339,2025-11-25 5:01:55,Monsoon Sale,2025,1553649.56,Groceries,59.28,3915,6084,4,Facebook,1633000,1.7,32.59,2.55,675166,Credit Card,4.81,4.07,Laptop
+Flipkart Flash Sale in 2023! 340,2023-09-11 9:10:01,Flash Sale,2023,8566952.47,Beauty,52.64,41862,8583,6,Facebook,5833000,1.52,39.38,4.99,592747,Credit Card,13.37,2.87,Washing Machine
+Flipkart Winter Sale in 2020! 341,2020-08-07 12:00:34,Winter Sale,2020,7286570.38,Toys,44.35,47602,1216,7,Instagram,5921000,4.32,58.09,0.69,918105,UPI,2.01,4.11,Toys
+Flipkart Winter Sale in 2023! 342,2023-04-13 9:08:36,Winter Sale,2023,2822722.38,Sports,23.68,31504,7159,7,Flipkart App,2656000,2.03,16.99,3.53,746654,Debit Card,11.16,3.46,Washing Machine
+Flipkart Festive Sale in 2021! 343,2021-05-18 19:23:24,Festive Sale,2021,5526029.09,Home,18.48,25298,363,6,Instagram,4863000,0.94,33.82,1.27,816898,Wallet,8.28,4.79,Books
+Flipkart Deal of the Day in 2020! 344,2020-05-18 22:11:22,Deal of the Day,2020,6563574.85,Sports,37.11,10944,5576,2,Flipkart App,1811000,2.26,61.7,1.13,266155,UPI,9.45,3.3,Shoes
+Flipkart Deal of the Day in 2023! 345,2023-01-04 7:26:44,Deal of the Day,2023,4862235.61,Beauty,51.56,13751,3467,7,Flipkart App,8415000,1.96,78.78,2.39,469849,Cash on Delivery,4.94,2.68,Perfume
+Flipkart Clearance Sale in 2020! 346,2020-09-05 18:10:54,Clearance Sale,2020,4911581.28,Books,25.92,27779,7588,6,Flipkart App,3269000,1.12,56.47,3.95,468432,Cash on Delivery,3.8,3.24,Books
+Flipkart Winter Sale in 2020! 347,2020-01-29 11:54:15,Winter Sale,2020,3274612.23,Electronics,12.66,45002,1471,7,Facebook,566000,0.88,10.6,3.79,609484,UPI,14.58,4.45,Perfume
+Flipkart No Cost EMI Sale in 2022! 348,2022-09-26 14:45:59,No Cost EMI Sale,2022,675377.25,Sports,63.21,18956,4300,6,Email,4232000,2.4,78.89,1.02,815430,Debit Card,9.43,3.47,Books
+Flipkart No Cost EMI Sale in 2021! 349,2021-04-17 12:08:38,No Cost EMI Sale,2021,7594166.5,Electronics,40,1764,7027,3,Flipkart App,8294000,0.13,77.24,3.39,847230,Credit Card,6.73,3.65,Books
+Flipkart GOAT Sale in 2022! 350,2022-04-09 13:59:34,GOAT Sale,2022,6788158.36,Sports,67.76,5780,1902,2,Email,3839000,1,71.31,1.95,803954,UPI,1.07,2.65,Headphones
+Flipkart Big Billion Days Sale in 2024! 351,2024-07-14 15:36:08,Big Billion Days Sale,2024,6665686.91,Home,32.56,45169,3207,5,Instagram,8793000,3.43,18.26,1.49,697109,Wallet,6.52,2.79,Smartphone
+Flipkart Summer Sale in 2023! 352,2023-09-16 11:50:36,Summer Sale,2023,8861705.56,Electronics,61.39,30921,2843,3,Email,7812000,4.36,30.9,1,809092,Debit Card,7.62,2.82,Washing Machine
+Flipkart Deal of the Day in 2024! 353,2024-02-23 15:09:30,Deal of the Day,2024,5528136.39,Sports,28.59,8343,7464,1,Instagram,9052000,2.03,65.94,4.6,307565,Cash on Delivery,14.97,3.44,Laptop
+Flipkart Summer Sale in 2025! 354,2025-03-11 9:30:46,Summer Sale,2025,414936.77,Toys,52.39,13742,6431,7,Twitter,3287000,4.79,11.95,0.73,884694,UPI,6.14,2.55,Toys
+Flipkart Festive Sale in 2021! 355,2021-08-20 18:46:04,Festive Sale,2021,9341785.76,Home,38.05,3518,8645,4,Facebook,6558000,2.71,66.56,0.64,591525,Cash on Delivery,4.26,3.18,Books
+Flipkart Big Billion Days Sale in 2024! 356,2024-07-19 3:36:18,Big Billion Days Sale,2024,5397583.42,Sports,26.45,22835,7200,3,Flipkart App,8892000,2.25,52.23,3.02,862773,Credit Card,1.32,4.15,Perfume
+Flipkart No Cost EMI Sale in 2025! 357,2025-01-20 21:21:37,No Cost EMI Sale,2025,9998556.51,Fashion,11.93,28712,220,5,Facebook,5476000,3.78,33.13,0.82,426327,Credit Card,10.62,4.47,Shoes
+Flipkart GOAT Sale in 2024! 358,2024-02-05 5:11:36,GOAT Sale,2024,5167978.75,Groceries,46.93,44575,4121,5,Facebook,3291000,0.32,11.95,3.63,69185,Wallet,7.03,3.69,Smartphone
+Flipkart Summer Sale in 2025! 359,2025-09-16 6:48:35,Summer Sale,2025,1917670.46,Home,35.98,21419,665,7,Twitter,8232000,4.09,74.57,2.35,262183,UPI,4.87,2.6,Laptop
+Flipkart Big Billion Days Sale in 2025! 360,2025-04-26 21:58:00,Big Billion Days Sale,2025,3686700.63,Toys,65.87,42640,6334,3,Facebook,5436000,1.86,36.56,4.68,990673,Wallet,13.79,3.43,Headphones
+Flipkart Clearance Sale in 2020! 361,2020-01-15 9:59:38,Clearance Sale,2020,9081542.57,Fashion,46.04,47589,1785,4,Email,3853000,2.76,12.01,2.11,110567,Credit Card,10.52,3.36,Toys
+Flipkart GOAT Sale in 2020! 362,2020-01-13 15:57:11,GOAT Sale,2020,5491839.38,Books,11.2,39071,4141,5,Flipkart App,5795000,3.6,33.88,1.21,899932,Credit Card,10.8,2.83,Toys
+Flipkart Clearance Sale in 2020! 363,2020-09-12 4:42:44,Clearance Sale,2020,991279.93,Books,58.29,22561,3425,4,Email,1226000,0.3,33.24,1.77,868223,Wallet,14.42,4.81,Shoes
+Flipkart Summer Sale in 2023! 364,2023-09-13 6:29:10,Summer Sale,2023,7470497.39,Fashion,60.28,45978,6834,7,Email,8970000,3.59,21.02,1.32,765071,Debit Card,3.98,2.53,Laptop
+Flipkart Summer Sale in 2024! 365,2024-09-13 16:42:22,Summer Sale,2024,1825580.76,Home,28.15,49728,1275,5,Email,8771000,3.89,50.85,2.77,561929,Cash on Delivery,8.99,4.52,Washing Machine
+Flipkart Flash Sale in 2023! 366,2023-01-03 7:06:56,Flash Sale,2023,7319638.74,Groceries,12.23,9617,6208,3,Facebook,6771000,1.99,64.73,1.74,229747,Debit Card,12.84,2.54,Smartphone
+Flipkart Flash Sale in 2023! 367,2023-12-13 0:56:16,Flash Sale,2023,1543778.33,Groceries,47.53,7863,8050,3,Instagram,5704000,1.27,76.37,4.3,475461,Debit Card,5.36,2.9,Headphones
+Flipkart Flash Sale in 2025! 368,2025-01-10 18:49:01,Flash Sale,2025,9295641.36,Toys,32.22,5218,2125,7,Facebook,7704000,3.16,76.06,2.43,503545,UPI,3.95,3.52,Perfume
+Flipkart Summer Sale in 2022! 369,2022-12-28 15:16:30,Summer Sale,2022,7631859.68,Books,69.29,28127,3759,5,Flipkart App,4502000,2.26,55.99,4.58,494287,Wallet,2.08,4.4,Toys
+Flipkart No Cost EMI Sale in 2025! 370,2025-09-30 20:13:44,No Cost EMI Sale,2025,3465585.46,Home,44.28,11347,6331,7,Facebook,9901000,0.56,44.93,2.54,347352,Cash on Delivery,1.6,4.32,Toys
+Flipkart No Cost EMI Sale in 2025! 371,2025-06-24 15:39:41,No Cost EMI Sale,2025,3673835.54,Books,48.25,4273,429,1,Twitter,3928000,0.69,65.78,3.8,36553,Wallet,5.42,2.78,Laptop
+Flipkart Festive Sale in 2020! 372,2020-05-22 21:16:45,Festive Sale,2020,690227.23,Books,60.57,13488,4419,6,Instagram,8176000,0.3,50.62,1.54,94218,Wallet,9.16,2.75,Washing Machine
+Flipkart Clearance Sale in 2024! 373,2024-03-15 2:45:45,Clearance Sale,2024,516663.66,Beauty,64.05,46116,4263,4,Twitter,6385000,2.55,48.68,2.1,155075,UPI,4.25,3.25,Headphones
+Flipkart No Cost EMI Sale in 2020! 374,2020-06-22 8:43:11,No Cost EMI Sale,2020,6047005.47,Fashion,22.13,12625,8235,7,Facebook,5292000,3.71,26.59,1.56,428896,Cash on Delivery,7.1,3.34,Washing Machine
+Flipkart Summer Sale in 2020! 375,2020-09-25 18:24:40,Summer Sale,2020,5668558.99,Toys,63.14,24503,7003,7,Instagram,5085000,0.36,46.69,3.17,245714,UPI,9.54,3.68,Perfume
+Flipkart Big Billion Days Sale in 2024! 376,2024-08-30 23:40:47,Big Billion Days Sale,2024,1625344.3,Home,50.81,17985,4189,6,Email,9288000,1.21,31.62,4.07,77509,Credit Card,5.23,4.93,Headphones
+Flipkart Monsoon Sale in 2021! 377,2021-12-12 2:35:36,Monsoon Sale,2021,5812826.13,Toys,61.25,27893,8713,7,Email,6536000,2.18,20.59,0.71,664348,Credit Card,12.31,3.02,Books
+Flipkart Big Billion Days Sale in 2025! 378,2025-04-06 20:15:31,Big Billion Days Sale,2025,9186141.87,Toys,25.37,38892,7572,2,Instagram,3943000,1.05,37.26,4.75,398202,Credit Card,4.25,4.19,Perfume
+Flipkart Clearance Sale in 2022! 379,2022-07-03 2:12:36,Clearance Sale,2022,1481297.75,Beauty,58.73,30504,9350,3,Facebook,9341000,2.48,18.67,4.66,216920,Debit Card,10.07,3.89,Shoes
+Flipkart GOAT Sale in 2021! 380,2021-05-11 23:08:24,GOAT Sale,2021,104283.19,Fashion,36.64,2646,8586,3,Twitter,6566000,0.92,39.04,1.96,485566,Wallet,8.75,3.79,Perfume
+Flipkart Monsoon Sale in 2024! 381,2024-11-15 16:17:30,Monsoon Sale,2024,6156555.29,Electronics,41.26,40822,1952,7,Facebook,2331000,0.43,32.9,0.99,831252,Debit Card,3.26,4.89,Washing Machine
+Flipkart Winter Sale in 2025! 382,2025-01-25 6:49:40,Winter Sale,2025,3299376.07,Beauty,58.21,2059,8219,1,Flipkart App,8392000,2.59,31.37,0.61,675331,UPI,12.6,2.56,Washing Machine
+Flipkart Summer Sale in 2022! 383,2022-12-02 4:32:41,Summer Sale,2022,9369989.37,Home,5.17,27434,2217,5,Email,6545000,2.35,27.06,3.81,585563,Wallet,4.7,3.23,Washing Machine
+Flipkart Flash Sale in 2021! 384,2021-07-17 11:34:49,Flash Sale,2021,9420166.27,Toys,19.31,5317,8161,2,Facebook,6807000,1.29,10.86,2.42,93712,Cash on Delivery,10.19,3.56,Books
+Flipkart Big Billion Days Sale in 2020! 385,2020-03-01 7:33:03,Big Billion Days Sale,2020,9416328.37,Electronics,24.83,47557,5172,2,Flipkart App,9421000,4.48,57.69,4.02,915504,Credit Card,5.27,4.09,Smartphone
+Flipkart Summer Sale in 2023! 386,2023-04-11 9:15:46,Summer Sale,2023,6421781.34,Books,38.96,21030,3003,5,Email,2698000,4.07,21.09,1.28,208268,Cash on Delivery,7.47,3.06,Perfume
+Flipkart Big Billion Days Sale in 2024! 387,2024-08-14 1:22:02,Big Billion Days Sale,2024,617326.84,Electronics,60.68,8293,7099,6,Instagram,6372000,4.81,12.29,2.28,960224,Cash on Delivery,5.28,4.81,Headphones
+Flipkart Monsoon Sale in 2024! 388,2024-06-10 23:25:04,Monsoon Sale,2024,2885912.89,Groceries,14.48,31523,4819,2,Instagram,9303000,4.09,64.4,0.6,437243,Credit Card,7.13,4.09,Books
+Flipkart Festive Sale in 2021! 389,2021-11-23 14:46:14,Festive Sale,2021,1901521.25,Books,67.55,28337,5131,6,Twitter,6844000,3.13,62.76,4.89,450959,Wallet,13.26,2.92,Washing Machine
+Flipkart GOAT Sale in 2025! 390,2025-09-19 5:22:00,GOAT Sale,2025,2389293.49,Toys,33.78,2348,400,5,Flipkart App,2453000,1.73,65.75,4.19,333893,UPI,5.12,4.95,Shoes
+Flipkart Monsoon Sale in 2024! 391,2024-05-12 15:34:37,Monsoon Sale,2024,3860496.57,Beauty,51.77,2758,6113,4,Instagram,3313000,1.48,65.13,1.79,788699,Credit Card,11.26,3.51,Shoes
+Flipkart Deal of the Day in 2020! 392,2020-09-29 23:23:35,Deal of the Day,2020,8438908.31,Sports,7.29,31334,3774,7,Flipkart App,6607000,3.05,48.86,4.52,592871,Credit Card,9.62,3.4,Books
+Flipkart Clearance Sale in 2020! 393,2020-01-06 15:11:19,Clearance Sale,2020,125242.91,Fashion,18.97,41186,5936,7,Facebook,4362000,2.55,11.04,4.43,474338,UPI,8.53,2.68,Books
+Flipkart Summer Sale in 2025! 394,2025-09-22 5:00:08,Summer Sale,2025,375888.78,Toys,43.17,17309,7773,3,Flipkart App,4904000,0.93,72.71,1.9,740517,Cash on Delivery,6.25,3.71,Perfume
+Flipkart Clearance Sale in 2024! 395,2024-03-29 6:04:51,Clearance Sale,2024,5222284.98,Toys,67.27,7266,9550,4,Instagram,7159000,0.43,40.15,4.51,530069,Cash on Delivery,1.1,3,Toys
+Flipkart No Cost EMI Sale in 2021! 396,2021-11-24 17:01:03,No Cost EMI Sale,2021,2965341.41,Fashion,18.76,45928,8952,2,Instagram,1509000,3.08,54.95,3.9,586231,Credit Card,12.64,4.54,Smartphone
+Flipkart Winter Sale in 2020! 397,2020-07-25 5:32:44,Winter Sale,2020,3976162.35,Home,48.26,19384,4485,4,Twitter,7464000,2.56,43.67,1.15,260824,UPI,14.32,4.63,Perfume
+Flipkart Clearance Sale in 2022! 398,2022-04-03 11:58:55,Clearance Sale,2022,7551192.96,Toys,58.26,25152,4666,2,Email,5470000,1.33,47.02,2.32,723743,Debit Card,14.1,2.55,Books
+Flipkart No Cost EMI Sale in 2020! 399,2020-10-08 14:29:26,No Cost EMI Sale,2020,6944980.49,Groceries,49.22,13209,4134,2,Instagram,1427000,0.79,60,0.7,600600,Credit Card,11.14,3.14,Smartphone
+Flipkart GOAT Sale in 2024! 400,2024-12-19 10:30:43,GOAT Sale,2024,4204894.99,Sports,48.04,15956,1341,6,Facebook,3675000,3.77,77.58,1.21,40387,Wallet,8.37,3.88,Perfume
+Flipkart Flash Sale in 2024! 401,2024-03-13 16:59:24,Flash Sale,2024,8674272.67,Books,18.4,8786,4152,1,Facebook,1674000,1.22,73.1,3.89,801673,Wallet,12.32,4.08,Smartphone
+Flipkart Flash Sale in 2020! 402,2020-05-09 0:05:40,Flash Sale,2020,9792944.18,Fashion,37.76,16837,7880,7,Twitter,1927000,1.76,58.78,3.23,141354,Cash on Delivery,5.47,3,Washing Machine
+Flipkart Clearance Sale in 2020! 403,2020-07-20 4:50:58,Clearance Sale,2020,430716.31,Beauty,19.65,28924,1251,5,Email,9050000,1.33,32.3,4.87,879161,Debit Card,9.62,5,Books
+Flipkart Clearance Sale in 2025! 404,2025-06-04 19:52:33,Clearance Sale,2025,6079036.96,Electronics,41.88,18083,7864,3,Flipkart App,9223000,0.81,41.19,3.72,432235,Wallet,2.12,4.23,Laptop
+Flipkart Deal of the Day in 2022! 405,2022-06-20 11:47:29,Deal of the Day,2022,8474076.64,Beauty,49.27,43385,8504,3,Flipkart App,2801000,4.88,75.74,4.97,47169,Wallet,5.55,3.47,Laptop
+Flipkart Monsoon Sale in 2025! 406,2025-11-06 4:28:55,Monsoon Sale,2025,1427341.9,Books,57.37,39597,5654,5,Instagram,2963000,4.42,54.78,1.19,799032,UPI,4.45,2.98,Washing Machine
+Flipkart Clearance Sale in 2020! 407,2020-04-27 5:30:54,Clearance Sale,2020,3764434.81,Toys,42.42,25102,9728,6,Twitter,2809000,0.26,74.61,3.4,518495,Credit Card,2.73,4.2,Smartphone
+Flipkart GOAT Sale in 2021! 408,2021-10-28 8:24:29,GOAT Sale,2021,5515442.39,Books,20.73,14401,1000,7,Twitter,1792000,4.68,33.75,2.05,354846,UPI,7.37,4.29,Shoes
+Flipkart Summer Sale in 2021! 409,2021-11-17 1:50:04,Summer Sale,2021,8850094.15,Groceries,27.22,24735,7671,6,Facebook,5425000,2.03,65.16,4.15,862643,UPI,2.08,4.31,Laptop
+Flipkart Winter Sale in 2021! 410,2021-08-29 14:31:27,Winter Sale,2021,2816986.16,Toys,54.06,17050,3477,2,Instagram,4679000,1.76,58.91,3.4,578561,Credit Card,12.89,4.45,Smartphone
+Flipkart Clearance Sale in 2021! 411,2021-07-16 20:58:04,Clearance Sale,2021,9399854.7,Home,55.53,3389,437,7,Instagram,1696000,2.74,15.2,3.01,241130,Credit Card,13.78,2.53,Smartphone
+Flipkart Monsoon Sale in 2021! 412,2021-03-23 18:41:08,Monsoon Sale,2021,5749940.06,Books,50.95,39926,9410,6,Facebook,3174000,0.7,57.63,2.98,27644,Credit Card,5.14,4.69,Laptop
+Flipkart GOAT Sale in 2020! 413,2020-04-27 13:10:17,GOAT Sale,2020,3791490.21,Toys,37.57,1210,1028,3,Instagram,7130000,1.37,74.6,3.62,773193,Debit Card,2.88,4.81,Perfume
+Flipkart Summer Sale in 2021! 414,2021-09-03 16:13:20,Summer Sale,2021,8904828.07,Books,65.4,22745,5933,4,Facebook,5260000,1.26,56.43,2.83,951921,Cash on Delivery,3.33,4.57,Smartphone
+Flipkart Summer Sale in 2025! 415,2025-07-23 9:18:22,Summer Sale,2025,7264068.18,Electronics,67.35,12720,7473,3,Twitter,4863000,1.85,65.01,1.97,888320,UPI,6.81,3.48,Smartphone
+Flipkart Deal of the Day in 2023! 416,2023-12-09 8:39:07,Deal of the Day,2023,6685310.54,Books,68.69,24241,1906,7,Flipkart App,5827000,3.68,49.94,1.71,52967,Wallet,10.46,2.92,Washing Machine
+Flipkart GOAT Sale in 2025! 417,2025-06-08 18:12:56,GOAT Sale,2025,7433933.47,Fashion,8,28462,290,2,Flipkart App,6770000,1.35,18.48,2.95,881498,UPI,7.18,3.38,Headphones
+Flipkart Big Billion Days Sale in 2025! 418,2025-04-04 10:57:11,Big Billion Days Sale,2025,5169410.78,Toys,51.14,28197,5994,1,Twitter,6372000,0.41,60.89,0.94,909256,Cash on Delivery,14.53,3.25,Books
+Flipkart Clearance Sale in 2024! 419,2024-12-16 12:49:55,Clearance Sale,2024,1660144.45,Groceries,30.54,7660,4940,6,Facebook,9972000,2.45,26.25,2.46,649715,Cash on Delivery,11.24,4.27,Laptop
+Flipkart Winter Sale in 2023! 420,2023-03-26 11:37:28,Winter Sale,2023,3375518.27,Groceries,10.75,34035,9050,2,Flipkart App,5035000,1.39,47.81,2.78,470827,Debit Card,3.02,3.31,Laptop
+Flipkart Winter Sale in 2021! 421,2021-03-22 7:00:16,Winter Sale,2021,8874373.16,Fashion,33.1,2138,1404,3,Flipkart App,9647000,2.72,52.74,1.74,556838,Debit Card,12.88,3.83,Headphones
+Flipkart Flash Sale in 2024! 422,2024-05-23 18:10:41,Flash Sale,2024,684806.45,Fashion,8.34,49499,9179,1,Email,9464000,0.89,74.04,3.61,778567,UPI,11.27,4.53,Shoes
+Flipkart Flash Sale in 2024! 423,2024-07-14 11:32:49,Flash Sale,2024,2152154.13,Sports,16.47,41612,9682,3,Twitter,1962000,1.42,68.82,4.54,816907,Wallet,10.13,3.1,Smartphone
+Flipkart Flash Sale in 2020! 424,2020-09-03 6:46:24,Flash Sale,2020,3457038.89,Electronics,54.47,44578,1603,6,Instagram,1377000,3.7,22.18,0.77,251363,Credit Card,9.24,2.69,Toys
+Flipkart No Cost EMI Sale in 2021! 425,2021-10-13 18:47:56,No Cost EMI Sale,2021,1049299.8,Groceries,55.47,38206,8273,6,Flipkart App,6529000,4.35,76.75,0.52,17969,Cash on Delivery,3.61,4.49,Perfume
+Flipkart Clearance Sale in 2022! 426,2022-02-28 16:08:33,Clearance Sale,2022,4708675.84,Groceries,33.08,8952,2005,1,Email,1084000,3.07,79.98,4.63,53538,Wallet,12.24,4.5,Books
+Flipkart GOAT Sale in 2025! 427,2025-09-11 3:51:40,GOAT Sale,2025,8220192.84,Electronics,41.4,42993,5370,5,Flipkart App,542000,2,43.59,3.79,285119,Credit Card,10.19,3.42,Smartphone
+Flipkart Festive Sale in 2022! 428,2022-11-25 0:23:06,Festive Sale,2022,7572996.42,Beauty,40.6,43485,9242,4,Email,6695000,2.75,59.64,3.04,994773,UPI,10.72,4.2,Perfume
+Flipkart Summer Sale in 2024! 429,2024-05-25 23:21:46,Summer Sale,2024,7680267.34,Toys,52.24,40457,7146,2,Twitter,4684000,0.74,22.44,3.33,18808,Wallet,7.27,4.65,Laptop
+Flipkart Festive Sale in 2025! 430,2025-01-27 9:07:39,Festive Sale,2025,307728.56,Toys,9.38,35186,2732,4,Instagram,3809000,0.76,54.76,0.86,692590,Debit Card,3.5,4.31,Shoes
+Flipkart Monsoon Sale in 2023! 431,2023-05-13 8:30:02,Monsoon Sale,2023,624290.44,Fashion,61.8,45828,3804,4,Flipkart App,6714000,4.54,28.65,3.19,373502,UPI,13.69,2.86,Washing Machine
+Flipkart Deal of the Day in 2025! 432,2025-05-18 15:58:36,Deal of the Day,2025,4106378.47,Fashion,14.67,10855,3347,3,Instagram,7358000,3.53,34.03,2.51,690171,Cash on Delivery,5.91,3.24,Washing Machine
+Flipkart Monsoon Sale in 2024! 433,2024-01-09 0:50:37,Monsoon Sale,2024,4275605.51,Beauty,28.6,37838,5101,4,Flipkart App,1343000,2.81,31.78,4.98,38286,Debit Card,10.05,4.2,Smartphone
+Flipkart Flash Sale in 2024! 434,2024-05-31 7:58:41,Flash Sale,2024,8891479.1,Electronics,18.82,26743,4834,7,Flipkart App,2090000,3.4,15.26,3.8,648212,Debit Card,10.08,4.02,Headphones
+Flipkart Winter Sale in 2024! 435,2024-11-13 17:08:55,Winter Sale,2024,2793837.58,Electronics,10.34,1118,8129,6,Facebook,4777000,3,77.22,3.77,98375,Wallet,10.26,4.65,Laptop
+Flipkart Deal of the Day in 2020! 436,2020-10-04 15:24:40,Deal of the Day,2020,6216969.09,Groceries,28.54,7135,7947,5,Email,5262000,0.7,76.78,2.42,571798,Credit Card,14.28,3.48,Laptop
+Flipkart Big Billion Days Sale in 2022! 437,2022-04-08 13:47:37,Big Billion Days Sale,2022,9827715.13,Groceries,65.85,5206,8790,5,Facebook,2631000,4.01,36.61,0.68,591600,Cash on Delivery,13.99,4,Shoes
+Flipkart No Cost EMI Sale in 2022! 438,2022-06-23 11:14:27,No Cost EMI Sale,2022,3420530.63,Electronics,56.13,21763,6698,4,Instagram,3702000,0.81,32.29,0.7,645833,Debit Card,10.17,4.74,Shoes
+Flipkart Monsoon Sale in 2022! 439,2022-03-11 12:56:15,Monsoon Sale,2022,7598824.91,Fashion,7.64,13693,782,2,Flipkart App,8785000,4.66,57.34,3.99,547589,Debit Card,8.6,2.74,Perfume
+Flipkart Festive Sale in 2023! 440,2023-10-02 7:21:12,Festive Sale,2023,8288564.97,Books,22.93,17207,6401,4,Facebook,5797000,2.66,20.7,4.35,161278,Wallet,10.03,4.9,Books
+Flipkart GOAT Sale in 2020! 441,2020-08-20 5:41:14,GOAT Sale,2020,6120135.16,Beauty,20.95,40811,4532,3,Flipkart App,2231000,3.31,44.08,4.2,847840,UPI,14.26,4.86,Toys
+Flipkart No Cost EMI Sale in 2021! 442,2021-07-22 14:15:49,No Cost EMI Sale,2021,8765798.1,Electronics,14.78,11100,6036,5,Email,1563000,3.74,70.95,4.89,691492,UPI,11.63,4.78,Shoes
+Flipkart Festive Sale in 2021! 443,2021-06-29 12:33:43,Festive Sale,2021,7801783.22,Beauty,35,18784,8665,3,Instagram,4059000,4.26,27.06,2.21,939855,UPI,13.63,4.42,Books
+Flipkart Clearance Sale in 2024! 444,2024-05-20 21:41:13,Clearance Sale,2024,5185784.19,Sports,34.07,12533,3048,3,Facebook,7187000,3.42,52.04,4.37,26413,Cash on Delivery,7.24,2.88,Smartphone
+Flipkart Summer Sale in 2020! 445,2020-09-20 8:59:47,Summer Sale,2020,1380854.17,Fashion,20.39,42831,254,7,Flipkart App,4093000,4.65,50.04,1.19,621391,Debit Card,10.58,2.64,Toys
+Flipkart Winter Sale in 2020! 446,2020-06-02 0:24:29,Winter Sale,2020,2387335.9,Electronics,54.57,4255,1728,2,Facebook,9894000,4.04,46.87,3.13,200130,Wallet,10.85,4.56,Headphones
+Flipkart Flash Sale in 2021! 447,2021-06-21 8:45:32,Flash Sale,2021,9259387.42,Groceries,9.54,2031,2554,4,Flipkart App,8518000,1.03,73.3,3.6,510450,Credit Card,5.93,3.84,Books
+Flipkart Deal of the Day in 2025! 448,2025-03-30 17:26:15,Deal of the Day,2025,3938899.38,Books,26.8,45525,288,3,Flipkart App,5493000,0.18,54.45,3.53,956235,Wallet,6.73,3.85,Laptop
+Flipkart Deal of the Day in 2023! 449,2023-02-11 23:51:58,Deal of the Day,2023,7304495.98,Toys,20.3,19653,7430,7,Facebook,6720000,2.69,62.86,1.76,690454,Wallet,5.22,4.64,Shoes
+Flipkart Deal of the Day in 2020! 450,2020-05-13 13:56:10,Deal of the Day,2020,3162809.64,Books,53.63,29046,6691,6,Email,9050000,3.04,48.15,1.28,629422,Credit Card,13.97,2.84,Smartphone
+Flipkart Big Billion Days Sale in 2021! 451,2021-02-24 19:52:14,Big Billion Days Sale,2021,7565536.17,Sports,65.92,5176,4264,5,Flipkart App,5521000,2.39,27.86,0.58,363067,Debit Card,9.25,2.54,Laptop
+Flipkart No Cost EMI Sale in 2025! 452,2025-05-25 9:01:04,No Cost EMI Sale,2025,1304119.78,Electronics,64.63,15582,5025,3,Email,7454000,4.57,21.91,1.26,346044,Wallet,5.22,4.72,Headphones
+Flipkart Monsoon Sale in 2024! 453,2024-02-15 22:53:03,Monsoon Sale,2024,4713893.77,Fashion,32.26,31302,6143,3,Email,6244000,0.82,38.31,3.45,296352,Credit Card,6.26,4.59,Shoes
+Flipkart Deal of the Day in 2023! 454,2023-05-11 12:56:52,Deal of the Day,2023,9378624.29,Books,23.66,14775,8740,4,Instagram,1319000,0.71,57.88,4.41,561032,Cash on Delivery,8.33,4.79,Laptop
+Flipkart Deal of the Day in 2022! 455,2022-10-30 10:24:59,Deal of the Day,2022,1522609.7,Books,29.66,22869,9228,7,Email,7465000,1.07,56.21,4.58,220551,UPI,6.75,4.41,Laptop
+Flipkart Summer Sale in 2022! 456,2022-03-27 21:42:38,Summer Sale,2022,6598667.63,Fashion,37.52,35302,7729,4,Flipkart App,7680000,2.26,25.05,4.4,276244,Credit Card,12.28,4.6,Perfume
+Flipkart Big Billion Days Sale in 2022! 457,2022-06-12 20:18:59,Big Billion Days Sale,2022,9061446.29,Groceries,51.78,2356,4482,7,Flipkart App,5844000,4.93,37.34,3.47,765174,Wallet,14.9,4.11,Shoes
+Flipkart No Cost EMI Sale in 2024! 458,2024-10-30 19:04:57,No Cost EMI Sale,2024,7648092.25,Sports,47.76,44480,854,1,Twitter,5754000,4.39,20.84,1.75,746144,Wallet,8.75,3.13,Perfume
+Flipkart Big Billion Days Sale in 2021! 459,2021-04-04 23:11:42,Big Billion Days Sale,2021,6212419,Electronics,50.54,26025,3690,4,Instagram,9630000,1.07,25.58,1.27,123229,Debit Card,13.65,4.46,Perfume
+Flipkart No Cost EMI Sale in 2022! 460,2022-09-14 5:26:34,No Cost EMI Sale,2022,8772331.87,Sports,59.62,20048,1662,1,Facebook,2029000,3.07,10.16,0.76,217971,Wallet,6.61,4.08,Perfume
+Flipkart Festive Sale in 2024! 461,2024-01-05 19:00:54,Festive Sale,2024,1203393.8,Groceries,27.27,39294,7889,1,Email,3525000,2.59,72.6,1.88,532755,Cash on Delivery,6.75,3.36,Books
+Flipkart Big Billion Days Sale in 2024! 462,2024-12-30 7:02:00,Big Billion Days Sale,2024,8598960.26,Books,27.51,26670,5294,6,Flipkart App,7507000,3.84,42.95,4.91,193150,UPI,8.01,4.42,Perfume
+Flipkart Monsoon Sale in 2025! 463,2025-04-06 4:39:07,Monsoon Sale,2025,8096036.34,Toys,48,13225,396,7,Email,1366000,2.88,30.47,0.66,212921,Cash on Delivery,12.25,3.82,Washing Machine
+Flipkart Festive Sale in 2024! 464,2024-11-04 23:59:11,Festive Sale,2024,2363859.44,Beauty,65.71,49075,2613,4,Flipkart App,2076000,0.88,63.3,3.87,91122,Wallet,1.24,4.24,Laptop
+Flipkart Clearance Sale in 2023! 465,2023-04-19 1:01:46,Clearance Sale,2023,2801120.31,Beauty,49.54,31022,9182,4,Twitter,2739000,4.92,52.63,4.03,426943,Credit Card,14.81,4.74,Headphones
+Flipkart Big Billion Days Sale in 2024! 466,2024-04-11 12:07:48,Big Billion Days Sale,2024,3741782.07,Beauty,36.64,37670,4548,5,Email,5358000,3.54,61.3,3.57,591505,UPI,11.77,4.5,Headphones
+Flipkart Summer Sale in 2023! 467,2023-01-02 8:25:35,Summer Sale,2023,2430266.56,Sports,16.17,44763,1236,6,Flipkart App,4483000,2.44,76.91,1.64,18701,Wallet,3.04,2.79,Laptop
+Flipkart No Cost EMI Sale in 2021! 468,2021-01-29 13:51:54,No Cost EMI Sale,2021,7450220.46,Electronics,67.02,38123,4587,1,Email,9243000,1.15,16.73,3.01,986332,Debit Card,10.31,4.16,Washing Machine
+Flipkart Winter Sale in 2021! 469,2021-09-27 14:59:28,Winter Sale,2021,9000470.39,Beauty,30.53,17091,4881,3,Email,6153000,1.21,41.05,2.3,884764,Wallet,13.34,4.86,Washing Machine
+Flipkart GOAT Sale in 2021! 470,2021-08-29 12:51:43,GOAT Sale,2021,9833493.54,Groceries,48.7,31901,8584,3,Instagram,7637000,3.94,54.13,2.5,552187,Wallet,9,4.97,Shoes
+Flipkart Deal of the Day in 2022! 471,2022-10-31 3:37:56,Deal of the Day,2022,7023705.43,Sports,6.09,1959,8417,2,Flipkart App,1065000,2.83,15.99,0.83,550055,Wallet,2.48,4.31,Perfume
+Flipkart Festive Sale in 2025! 472,2025-03-24 0:48:15,Festive Sale,2025,1292217.86,Home,54.65,25861,2142,2,Instagram,1006000,1.05,59.56,1.39,534696,Cash on Delivery,13.95,3.15,Shoes
+Flipkart Flash Sale in 2024! 473,2024-01-14 11:16:31,Flash Sale,2024,7041244.54,Electronics,46.25,31290,7394,5,Instagram,2459000,2.7,26.89,3.25,350170,UPI,3.62,4.95,Toys
+Flipkart Monsoon Sale in 2021! 474,2021-10-09 4:13:36,Monsoon Sale,2021,560960.01,Sports,46.38,14047,3643,1,Flipkart App,5271000,3.39,73.01,4.86,29686,Debit Card,14.49,3.22,Toys
+Flipkart Clearance Sale in 2023! 475,2023-05-26 6:12:23,Clearance Sale,2023,9838365.44,Sports,54.89,14113,8952,5,Flipkart App,8970000,4.78,74.38,1.66,229156,Wallet,2.51,3.53,Shoes
+Flipkart Deal of the Day in 2024! 476,2024-11-16 22:13:54,Deal of the Day,2024,8919814.97,Toys,40.16,22176,7941,1,Flipkart App,2216000,3.1,57.17,2.9,323378,UPI,3.29,2.52,Headphones
+Flipkart Monsoon Sale in 2025! 477,2025-10-07 12:24:52,Monsoon Sale,2025,5152277.23,Toys,50.22,13283,3773,3,Twitter,9930000,1.14,41.77,2.03,902198,Debit Card,12.35,2.59,Toys
+Flipkart No Cost EMI Sale in 2022! 478,2022-06-20 7:19:10,No Cost EMI Sale,2022,1835830.92,Beauty,30.52,10098,4794,6,Facebook,6090000,1.14,79.75,2.71,974603,Debit Card,2.51,3.7,Washing Machine
+Flipkart No Cost EMI Sale in 2021! 479,2021-01-24 20:44:26,No Cost EMI Sale,2021,6678560.4,Groceries,66.6,1451,8259,3,Instagram,7527000,2.53,39.75,2.04,849410,Wallet,4.77,2.67,Shoes
+Flipkart Flash Sale in 2023! 480,2023-07-08 6:17:38,Flash Sale,2023,567541.13,Toys,5.85,35973,5078,4,Instagram,4708000,4.57,44.75,2.39,548018,UPI,11.64,4.53,Laptop
+Flipkart Clearance Sale in 2020! 481,2020-07-11 19:44:12,Clearance Sale,2020,6068175.64,Sports,53.32,26011,2238,4,Flipkart App,8923000,2.81,14.93,2.69,822696,Cash on Delivery,7.11,3.24,Washing Machine
+Flipkart Big Billion Days Sale in 2023! 482,2023-01-14 16:56:41,Big Billion Days Sale,2023,5751214.39,Electronics,6.26,8015,6044,6,Flipkart App,2589000,4.46,44.59,3.28,296984,Debit Card,1.19,3.25,Smartphone
+Flipkart GOAT Sale in 2020! 483,2020-09-03 12:39:43,GOAT Sale,2020,9043826.5,Electronics,52.28,3681,2975,6,Twitter,2978000,2.86,51.74,2.59,123086,Credit Card,1.77,2.69,Smartphone
+Flipkart Festive Sale in 2024! 484,2024-03-30 13:48:16,Festive Sale,2024,1158819.95,Fashion,19.72,24060,2733,7,Flipkart App,6922000,4.57,78.6,2.04,775574,Wallet,8,2.6,Shoes
+Flipkart Winter Sale in 2021! 485,2021-02-26 9:37:09,Winter Sale,2021,3869280.39,Fashion,28.76,33209,7580,2,Flipkart App,2836000,4.59,21.42,4.76,627955,Cash on Delivery,14.52,2.57,Smartphone
+Flipkart Big Billion Days Sale in 2021! 486,2021-08-07 3:56:46,Big Billion Days Sale,2021,2013490.97,Beauty,30.24,36117,2014,2,Twitter,8478000,2.06,58.4,1.56,443515,Wallet,14.27,2.75,Laptop
+Flipkart No Cost EMI Sale in 2025! 487,2025-02-20 21:33:52,No Cost EMI Sale,2025,841437.47,Electronics,51.06,28169,5799,1,Instagram,2448000,0.25,65.95,4.21,183286,Credit Card,2.86,3.6,Perfume
+Flipkart Festive Sale in 2020! 488,2020-10-17 16:50:45,Festive Sale,2020,9846745.59,Toys,40.7,33630,2111,6,Facebook,8372000,1.24,22.5,2.48,696047,Debit Card,3.85,4.2,Perfume
+Flipkart Festive Sale in 2025! 489,2025-07-10 23:32:25,Festive Sale,2025,1736596.99,Fashion,33.14,27609,2755,2,Email,8427000,2.22,78.18,3.57,812905,UPI,11.86,3.63,Perfume
+Flipkart Monsoon Sale in 2023! 490,2023-12-06 9:26:47,Monsoon Sale,2023,1976506.41,Electronics,63.72,21057,7917,6,Instagram,6156000,4.4,62.37,3.29,857026,Credit Card,13.5,3.91,Washing Machine
+Flipkart Flash Sale in 2024! 491,2024-10-20 8:24:29,Flash Sale,2024,9576576.83,Electronics,69.92,4993,6657,7,Instagram,5720000,0.37,31.19,0.79,560126,Cash on Delivery,11.39,4.09,Perfume
+Flipkart GOAT Sale in 2020! 492,2020-11-20 20:22:58,GOAT Sale,2020,3039271.81,Toys,25.65,31135,1637,1,Flipkart App,9700000,2,60.14,1.87,95617,Debit Card,1.41,3.97,Perfume
+Flipkart Summer Sale in 2024! 493,2024-12-07 2:55:17,Summer Sale,2024,2471802.02,Books,32.08,48852,1031,7,Twitter,3638000,2.55,32.13,3.22,130855,UPI,7.36,3.38,Shoes
+Flipkart Summer Sale in 2024! 494,2024-01-05 20:43:58,Summer Sale,2024,4285512.47,Home,55.38,18359,8537,4,Flipkart App,3788000,2.27,75.22,2.49,682968,Cash on Delivery,2.66,4.9,Shoes
+Flipkart Summer Sale in 2024! 495,2024-12-16 11:27:51,Summer Sale,2024,1834893,Home,41.35,5720,5615,3,Instagram,5613000,2.33,51.4,2.45,37752,Credit Card,1.47,2.97,Smartphone
+Flipkart Winter Sale in 2023! 496,2023-10-20 12:15:14,Winter Sale,2023,4079267.36,Groceries,68.38,6235,303,5,Facebook,4360000,4.51,42.76,2.27,605136,Wallet,13.55,2.6,Smartphone
+Flipkart Monsoon Sale in 2021! 497,2021-10-23 14:13:36,Monsoon Sale,2021,3992514.53,Home,50.15,34235,9888,3,Facebook,1124000,3,74.33,2.54,764994,Wallet,10.46,3.04,Toys
+Flipkart Festive Sale in 2021! 498,2021-05-28 6:19:20,Festive Sale,2021,9291469.95,Sports,27.31,27905,8093,7,Facebook,782000,2.34,73.74,3.77,80138,Cash on Delivery,12.53,4.23,Washing Machine
+Flipkart Monsoon Sale in 2020! 499,2020-06-04 9:56:25,Monsoon Sale,2020,2633016.33,Books,21.44,37923,9463,2,Facebook,2086000,4.85,32.01,3.86,335136,Wallet,9.13,3.94,Books
+Flipkart Clearance Sale in 2023! 500,2023-10-06 18:29:02,Clearance Sale,2023,8677807.99,Home,9.67,18736,507,6,Twitter,3813000,3.49,57.2,2.39,539937,Debit Card,14.99,3.15,Washing Machine
+Flipkart Summer Sale in 2020! 501,2020-11-05 8:04:51,Summer Sale,2020,964628.48,Beauty,65.54,28927,9819,6,Instagram,3917000,3.89,13.99,3.17,808406,UPI,4.12,3.96,Perfume
+Flipkart Winter Sale in 2025! 502,2025-12-03 6:32:50,Winter Sale,2025,9714963.02,Beauty,53.05,34957,5285,2,Email,9678000,1.95,54.71,0.71,354521,Wallet,6.41,5,Shoes
+Flipkart Summer Sale in 2022! 503,2022-01-23 15:59:37,Summer Sale,2022,6542309.02,Sports,31.17,43748,9822,6,Flipkart App,5335000,4.54,65.98,3.17,186725,Cash on Delivery,3.04,4.05,Laptop
+Flipkart Flash Sale in 2023! 504,2023-02-16 7:22:35,Flash Sale,2023,4114936.15,Electronics,62.49,41173,4741,4,Facebook,2113000,3.95,54.04,1.84,399587,Debit Card,12.63,3.19,Perfume
+Flipkart Monsoon Sale in 2023! 505,2023-08-10 2:05:47,Monsoon Sale,2023,4298839.83,Sports,40.74,11163,2127,2,Facebook,2896000,0.15,23.94,2.64,133484,Debit Card,1.32,4.74,Washing Machine
+Flipkart GOAT Sale in 2023! 506,2023-03-22 0:59:59,GOAT Sale,2023,6167029.55,Home,51.46,37720,3405,1,Flipkart App,2209000,2.08,71.04,1.56,236049,UPI,8.82,4.72,Headphones
+Flipkart Big Billion Days Sale in 2020! 507,2020-04-23 21:44:44,Big Billion Days Sale,2020,8467312.02,Toys,7.79,33426,3368,6,Twitter,7263000,3.43,59.11,4.31,939750,Wallet,7.04,3.61,Headphones
+Flipkart Big Billion Days Sale in 2024! 508,2024-10-18 6:00:55,Big Billion Days Sale,2024,6884724.69,Sports,38.36,12050,810,5,Twitter,4520000,0.55,51.61,4.45,887096,Cash on Delivery,10.43,3.33,Laptop
+Flipkart Summer Sale in 2021! 509,2021-12-09 3:43:00,Summer Sale,2021,2055218.21,Electronics,32.05,6883,8661,2,Twitter,1528000,0.91,59.27,3.63,808224,Debit Card,12.55,2.77,Shoes
+Flipkart Deal of the Day in 2023! 510,2023-01-15 22:11:40,Deal of the Day,2023,759008.39,Fashion,47.86,35288,9997,5,Instagram,5342000,3.13,70.97,1.25,241755,Debit Card,13.32,3.08,Toys
+Flipkart Clearance Sale in 2024! 511,2024-08-09 5:05:48,Clearance Sale,2024,6587994.65,Electronics,22.31,46583,363,6,Instagram,931000,0.54,24.42,1.19,772300,Wallet,10.65,4.69,Laptop
+Flipkart Deal of the Day in 2023! 512,2023-02-04 17:28:11,Deal of the Day,2023,2929324.37,Groceries,5.5,23353,7733,1,Facebook,2983000,1.45,15.72,1.76,980906,Credit Card,12.25,3.5,Washing Machine
+Flipkart Monsoon Sale in 2020! 513,2020-07-25 16:49:30,Monsoon Sale,2020,8575491.51,Electronics,16.7,16339,1568,7,Facebook,7178000,4.62,15.57,0.76,967578,Debit Card,4.5,4.97,Shoes
+Flipkart Big Billion Days Sale in 2025! 514,2025-01-06 20:49:42,Big Billion Days Sale,2025,888672,Books,58.03,25865,8865,6,Instagram,4799000,1.48,38.89,3.14,43376,Credit Card,5.97,4.02,Perfume
+Flipkart No Cost EMI Sale in 2020! 515,2020-07-18 16:05:10,No Cost EMI Sale,2020,9068958.93,Beauty,63.51,39886,8947,2,Twitter,7208000,4.92,42.88,2.15,60543,UPI,12.36,3.16,Laptop
+Flipkart Clearance Sale in 2023! 516,2023-04-17 0:32:20,Clearance Sale,2023,5264651.3,Sports,26.77,10263,1167,2,Flipkart App,3634000,2.57,56.47,3.54,669535,UPI,8.7,4.2,Washing Machine
+Flipkart Winter Sale in 2022! 517,2022-08-02 22:22:00,Winter Sale,2022,5978783.8,Electronics,31,17435,4002,3,Facebook,4756000,2.71,15.37,2.51,435658,Debit Card,13.4,2.59,Washing Machine
+Flipkart Summer Sale in 2020! 518,2020-08-12 20:35:54,Summer Sale,2020,849783.38,Books,14.56,9926,1996,4,Twitter,8007000,1.78,28.97,0.85,453263,Cash on Delivery,2.43,3.6,Headphones
+Flipkart No Cost EMI Sale in 2020! 519,2020-07-26 18:37:08,No Cost EMI Sale,2020,8100706.51,Home,5.48,27317,5711,6,Facebook,1469000,1.89,63.46,4.42,51557,Wallet,9.38,3.85,Smartphone
+Flipkart GOAT Sale in 2021! 520,2021-07-22 11:10:55,GOAT Sale,2021,6814810.42,Groceries,39.7,41606,9014,7,Instagram,5496000,1.66,78.95,2.17,455951,Credit Card,8.06,4.6,Smartphone
+Flipkart Summer Sale in 2020! 521,2020-10-13 22:38:26,Summer Sale,2020,8880184.64,Home,59.09,4226,4879,1,Instagram,685000,3.71,10.48,3.27,301186,Wallet,9.21,2.54,Toys
+Flipkart Deal of the Day in 2020! 522,2020-09-01 12:39:50,Deal of the Day,2020,1976201.23,Toys,49.66,35095,5535,4,Flipkart App,9466000,0.76,26.73,4.27,51333,Cash on Delivery,2.71,3.69,Smartphone
+Flipkart Flash Sale in 2025! 523,2025-07-13 10:59:56,Flash Sale,2025,1825728.08,Electronics,63.3,41113,7781,5,Flipkart App,7250000,3.87,14.2,4.98,36854,Debit Card,2.7,4.38,Washing Machine
+Flipkart Clearance Sale in 2024! 524,2024-11-08 12:14:13,Clearance Sale,2024,6099318,Electronics,44.46,44625,3017,4,Instagram,2438000,2.17,70.56,4.4,213185,Credit Card,6.29,4.09,Washing Machine
+Flipkart No Cost EMI Sale in 2025! 525,2025-12-09 6:06:52,No Cost EMI Sale,2025,4196715.89,Books,36.26,16012,5938,3,Twitter,2953000,2.46,39.72,3.46,338332,Wallet,10.18,4.75,Shoes
+Flipkart Summer Sale in 2020! 526,2020-10-30 21:23:53,Summer Sale,2020,2274766.22,Fashion,59.97,30354,808,5,Flipkart App,5639000,0.11,72.46,2.67,613319,Wallet,9.15,4.62,Books
+Flipkart GOAT Sale in 2023! 527,2023-10-31 2:09:15,GOAT Sale,2023,811789.12,Toys,56.05,17561,8625,6,Facebook,2030000,1.15,72.03,1.98,23452,Cash on Delivery,4.5,3.92,Shoes
+Flipkart GOAT Sale in 2021! 528,2021-02-21 6:51:24,GOAT Sale,2021,9133772.8,Beauty,61.21,31326,4620,2,Email,7919000,3.17,40.85,3.2,255079,UPI,7.62,4,Headphones
+Flipkart Big Billion Days Sale in 2020! 529,2020-03-03 11:29:48,Big Billion Days Sale,2020,898552.04,Groceries,42.7,41750,6085,2,Email,3614000,2.21,34.14,2.12,964370,UPI,8.4,4.76,Washing Machine
+Flipkart Clearance Sale in 2025! 530,2025-07-08 23:41:20,Clearance Sale,2025,7509706.99,Home,6.14,11222,8779,1,Flipkart App,2213000,4.6,12.48,1.79,874036,Cash on Delivery,6.87,4.61,Shoes
+Flipkart Festive Sale in 2025! 531,2025-12-19 6:47:02,Festive Sale,2025,545477.4,Electronics,46.73,13986,1857,5,Facebook,7538000,3.42,63.76,4.72,829585,Cash on Delivery,8.4,4.04,Headphones
+Flipkart No Cost EMI Sale in 2023! 532,2023-03-13 14:23:20,No Cost EMI Sale,2023,1623533.72,Books,68.89,15878,8890,5,Facebook,8001000,3.3,53.38,1.71,529352,Debit Card,7.29,4.75,Toys
+Flipkart Festive Sale in 2024! 533,2024-11-28 15:52:36,Festive Sale,2024,1890444.49,Fashion,9.19,33448,6188,5,Instagram,2990000,4.06,31.76,3.42,849086,Debit Card,14.92,2.76,Smartphone
+Flipkart Monsoon Sale in 2023! 534,2023-09-18 0:20:27,Monsoon Sale,2023,4624039.12,Groceries,65.17,7782,2885,2,Facebook,9961000,3.83,48.81,3.42,791784,Wallet,12.82,3.07,Laptop
+Flipkart GOAT Sale in 2020! 535,2020-02-27 10:25:18,GOAT Sale,2020,9487096.97,Books,38.16,8699,3782,1,Email,9014000,3.68,71.19,3.17,98828,UPI,6.53,2.56,Toys
+Flipkart Festive Sale in 2021! 536,2021-08-11 11:41:36,Festive Sale,2021,7836118.09,Books,55.65,4827,3820,2,Instagram,8351000,1.53,59.69,3.5,577579,Credit Card,1.6,3.34,Toys
+Flipkart No Cost EMI Sale in 2022! 537,2022-09-08 22:11:38,No Cost EMI Sale,2022,3730872.52,Fashion,43.02,46788,4341,5,Instagram,5307000,2.56,69.56,4.13,824239,Debit Card,1.36,3.45,Laptop
+Flipkart Monsoon Sale in 2023! 538,2023-12-12 12:08:52,Monsoon Sale,2023,9985168.54,Beauty,30.87,40962,3743,6,Email,9772000,2.41,66.04,3.85,604813,Debit Card,3.79,4.89,Toys
+Flipkart Deal of the Day in 2021! 539,2021-11-28 2:39:10,Deal of the Day,2021,2326684.65,Fashion,56.85,4966,5787,7,Twitter,7539000,3.7,74.44,4.68,509961,Wallet,10.02,3.02,Shoes
+Flipkart Deal of the Day in 2025! 540,2025-08-12 4:39:49,Deal of the Day,2025,6999899.34,Groceries,9.43,20918,3778,7,Flipkart App,3757000,4.38,32.62,3.1,397797,UPI,10.62,3.85,Perfume
+Flipkart Festive Sale in 2024! 541,2024-07-20 11:47:51,Festive Sale,2024,4333092.63,Groceries,55.14,10651,1127,2,Instagram,7218000,1.16,24.45,1.41,26538,Cash on Delivery,8.25,4.8,Washing Machine
+Flipkart No Cost EMI Sale in 2022! 542,2022-12-17 10:47:51,No Cost EMI Sale,2022,7282155.01,Beauty,8.26,22228,1328,1,Facebook,9600000,3.07,77.25,0.99,400063,Cash on Delivery,10.27,2.91,Headphones
+Flipkart Clearance Sale in 2022! 543,2022-01-13 10:00:42,Clearance Sale,2022,9229788.96,Home,18.8,14652,7743,2,Twitter,7032000,4.85,79,2.19,918631,Wallet,4.59,2.91,Perfume
+Flipkart Summer Sale in 2024! 544,2024-11-09 22:51:57,Summer Sale,2024,7115224.63,Sports,28.39,47863,5419,4,Flipkart App,4008000,4.27,45.8,1.74,933027,Credit Card,13.47,4.94,Toys
+Flipkart No Cost EMI Sale in 2022! 545,2022-02-12 19:25:40,No Cost EMI Sale,2022,2774984.53,Sports,9.13,22818,2876,1,Twitter,1786000,1.23,27.18,2.92,594013,Debit Card,13.42,3.73,Books
+Flipkart Deal of the Day in 2022! 546,2022-10-29 23:47:56,Deal of the Day,2022,3378600.82,Groceries,50.31,48370,8629,3,Flipkart App,8048000,0.52,44,3.58,49673,Credit Card,5.38,4.3,Headphones
+Flipkart Flash Sale in 2023! 547,2023-12-25 11:10:45,Flash Sale,2023,5563107.84,Groceries,36.72,8681,8102,1,Facebook,2387000,1.45,31.24,2.58,323620,Cash on Delivery,2.84,3.75,Perfume
+Flipkart Clearance Sale in 2025! 548,2025-06-14 0:50:48,Clearance Sale,2025,6070124.06,Home,41.03,30376,113,1,Facebook,5029000,0.65,51.14,2.22,12993,UPI,8.27,3.55,Laptop
+Flipkart Monsoon Sale in 2022! 549,2022-05-03 19:59:42,Monsoon Sale,2022,6362657.13,Home,53.54,7845,8086,7,Twitter,2962000,1.95,36.44,3.24,258614,UPI,10.66,2.93,Laptop
+Flipkart Big Billion Days Sale in 2020! 550,2020-02-20 14:01:01,Big Billion Days Sale,2020,879631.54,Toys,46.79,7673,7074,2,Twitter,1643000,2.76,48.24,4.89,348590,Credit Card,7.36,3.25,Laptop
+Flipkart Monsoon Sale in 2024! 551,2024-06-22 17:27:41,Monsoon Sale,2024,6276166.05,Home,18.18,10509,7430,4,Email,4147000,2.91,31.97,4.64,787677,Cash on Delivery,1.76,3.34,Smartphone
+Flipkart Clearance Sale in 2021! 552,2021-08-08 3:54:53,Clearance Sale,2021,4120799.17,Books,20.43,9238,1472,4,Email,827000,0.33,57.71,0.84,507847,Cash on Delivery,1.59,3.63,Shoes
+Flipkart Big Billion Days Sale in 2022! 553,2022-01-16 5:44:51,Big Billion Days Sale,2022,824293.36,Fashion,68.3,30367,3619,2,Twitter,6933000,2.19,62.53,0.81,886859,Cash on Delivery,1.64,4.03,Headphones
+Flipkart GOAT Sale in 2022! 554,2022-08-06 8:04:02,GOAT Sale,2022,7398889.21,Sports,26.34,26403,6659,7,Email,7292000,2.97,25.16,4.59,22944,Debit Card,8.91,3.99,Headphones
+Flipkart Monsoon Sale in 2025! 555,2025-10-14 17:43:01,Monsoon Sale,2025,8676579.48,Groceries,42.2,48365,7246,1,Twitter,1211000,4.52,50.46,3.13,939193,UPI,4.6,2.93,Washing Machine
+Flipkart Flash Sale in 2020! 556,2020-08-20 23:59:40,Flash Sale,2020,9242255.07,Electronics,9.19,19949,3952,1,Facebook,2159000,1.21,11.63,2.04,900683,Debit Card,7.96,4.13,Washing Machine
+Flipkart No Cost EMI Sale in 2021! 557,2021-03-02 12:05:14,No Cost EMI Sale,2021,3978770.77,Books,7.75,19694,4852,6,Flipkart App,1111000,2.82,42.08,4.04,926010,Wallet,5.44,4.2,Washing Machine
+Flipkart Monsoon Sale in 2021! 558,2021-10-10 10:15:07,Monsoon Sale,2021,2300881.34,Beauty,17.92,46275,5756,7,Facebook,3011000,4.41,25.23,3.13,332807,Credit Card,14.86,3.35,Washing Machine
+Flipkart Flash Sale in 2021! 559,2021-08-24 17:52:02,Flash Sale,2021,311183.61,Electronics,49.81,24987,1323,6,Instagram,6717000,4.56,76.13,1.95,479171,Debit Card,9.86,3.44,Headphones
+Flipkart Monsoon Sale in 2021! 560,2021-06-16 16:26:12,Monsoon Sale,2021,4618639.75,Fashion,65.09,44769,3203,6,Twitter,6800000,3.87,53.63,2.54,362422,Cash on Delivery,14.03,3.91,Toys
+Flipkart Festive Sale in 2021! 561,2021-03-28 7:55:36,Festive Sale,2021,8195376.11,Beauty,26.15,11958,3010,6,Facebook,1281000,2.46,20.04,2.66,772694,UPI,9.54,4.65,Laptop
+Flipkart Big Billion Days Sale in 2020! 562,2020-06-22 6:27:52,Big Billion Days Sale,2020,8739511.15,Beauty,45.08,45809,5166,3,Email,9006000,3.97,29.38,2.72,805597,Cash on Delivery,10.24,2.6,Laptop
+Flipkart Festive Sale in 2025! 563,2025-11-03 2:51:39,Festive Sale,2025,1574072.22,Beauty,65.43,16878,3203,6,Instagram,5275000,0.96,58.24,4.48,626352,Credit Card,11.31,3.35,Perfume
+Flipkart Deal of the Day in 2022! 564,2022-04-27 4:04:02,Deal of the Day,2022,4450488.83,Beauty,63.4,35546,7389,2,Email,4604000,4.79,64.93,1.22,105024,Debit Card,11.33,4.82,Books
+Flipkart GOAT Sale in 2020! 565,2020-05-13 0:27:53,GOAT Sale,2020,9057042.24,Home,32.02,26648,9703,1,Instagram,4089000,0.31,53.85,3.1,450720,Cash on Delivery,5.79,4.46,Shoes
+Flipkart Festive Sale in 2020! 566,2020-08-23 1:51:41,Festive Sale,2020,3841049.55,Sports,64.61,46145,544,2,Flipkart App,8143000,3.69,67.46,2.03,950158,Cash on Delivery,10.36,3.91,Washing Machine
+Flipkart Flash Sale in 2025! 567,2025-09-11 13:55:13,Flash Sale,2025,7711354.59,Home,60.08,40599,6686,7,Instagram,5488000,3.61,71.22,2.86,291750,Debit Card,2.18,3.28,Headphones
+Flipkart Clearance Sale in 2021! 568,2021-02-16 4:13:45,Clearance Sale,2021,9581594.9,Electronics,27.84,17332,6684,7,Email,3226000,0.2,76.92,3.94,23579,Wallet,9.78,4.42,Headphones
+Flipkart Clearance Sale in 2024! 569,2024-12-19 17:04:09,Clearance Sale,2024,700423.42,Home,42.15,6680,9696,5,Instagram,9347000,3.02,51.65,2.52,543979,Cash on Delivery,13.5,4.11,Books
+Flipkart Monsoon Sale in 2020! 570,2020-07-28 6:03:56,Monsoon Sale,2020,9536212.26,Fashion,32.23,36456,2997,5,Email,6653000,3.07,26.76,3.36,833411,Wallet,5.85,4.52,Perfume
+Flipkart Winter Sale in 2025! 571,2025-04-05 23:18:22,Winter Sale,2025,5573027.63,Toys,37.41,23631,6952,5,Twitter,7545000,3.54,49.93,3.4,994697,Debit Card,3.64,2.94,Shoes
+Flipkart GOAT Sale in 2022! 572,2022-06-13 17:30:45,GOAT Sale,2022,5894434.68,Fashion,9.32,3773,3999,2,Email,9373000,0.89,54.33,3.63,586008,Wallet,8.88,4.18,Laptop
+Flipkart Summer Sale in 2022! 573,2022-07-14 19:14:09,Summer Sale,2022,7046485.8,Groceries,61.07,41068,8908,7,Email,6760000,4.44,63.05,3.75,555655,UPI,13.58,3.94,Smartphone
+Flipkart No Cost EMI Sale in 2025! 574,2025-08-25 10:57:58,No Cost EMI Sale,2025,5450739.26,Toys,26.01,46386,4876,4,Facebook,8329000,2.53,54.06,4.68,197492,Debit Card,9.89,2.62,Smartphone
+Flipkart Big Billion Days Sale in 2024! 575,2024-05-01 15:31:04,Big Billion Days Sale,2024,705040.45,Electronics,34.78,31580,1036,6,Instagram,6347000,3.14,53.23,1.81,504476,Credit Card,12.86,2.79,Washing Machine
+Flipkart Festive Sale in 2025! 576,2025-06-22 2:48:38,Festive Sale,2025,4793224.24,Home,41.68,49021,6336,5,Twitter,5335000,2.18,26.2,2.25,903564,Wallet,7.97,3.55,Smartphone
+Flipkart Summer Sale in 2020! 577,2020-02-28 4:34:45,Summer Sale,2020,3404114.09,Electronics,41.11,7856,5727,2,Flipkart App,9848000,1.57,33.45,2.56,158111,Wallet,6.79,4.19,Perfume
+Flipkart Monsoon Sale in 2021! 578,2021-04-23 23:36:48,Monsoon Sale,2021,6628693.55,Beauty,64.74,37260,4244,7,Flipkart App,3973000,0.34,30.31,4.81,469752,UPI,4.61,2.54,Toys
+Flipkart Summer Sale in 2023! 579,2023-05-13 4:06:15,Summer Sale,2023,113342.56,Home,16.58,33725,8411,5,Instagram,5123000,3.37,74.13,3.79,506404,Wallet,12.36,3.97,Toys
+Flipkart Monsoon Sale in 2023! 580,2023-07-08 12:49:00,Monsoon Sale,2023,9062157.92,Toys,58.93,10893,6442,2,Email,6014000,4.37,47.34,0.76,377565,Wallet,10.84,3.36,Shoes
+Flipkart Flash Sale in 2024! 581,2024-12-29 20:35:46,Flash Sale,2024,1037237.12,Toys,67.37,17233,4847,2,Instagram,8288000,3.64,32.9,0.53,928805,Wallet,1.27,3.6,Perfume
+Flipkart GOAT Sale in 2022! 582,2022-11-01 3:37:46,GOAT Sale,2022,1706748.05,Fashion,40.26,49842,9084,3,Flipkart App,587000,0.12,18.79,2.57,186391,Cash on Delivery,11.95,4.5,Shoes
+Flipkart Festive Sale in 2023! 583,2023-07-28 8:45:27,Festive Sale,2023,1749310.2,Beauty,26.95,9786,3291,1,Flipkart App,6890000,3.69,66.46,4.02,27240,UPI,8.6,2.78,Books
+Flipkart Monsoon Sale in 2023! 584,2023-10-01 16:24:20,Monsoon Sale,2023,5232065.03,Toys,40.33,9577,5312,6,Facebook,3990000,4,75.94,3.43,648879,Cash on Delivery,13.58,4.55,Books
+Flipkart Flash Sale in 2021! 585,2021-01-03 8:39:20,Flash Sale,2021,311685.81,Books,47.63,30242,9925,6,Email,6899000,4.14,69.98,0.5,931762,Credit Card,5.68,3.31,Perfume
+Flipkart Clearance Sale in 2025! 586,2025-11-16 13:51:53,Clearance Sale,2025,3100061.54,Fashion,53.83,25861,1612,1,Twitter,1889000,3.37,49.4,1.16,273826,Cash on Delivery,9.64,4.9,Smartphone
+Flipkart Summer Sale in 2022! 587,2022-05-09 11:24:12,Summer Sale,2022,4691312.13,Books,66.9,39069,4147,4,Twitter,1740000,4.32,75.18,2.13,92941,UPI,9.32,4.24,Perfume
+Flipkart No Cost EMI Sale in 2024! 588,2024-01-22 14:34:34,No Cost EMI Sale,2024,8192135.34,Books,32.81,46501,8816,1,Instagram,4908000,3.11,25.83,0.51,673743,UPI,9.12,4.36,Books
+Flipkart No Cost EMI Sale in 2024! 589,2024-06-02 18:06:16,No Cost EMI Sale,2024,9377192.05,Toys,8.79,23642,3750,7,Facebook,7739000,1.87,48.26,3.22,536586,Credit Card,12.45,4.68,Headphones
+Flipkart Festive Sale in 2024! 590,2024-09-28 14:01:54,Festive Sale,2024,9975638.69,Toys,5.03,10466,2308,2,Twitter,6714000,0.3,69.99,4.22,722394,UPI,10.44,2.9,Laptop
+Flipkart Big Billion Days Sale in 2021! 591,2021-09-23 11:44:13,Big Billion Days Sale,2021,7473767.21,Sports,50.65,23656,4038,4,Facebook,4590000,1.94,44.17,4.05,858975,Credit Card,10.61,2.63,Toys
+Flipkart Flash Sale in 2025! 592,2025-09-23 9:16:48,Flash Sale,2025,5881781.84,Books,18.87,5305,8954,6,Flipkart App,9457000,1.45,48.26,0.88,925258,UPI,8.77,4.93,Laptop
+Flipkart Flash Sale in 2021! 593,2021-09-19 0:51:33,Flash Sale,2021,8043141.53,Groceries,68.6,48946,3992,7,Instagram,769000,4.74,45.35,1.35,289896,Wallet,3.73,3.45,Headphones
+Flipkart Clearance Sale in 2021! 594,2021-03-04 3:16:36,Clearance Sale,2021,8446099.24,Sports,33.79,13144,7810,5,Twitter,3532000,4.41,27.52,1.89,432998,UPI,12.42,3.47,Books
+Flipkart Summer Sale in 2023! 595,2023-06-21 9:15:39,Summer Sale,2023,4462866.75,Books,20.35,15219,1348,5,Email,758000,2.86,28.07,0.61,806333,Credit Card,12.82,4.89,Smartphone
+Flipkart GOAT Sale in 2022! 596,2022-01-18 1:14:17,GOAT Sale,2022,3827765.49,Toys,64.51,43040,7462,1,Email,5859000,0.5,73.67,2.93,116083,UPI,13.41,4.88,Laptop
+Flipkart No Cost EMI Sale in 2021! 597,2021-05-21 17:04:32,No Cost EMI Sale,2021,7281629.95,Beauty,41.58,1120,3518,2,Facebook,4769000,0.75,65.33,1.87,727949,Credit Card,3.63,4.74,Headphones
+Flipkart Big Billion Days Sale in 2024! 598,2024-08-22 17:07:47,Big Billion Days Sale,2024,3465861.36,Books,7.67,2152,2015,1,Flipkart App,3465000,0.56,38.13,3.79,155920,Credit Card,9.8,4.07,Shoes
+Flipkart Flash Sale in 2023! 599,2023-09-12 20:58:23,Flash Sale,2023,2129804.03,Fashion,24.28,13783,5768,1,Twitter,3237000,2.98,79.46,1.84,706813,Credit Card,11.16,2.79,Smartphone
+Flipkart Festive Sale in 2025! 600,2025-02-28 22:37:51,Festive Sale,2025,7732565.31,Sports,21.36,45798,4742,5,Email,6673000,0.56,35.78,4.56,176852,Debit Card,14.38,3.23,Smartphone
+Flipkart Summer Sale in 2022! 601,2022-03-19 7:13:40,Summer Sale,2022,3385816.86,Groceries,17.56,38817,6287,4,Email,4991000,3.29,39.49,3.29,927325,Cash on Delivery,8.16,4.06,Shoes
+Flipkart Winter Sale in 2025! 602,2025-04-12 16:12:47,Winter Sale,2025,9010725.54,Toys,19.55,25042,6400,1,Facebook,1025000,2.88,34.92,3.2,697511,UPI,12.36,3.05,Washing Machine
+Flipkart Deal of the Day in 2022! 603,2022-01-24 14:42:18,Deal of the Day,2022,5462681.3,Groceries,64.08,39545,424,7,Email,4055000,1.34,76.63,4,964438,Wallet,13.13,3.77,Washing Machine
+Flipkart Clearance Sale in 2021! 604,2021-05-29 10:24:01,Clearance Sale,2021,9974922.79,Electronics,58.12,33687,9274,3,Twitter,7454000,1.72,46.33,4.99,824207,Credit Card,14.1,2.76,Toys
+Flipkart Big Billion Days Sale in 2023! 605,2023-06-01 2:40:23,Big Billion Days Sale,2023,8219867.05,Books,52.83,26436,2460,5,Instagram,2063000,1.23,32.66,1.73,757626,Cash on Delivery,9.05,2.65,Washing Machine
+Flipkart Festive Sale in 2021! 606,2021-12-30 22:28:06,Festive Sale,2021,1892780.67,Electronics,21.08,18835,9144,3,Email,8178000,0.81,47.21,4.94,958002,Cash on Delivery,10.07,3.04,Toys
+Flipkart Clearance Sale in 2020! 607,2020-11-02 23:26:58,Clearance Sale,2020,3645187.15,Books,8.31,22715,8483,4,Email,7108000,3.14,38.55,4.51,515518,UPI,11.86,2.55,Toys
+Flipkart Festive Sale in 2021! 608,2021-01-16 10:13:31,Festive Sale,2021,1324044.08,Groceries,39.1,29023,8160,7,Facebook,9141000,0.62,47.7,0.62,381863,UPI,7.14,3.1,Smartphone
+Flipkart No Cost EMI Sale in 2024! 609,2024-09-27 15:41:45,No Cost EMI Sale,2024,6191869.98,Books,13.35,21603,700,5,Email,6294000,1.15,54.73,1.49,409818,UPI,11.95,4.92,Toys
+Flipkart Summer Sale in 2022! 610,2022-08-18 8:27:54,Summer Sale,2022,8860293.7,Beauty,22.3,14504,4582,3,Instagram,9369000,4.05,22.42,2.09,48845,Debit Card,3.19,2.85,Shoes
+Flipkart No Cost EMI Sale in 2022! 611,2022-03-30 4:54:38,No Cost EMI Sale,2022,6446220.28,Fashion,34.92,15681,7252,3,Email,3193000,1.64,25.27,4.77,799841,Debit Card,1.05,4.19,Headphones
+Flipkart Festive Sale in 2023! 612,2023-12-26 19:14:53,Festive Sale,2023,4796341.49,Electronics,17.09,42632,4009,6,Flipkart App,8968000,3.67,12.76,1.82,930871,Wallet,1.86,3.83,Toys
+Flipkart Monsoon Sale in 2025! 613,2025-04-29 6:44:09,Monsoon Sale,2025,9308194.12,Toys,26.63,40335,6015,6,Instagram,6528000,1.18,13.43,2.24,70357,Cash on Delivery,12.92,4.46,Washing Machine
+Flipkart Big Billion Days Sale in 2022! 614,2022-02-20 10:00:48,Big Billion Days Sale,2022,1898203.98,Toys,60.05,46865,8523,6,Flipkart App,657000,0.38,14,4.62,64756,Wallet,14.19,4.35,Smartphone
+Flipkart GOAT Sale in 2025! 615,2025-12-13 7:25:39,GOAT Sale,2025,3607846.84,Books,43.38,8742,3050,2,Facebook,4720000,0.38,64.35,4.56,502819,Cash on Delivery,5.95,4.56,Shoes
+Flipkart Winter Sale in 2020! 616,2020-02-11 18:01:33,Winter Sale,2020,1379947.25,Groceries,50.26,21374,6019,4,Flipkart App,9328000,0.91,29.94,1.11,713642,UPI,3.15,2.81,Shoes
+Flipkart Clearance Sale in 2021! 617,2021-10-21 4:57:29,Clearance Sale,2021,2310001.98,Sports,34.27,11247,7117,7,Facebook,7149000,3.67,30.89,2.89,110353,Debit Card,6.07,3.36,Shoes
+Flipkart Flash Sale in 2024! 618,2024-05-20 3:44:27,Flash Sale,2024,8348190.19,Electronics,11.8,20325,9112,7,Flipkart App,6823000,4.18,15.21,0.85,408205,Cash on Delivery,12.52,4.34,Toys
+Flipkart Big Billion Days Sale in 2025! 619,2025-11-04 13:52:59,Big Billion Days Sale,2025,5896363.85,Groceries,17.02,3397,889,6,Facebook,9538000,0.14,24.42,2.66,423413,Wallet,5.23,4.72,Perfume
+Flipkart Festive Sale in 2023! 620,2023-01-09 18:30:43,Festive Sale,2023,2147249.43,Toys,63,44986,5669,4,Instagram,7476000,4.86,26.21,3.63,63779,Debit Card,13.86,2.57,Shoes
+Flipkart Big Billion Days Sale in 2022! 621,2022-09-02 17:23:01,Big Billion Days Sale,2022,9327862.4,Groceries,47.39,47774,6808,2,Twitter,8373000,2.57,18.52,3.72,375480,Cash on Delivery,11.99,2.6,Smartphone
+Flipkart GOAT Sale in 2022! 622,2022-07-01 4:14:47,GOAT Sale,2022,5016187.79,Fashion,63.08,46104,7537,7,Flipkart App,1031000,0.47,49.15,0.92,709649,UPI,2.84,3.85,Shoes
+Flipkart Big Billion Days Sale in 2021! 623,2021-08-23 21:38:31,Big Billion Days Sale,2021,3667467.63,Beauty,59.92,34306,884,1,Facebook,2687000,3.48,63.31,0.67,575155,UPI,4.19,3.79,Headphones
+Flipkart Flash Sale in 2023! 624,2023-10-29 17:37:23,Flash Sale,2023,1579157.15,Fashion,39.94,25588,1227,1,Email,4212000,4.67,21.18,1.74,407704,Cash on Delivery,7.75,2.54,Perfume
+Flipkart Clearance Sale in 2023! 625,2023-02-05 10:00:58,Clearance Sale,2023,989262.23,Electronics,47.3,47392,2304,2,Twitter,1061000,2.13,52.31,1.75,845200,UPI,13.1,4.35,Laptop
+Flipkart Festive Sale in 2024! 626,2024-05-18 6:52:48,Festive Sale,2024,3041051.96,Sports,18.89,4746,5027,1,Instagram,7270000,1.71,45.22,3.25,610508,Wallet,10.45,2.7,Headphones
+Flipkart No Cost EMI Sale in 2020! 627,2020-12-29 13:36:21,No Cost EMI Sale,2020,4678437.04,Toys,11.89,11843,571,1,Flipkart App,3848000,4.23,30.64,2.5,890710,Cash on Delivery,2.27,3.27,Smartphone
+Flipkart Clearance Sale in 2024! 628,2024-09-10 2:06:42,Clearance Sale,2024,9267237.66,Home,19.52,44789,6392,2,Instagram,9648000,0.27,60.51,1.27,165202,Debit Card,14.25,4.43,Shoes
+Flipkart Festive Sale in 2020! 629,2020-02-10 12:44:59,Festive Sale,2020,9483913.36,Fashion,48.38,33044,3399,7,Twitter,7463000,0.86,74.99,1.37,475431,Credit Card,7.47,3.83,Washing Machine
+Flipkart Monsoon Sale in 2023! 630,2023-11-29 23:30:21,Monsoon Sale,2023,1607042.02,Toys,13.41,35064,3935,1,Flipkart App,5733000,4.42,54.3,1,865942,Cash on Delivery,14.31,3.25,Books
+Flipkart Festive Sale in 2025! 631,2025-01-02 11:00:33,Festive Sale,2025,7420597.36,Toys,38.51,48210,9562,5,Facebook,1745000,4.85,28.82,2.03,978470,Debit Card,10.15,4.94,Smartphone
+Flipkart GOAT Sale in 2020! 632,2020-01-09 1:14:44,GOAT Sale,2020,8347092.41,Home,60.53,12337,7083,5,Flipkart App,3863000,3.41,50.68,2.56,112414,Wallet,7.57,4.18,Books
+Flipkart Monsoon Sale in 2020! 633,2020-08-02 19:47:29,Monsoon Sale,2020,1418908.17,Toys,36.73,2631,235,2,Email,6884000,4.58,10.54,4.83,519835,UPI,13.74,2.9,Headphones
+Flipkart No Cost EMI Sale in 2024! 634,2024-02-20 22:31:02,No Cost EMI Sale,2024,6302910.8,Fashion,68.54,7778,4470,1,Twitter,2168000,0.49,17.75,4.38,341644,Wallet,4.21,3.23,Perfume
+Flipkart Festive Sale in 2024! 635,2024-07-15 7:37:51,Festive Sale,2024,8848931.04,Beauty,50.73,8531,4930,5,Twitter,2016000,3.3,55.97,4.09,35639,Wallet,6.37,4.68,Toys
+Flipkart No Cost EMI Sale in 2021! 636,2021-11-02 12:34:20,No Cost EMI Sale,2021,186243.05,Electronics,51.42,17879,8049,6,Facebook,4459000,0.62,57.23,4.8,303258,Debit Card,2.23,2.87,Shoes
+Flipkart Festive Sale in 2023! 637,2023-11-17 15:44:25,Festive Sale,2023,1128920.54,Groceries,61.96,28160,4881,7,Flipkart App,1988000,2.42,66.46,1.89,169363,UPI,13.93,4.63,Washing Machine
+Flipkart GOAT Sale in 2022! 638,2022-10-19 23:52:41,GOAT Sale,2022,4579867.52,Toys,41.88,6004,7055,4,Instagram,4231000,1.94,43.89,4.51,849980,Wallet,14.09,4.75,Smartphone
+Flipkart Summer Sale in 2024! 639,2024-10-31 13:53:56,Summer Sale,2024,6280016.36,Beauty,17.15,3210,470,1,Instagram,8338000,0.65,51.81,2.84,532085,Cash on Delivery,12.15,4.36,Laptop
+Flipkart Winter Sale in 2022! 640,2022-06-11 15:57:41,Winter Sale,2022,3470021.52,Fashion,58.35,17213,5805,5,Email,6931000,4.02,72.04,0.51,405381,Wallet,12.49,4.45,Headphones
+Flipkart Monsoon Sale in 2025! 641,2025-09-21 13:45:38,Monsoon Sale,2025,8386867.89,Electronics,54.83,47667,4650,1,Facebook,8929000,3.27,22.6,2.16,22026,Cash on Delivery,2.94,3.76,Laptop
+Flipkart Flash Sale in 2023! 642,2023-09-13 9:49:50,Flash Sale,2023,7324755.28,Sports,31.95,25481,1718,6,Email,6379000,2.32,63.7,1.95,193177,Debit Card,9.97,4.04,Headphones
+Flipkart Winter Sale in 2021! 643,2021-10-26 11:22:30,Winter Sale,2021,1452096.38,Toys,17.92,19409,1467,3,Flipkart App,8783000,4.82,28.2,2.6,899064,Wallet,12.39,3.32,Washing Machine
+Flipkart Winter Sale in 2023! 644,2023-07-21 13:19:39,Winter Sale,2023,9439267.85,Electronics,58.27,46676,5527,6,Instagram,7627000,3.04,78.34,1.11,306419,Cash on Delivery,9.17,5,Smartphone
+Flipkart Monsoon Sale in 2023! 645,2023-04-03 17:34:03,Monsoon Sale,2023,2511686.19,Groceries,7.96,1396,2753,3,Email,4105000,1.93,26.66,1.48,919828,UPI,5.42,3.45,Headphones
+Flipkart Flash Sale in 2020! 646,2020-06-04 1:12:56,Flash Sale,2020,4224433.88,Beauty,28,22200,6851,6,Email,9076000,2.01,20.77,2.13,476760,UPI,5.59,2.68,Laptop
+Flipkart Monsoon Sale in 2025! 647,2025-05-13 0:49:58,Monsoon Sale,2025,9026923.52,Sports,35.63,6146,9468,4,Twitter,9827000,2.51,19.89,4.13,371952,Debit Card,1.85,2.72,Books
+Flipkart Clearance Sale in 2021! 648,2021-04-02 21:46:32,Clearance Sale,2021,9746628.11,Home,47.42,33123,6684,1,Twitter,3164000,0.8,13.15,4.76,881294,UPI,6.87,2.76,Shoes
+Flipkart Flash Sale in 2025! 649,2025-08-30 16:10:18,Flash Sale,2025,2727377.84,Fashion,19.38,16392,612,3,Facebook,5441000,4.4,25.55,4.48,619717,Debit Card,5.91,3.64,Headphones
+Flipkart Deal of the Day in 2020! 650,2020-03-25 6:55:26,Deal of the Day,2020,6923080.83,Groceries,20.95,43894,726,3,Instagram,8358000,1.35,74.04,1.49,261279,Cash on Delivery,2.37,3.32,Headphones
+Flipkart Deal of the Day in 2023! 651,2023-01-09 7:39:43,Deal of the Day,2023,5738931.32,Electronics,9.13,23252,9603,7,Email,3430000,2.03,69.24,2.73,781225,Cash on Delivery,8.58,3.68,Shoes
+Flipkart Monsoon Sale in 2022! 652,2022-02-08 9:46:05,Monsoon Sale,2022,3430245.5,Books,67.65,12255,6494,6,Facebook,3174000,2.99,25.23,2.46,83740,Cash on Delivery,4.97,3.21,Washing Machine
+Flipkart Summer Sale in 2022! 653,2022-06-17 19:16:19,Summer Sale,2022,3709407.43,Beauty,67.11,17913,4841,5,Twitter,2228000,2.11,23.01,3.8,984777,Wallet,11.12,2.86,Shoes
+Flipkart Summer Sale in 2021! 654,2021-11-17 18:36:47,Summer Sale,2021,3126096.5,Electronics,23.14,35393,7535,6,Instagram,5652000,1.32,69.16,2.54,784610,Credit Card,8.44,4.25,Perfume
+Flipkart Winter Sale in 2020! 655,2020-12-01 6:57:39,Winter Sale,2020,4233191.45,Books,9.93,42733,3312,3,Email,2418000,2.08,33.2,3.95,320329,Credit Card,3.09,3.87,Headphones
+Flipkart Clearance Sale in 2024! 656,2024-04-06 22:30:29,Clearance Sale,2024,4230403.06,Electronics,11.54,20386,9050,4,Twitter,8188000,0.52,62.04,1.89,660735,Wallet,14.25,4.08,Headphones
+Flipkart Deal of the Day in 2021! 657,2021-03-13 23:17:46,Deal of the Day,2021,2623056.19,Sports,46.61,11115,1954,4,Twitter,7528000,4.83,77.82,0.58,381348,Credit Card,10.66,4.56,Washing Machine
+Flipkart No Cost EMI Sale in 2020! 658,2020-08-22 17:41:13,No Cost EMI Sale,2020,5033267.51,Fashion,44.15,35945,503,6,Twitter,9828000,3.73,30.64,0.54,987525,UPI,13.51,4.21,Headphones
+Flipkart Big Billion Days Sale in 2025! 659,2025-05-13 8:09:07,Big Billion Days Sale,2025,7673395.85,Electronics,57.12,21325,8202,7,Twitter,680000,3.67,28.7,4.33,701733,Cash on Delivery,10.95,4.06,Laptop
+Flipkart Monsoon Sale in 2020! 660,2020-03-12 20:30:13,Monsoon Sale,2020,6980556.24,Electronics,46.89,1030,617,4,Twitter,7407000,4.06,22.76,4.62,157238,Credit Card,3.74,2.83,Books
+Flipkart Festive Sale in 2021! 661,2021-07-07 17:38:08,Festive Sale,2021,9045576.21,Books,34.42,43929,8260,5,Email,2370000,0.21,41.99,1.18,820844,Credit Card,10.99,4.21,Shoes
+Flipkart Flash Sale in 2024! 662,2024-01-12 3:53:58,Flash Sale,2024,5585950.73,Books,56.06,45398,8525,7,Facebook,4387000,3.49,13.51,1.57,393472,Debit Card,14.19,3.27,Books
+Flipkart Deal of the Day in 2022! 663,2022-05-20 6:02:49,Deal of the Day,2022,4571133.27,Books,28.76,6308,1306,7,Instagram,7719000,0.39,74.61,4.53,848004,Wallet,13.67,3.65,Perfume
+Flipkart Festive Sale in 2021! 664,2021-04-05 3:29:18,Festive Sale,2021,2820250.84,Beauty,18.67,9156,1078,6,Twitter,4442000,3.24,54.88,2.84,236436,Debit Card,3.05,3.65,Books
+Flipkart Deal of the Day in 2021! 665,2021-04-17 5:17:03,Deal of the Day,2021,7256411.57,Toys,42.58,4818,795,1,Instagram,741000,2.03,32.66,2.27,394717,Debit Card,14.77,3.52,Smartphone
+Flipkart Clearance Sale in 2022! 666,2022-10-24 10:54:29,Clearance Sale,2022,3760782.27,Electronics,63.27,40094,7865,5,Email,9070000,3.41,35.83,3.36,108836,UPI,5.71,4.51,Washing Machine
+Flipkart Clearance Sale in 2024! 667,2024-05-02 14:58:13,Clearance Sale,2024,408043.6,Toys,27.75,40048,5867,4,Twitter,2134000,2.59,79.9,3.26,730766,Credit Card,6.65,3.71,Perfume
+Flipkart Summer Sale in 2023! 668,2023-12-03 22:36:26,Summer Sale,2023,5741726.86,Home,41.93,5908,4147,1,Flipkart App,9478000,2.72,19.28,1.35,315213,Cash on Delivery,9.86,3.76,Headphones
+Flipkart Summer Sale in 2023! 669,2023-04-11 17:53:53,Summer Sale,2023,9994706.66,Electronics,12.44,19971,8213,4,Flipkart App,6577000,3.36,42.95,2.87,510737,UPI,12.88,3.35,Smartphone
+Flipkart Festive Sale in 2025! 670,2025-05-31 16:07:47,Festive Sale,2025,6958906.57,Fashion,49.79,28905,4832,7,Flipkart App,9970000,0.78,21.06,2.72,441204,Credit Card,13.91,4.34,Headphones
+Flipkart Monsoon Sale in 2021! 671,2021-08-19 20:16:25,Monsoon Sale,2021,5704649.98,Electronics,21.84,37261,1080,3,Flipkart App,5810000,0.91,61.95,1.81,970869,Cash on Delivery,13.28,4.11,Laptop
+Flipkart GOAT Sale in 2021! 672,2021-05-01 16:15:29,GOAT Sale,2021,1856481.33,Sports,9.29,26384,5260,7,Facebook,6609000,2.32,56.42,2.94,743906,Cash on Delivery,2.94,4.6,Laptop
+Flipkart Winter Sale in 2025! 673,2025-08-14 7:49:15,Winter Sale,2025,5103610.42,Books,44.66,37908,5416,7,Twitter,4597000,3.35,27.13,2.94,116771,Credit Card,3.74,3.47,Washing Machine
+Flipkart Flash Sale in 2023! 674,2023-10-16 16:34:14,Flash Sale,2023,8486700.46,Fashion,54.41,47643,4242,2,Twitter,2394000,3.85,18.84,2.93,652424,Debit Card,9.75,4.69,Laptop
+Flipkart Flash Sale in 2020! 675,2020-01-01 3:07:50,Flash Sale,2020,3255315.01,Beauty,68.64,25146,6991,2,Instagram,2225000,4.97,64.96,3.45,13646,Debit Card,10.29,4.52,Perfume
+Flipkart No Cost EMI Sale in 2024! 676,2024-02-24 17:59:01,No Cost EMI Sale,2024,8213686.97,Groceries,58.02,34939,4440,6,Instagram,3137000,2.38,17.11,0.72,775377,Debit Card,13.04,4.11,Laptop
+Flipkart Summer Sale in 2022! 677,2022-09-16 5:07:05,Summer Sale,2022,6096074.13,Beauty,39.32,31004,6968,7,Facebook,9629000,2.64,38.71,4.1,833993,Cash on Delivery,8.47,2.81,Smartphone
+Flipkart Summer Sale in 2022! 678,2022-09-14 5:26:50,Summer Sale,2022,5238071.63,Books,43.38,14888,8502,3,Email,8027000,3.9,34.6,3.43,155727,UPI,8.43,4.92,Washing Machine
+Flipkart Flash Sale in 2021! 679,2021-11-02 2:58:31,Flash Sale,2021,438782.55,Books,45.68,18524,4408,1,Twitter,2734000,0.31,39.1,2.21,771902,Credit Card,6.08,4.5,Laptop
+Flipkart Clearance Sale in 2024! 680,2024-05-28 2:09:38,Clearance Sale,2024,446681.24,Books,16.72,16960,7038,5,Flipkart App,4875000,0.62,19.97,1.2,503830,Debit Card,11.09,3.41,Perfume
+Flipkart Winter Sale in 2020! 681,2020-04-20 5:42:01,Winter Sale,2020,4951738.23,Groceries,24.48,38502,7744,4,Flipkart App,2845000,2.05,68.01,2.46,18677,Debit Card,10.19,4.26,Perfume
+Flipkart Clearance Sale in 2020! 682,2020-10-01 2:50:14,Clearance Sale,2020,7977037.9,Groceries,10.07,41645,3356,7,Instagram,5484000,3.62,41.36,2.43,836333,Credit Card,8.19,4.49,Smartphone
+Flipkart Flash Sale in 2021! 683,2021-09-29 1:21:51,Flash Sale,2021,4418252.56,Books,23.13,10332,748,2,Twitter,3279000,1.13,39.05,3.7,201339,UPI,6.64,4.72,Books
+Flipkart Monsoon Sale in 2021! 684,2021-12-29 5:56:38,Monsoon Sale,2021,7459125.82,Beauty,57.37,3845,6426,6,Instagram,2895000,2.12,42.25,2.27,400361,Credit Card,8.99,3.31,Smartphone
+Flipkart GOAT Sale in 2021! 685,2021-09-25 2:01:36,GOAT Sale,2021,7057485.5,Beauty,47.01,49681,4697,1,Email,6698000,4.62,72.21,2.02,399027,Cash on Delivery,11.92,4.96,Headphones
+Flipkart Festive Sale in 2025! 686,2025-07-25 14:23:42,Festive Sale,2025,4415189.24,Electronics,13.71,36230,5923,4,Email,616000,3.47,24.83,1.22,265712,UPI,1.35,3.21,Smartphone
+Flipkart Winter Sale in 2023! 687,2023-02-25 2:13:42,Winter Sale,2023,5478160.31,Toys,13.08,34524,226,2,Flipkart App,1339000,1.56,72.1,3.78,562684,Cash on Delivery,12.22,3.73,Books
+Flipkart Winter Sale in 2024! 688,2024-05-08 3:31:01,Winter Sale,2024,1917397.77,Fashion,48.3,23320,7446,6,Twitter,4422000,3.52,45.75,4.89,235006,Wallet,2.14,3.75,Perfume
+Flipkart Flash Sale in 2025! 689,2025-02-10 2:12:22,Flash Sale,2025,1041143.34,Electronics,44.67,30409,4267,6,Twitter,4393000,3.72,75.88,3.37,212513,UPI,2.52,3.49,Toys
+Flipkart Monsoon Sale in 2025! 690,2025-05-21 17:35:10,Monsoon Sale,2025,8139614.6,Home,17.09,32290,4270,3,Flipkart App,8052000,0.19,67.04,3.02,829731,Wallet,10.5,3.22,Toys
+Flipkart Monsoon Sale in 2020! 691,2020-09-17 8:40:19,Monsoon Sale,2020,7353772.64,Beauty,54.12,10428,4537,2,Flipkart App,4628000,2.49,69.55,1.3,517017,Cash on Delivery,9.21,3.17,Laptop
+Flipkart Festive Sale in 2020! 692,2020-09-16 3:45:03,Festive Sale,2020,7745053.09,Groceries,18.83,5946,3479,2,Flipkart App,8988000,3.12,60.02,2.61,700984,Credit Card,11.81,4.56,Shoes
+Flipkart Deal of the Day in 2023! 693,2023-07-16 0:00:11,Deal of the Day,2023,5807388.3,Groceries,66.8,28560,1685,7,Instagram,5156000,3.6,43.18,4.92,637053,Wallet,1.3,4.09,Laptop
+Flipkart Deal of the Day in 2023! 694,2023-11-28 21:22:01,Deal of the Day,2023,3277229.33,Fashion,28.56,38804,1784,1,Flipkart App,7218000,2.24,55.83,1.57,274165,Wallet,11,4.94,Perfume
+Flipkart No Cost EMI Sale in 2020! 695,2020-11-18 16:29:01,No Cost EMI Sale,2020,505639.12,Beauty,8.51,3569,435,4,Twitter,798000,0.14,31.47,3.69,963124,UPI,9.36,4.8,Headphones
+Flipkart Winter Sale in 2023! 696,2023-07-09 21:41:13,Winter Sale,2023,5741299.41,Groceries,19.39,48379,5917,5,Flipkart App,7073000,1.26,71.73,1.7,232354,Credit Card,11.32,2.95,Headphones
+Flipkart Flash Sale in 2023! 697,2023-01-27 20:27:26,Flash Sale,2023,2749048.8,Fashion,33.66,45019,5583,4,Email,2080000,3.21,21.16,4.78,917677,Cash on Delivery,12.26,3.97,Headphones
+Flipkart Deal of the Day in 2025! 698,2025-09-27 15:14:18,Deal of the Day,2025,5643852.08,Books,64.84,18439,6749,7,Facebook,1018000,0.38,49.75,0.98,555173,Cash on Delivery,2,4.16,Laptop
+Flipkart Deal of the Day in 2020! 699,2020-03-06 1:37:01,Deal of the Day,2020,6689823.66,Electronics,6.27,19227,7149,1,Flipkart App,3206000,2.61,10.81,1.61,338353,Debit Card,3.59,4.14,Laptop
+Flipkart No Cost EMI Sale in 2025! 700,2025-08-07 21:54:06,No Cost EMI Sale,2025,6418120.67,Sports,17.33,9193,7555,2,Flipkart App,7687000,2,33.54,2,317608,Wallet,12.74,3.08,Perfume
+Flipkart Big Billion Days Sale in 2022! 701,2022-04-11 10:57:10,Big Billion Days Sale,2022,4634074.7,Sports,55.9,16724,7081,6,Twitter,9854000,0.52,22.54,4.27,195068,UPI,13.64,4.82,Washing Machine
+Flipkart No Cost EMI Sale in 2020! 702,2020-04-15 13:14:48,No Cost EMI Sale,2020,6285489.7,Books,60.62,8342,2169,1,Email,1865000,1.55,48.08,3.07,31925,Wallet,7.54,3.42,Smartphone
+Flipkart No Cost EMI Sale in 2022! 703,2022-12-13 18:35:45,No Cost EMI Sale,2022,8583670.11,Home,45.12,22823,3668,5,Facebook,6902000,4.28,66.68,1.73,77288,Cash on Delivery,10.21,4.26,Toys
+Flipkart GOAT Sale in 2021! 704,2021-01-04 22:40:08,GOAT Sale,2021,5930763.23,Beauty,36.47,24859,882,4,Twitter,1120000,4.96,73.03,2.78,278628,Credit Card,14.06,2.77,Headphones
+Flipkart Clearance Sale in 2022! 705,2022-07-24 1:49:50,Clearance Sale,2022,5375065.04,Books,26.9,26383,6956,7,Email,6792000,1.29,15.05,4.32,204239,UPI,4.83,3.21,Washing Machine
+Flipkart GOAT Sale in 2023! 706,2023-07-13 20:39:28,GOAT Sale,2023,7172950.32,Groceries,61.38,9739,9230,7,Flipkart App,4083000,3.68,16.8,3.18,68954,Wallet,13.94,4.46,Toys
+Flipkart Big Billion Days Sale in 2025! 707,2025-08-09 17:28:47,Big Billion Days Sale,2025,9431279.9,Fashion,36.61,1663,6241,4,Instagram,2054000,2.21,79.93,1.58,957408,Wallet,9.69,4.56,Toys
+Flipkart GOAT Sale in 2020! 708,2020-09-16 21:13:28,GOAT Sale,2020,5226714.91,Home,69.81,5796,1548,1,Flipkart App,4415000,3.12,61.66,1.92,813302,Wallet,5.98,4.25,Headphones
+Flipkart No Cost EMI Sale in 2022! 709,2022-02-05 0:21:43,No Cost EMI Sale,2022,3131816.21,Home,58.38,35037,3629,1,Flipkart App,927000,0.9,35.44,2.94,338943,Cash on Delivery,9.58,3.38,Toys
+Flipkart Clearance Sale in 2023! 710,2023-12-04 5:25:51,Clearance Sale,2023,1244344.86,Home,10.68,7660,2753,4,Instagram,7816000,3.67,66.35,2.36,392710,Wallet,1.38,4.11,Perfume
+Flipkart Flash Sale in 2021! 711,2021-04-06 15:36:07,Flash Sale,2021,8220873.06,Electronics,44.89,12767,2676,3,Twitter,833000,1.87,78.28,2.62,715298,Wallet,3.5,4.59,Washing Machine
+Flipkart No Cost EMI Sale in 2021! 712,2021-02-04 14:27:46,No Cost EMI Sale,2021,3060868.01,Books,41.98,43463,5763,6,Instagram,1664000,3.6,54.15,3.53,690234,Cash on Delivery,5.84,3.28,Shoes
+Flipkart Big Billion Days Sale in 2024! 713,2024-07-03 19:15:08,Big Billion Days Sale,2024,1212198.67,Fashion,61.56,2671,9998,7,Twitter,2737000,1.92,77.42,2.05,557665,Debit Card,3.88,3.76,Perfume
+Flipkart Summer Sale in 2023! 714,2023-03-30 18:30:15,Summer Sale,2023,6187018.31,Home,45.02,26192,3261,6,Flipkart App,6477000,4.24,46.68,3.16,945401,Debit Card,13.55,3.6,Toys
+Flipkart Monsoon Sale in 2025! 715,2025-04-19 13:38:04,Monsoon Sale,2025,533059.66,Sports,26.33,5484,5427,2,Email,3771000,2.48,34.25,3.69,263215,Wallet,11.06,4.75,Headphones
+Flipkart Flash Sale in 2020! 716,2020-05-30 8:03:33,Flash Sale,2020,6227785.46,Toys,19.78,30504,7542,4,Flipkart App,8725000,0.95,10.06,3.88,930218,Debit Card,10,3.64,Books
+Flipkart Big Billion Days Sale in 2020! 717,2020-04-05 0:37:51,Big Billion Days Sale,2020,9503815.11,Groceries,26.64,5775,5918,2,Flipkart App,2281000,3.04,45.68,4.87,10221,Cash on Delivery,1.86,3.73,Headphones
+Flipkart Clearance Sale in 2023! 718,2023-01-30 23:33:24,Clearance Sale,2023,5019217.43,Beauty,58.08,13409,5461,3,Twitter,6199000,2.1,21.19,2.36,580825,UPI,4.4,4.97,Washing Machine
+Flipkart Summer Sale in 2024! 719,2024-10-29 18:05:03,Summer Sale,2024,3476516.31,Home,10.65,26746,1036,4,Instagram,1813000,1.91,65.92,1,459142,Cash on Delivery,4.65,4.54,Toys
+Flipkart No Cost EMI Sale in 2023! 720,2023-04-30 16:02:31,No Cost EMI Sale,2023,2561958.07,Home,21.16,4003,7287,2,Flipkart App,1580000,1.81,30,3.92,59693,Wallet,4.72,4.19,Books
+Flipkart GOAT Sale in 2024! 721,2024-05-19 1:31:22,GOAT Sale,2024,459064.1,Electronics,67.13,41269,6663,2,Email,1728000,1.16,65.04,2.64,922826,UPI,10.57,2.59,Toys
+Flipkart Monsoon Sale in 2025! 722,2025-02-17 15:04:23,Monsoon Sale,2025,8369309.06,Beauty,36.75,30408,4487,7,Flipkart App,2657000,2.33,71.96,1.11,256019,Wallet,11.01,4.14,Shoes
+Flipkart Flash Sale in 2024! 723,2024-10-01 18:26:13,Flash Sale,2024,1182955.4,Fashion,11.05,13784,8035,5,Twitter,4561000,2.3,47.12,1.12,110135,Wallet,2.43,4.96,Laptop
+Flipkart Big Billion Days Sale in 2024! 724,2024-02-25 20:22:04,Big Billion Days Sale,2024,4060827.18,Home,69.58,38465,7616,7,Email,5037000,0.24,18.11,4.48,767806,Credit Card,9.65,2.78,Toys
+Flipkart Winter Sale in 2024! 725,2024-11-25 21:20:14,Winter Sale,2024,409123.76,Beauty,13.97,5637,9069,3,Facebook,7524000,0.29,35.89,4.14,615636,Wallet,3.91,3.66,Shoes
+Flipkart Clearance Sale in 2022! 726,2022-11-27 18:57:28,Clearance Sale,2022,1742105.01,Home,13.12,37222,2664,3,Flipkart App,6403000,1.52,67.93,3.9,205488,Credit Card,8.37,4.8,Toys
+Flipkart Winter Sale in 2025! 727,2025-02-06 18:03:06,Winter Sale,2025,8795951.65,Toys,19.34,46193,192,2,Instagram,8424000,2.52,58.28,1.38,958331,Debit Card,1.93,3.96,Washing Machine
+Flipkart No Cost EMI Sale in 2025! 728,2025-05-28 23:24:19,No Cost EMI Sale,2025,2725980.92,Sports,13.22,3435,7540,7,Facebook,7756000,3.62,32.45,3.53,361920,Cash on Delivery,8.29,3.18,Headphones
+Flipkart Festive Sale in 2023! 729,2023-03-21 0:13:51,Festive Sale,2023,8416634.94,Toys,69.39,12566,3448,1,Email,1169000,2.53,26.24,4.53,964682,Wallet,5.75,4.23,Books
+Flipkart Monsoon Sale in 2022! 730,2022-02-11 0:29:49,Monsoon Sale,2022,3398672.41,Books,56.27,7074,4827,3,Email,2132000,1.31,32.96,4.63,593408,Wallet,11.7,3.11,Shoes
+Flipkart Clearance Sale in 2022! 731,2022-11-20 23:06:55,Clearance Sale,2022,8118435.82,Electronics,14.86,43015,2024,3,Instagram,3294000,2.25,60.26,3.07,171156,Wallet,9.47,4.09,Smartphone
+Flipkart Summer Sale in 2025! 732,2025-06-10 17:50:26,Summer Sale,2025,2443572.24,Beauty,16.94,16042,1861,1,Instagram,1668000,1.71,53.74,1.89,317833,Debit Card,9.59,3.69,Books
+Flipkart GOAT Sale in 2024! 733,2024-11-16 1:04:44,GOAT Sale,2024,1427758.51,Beauty,9.99,5792,3331,1,Instagram,4299000,1.5,14.27,0.59,169868,UPI,4.87,3.81,Headphones
+Flipkart Flash Sale in 2025! 734,2025-04-06 12:38:59,Flash Sale,2025,1583740.37,Sports,35.2,30811,5954,7,Facebook,4425000,0.81,45.75,4.04,524866,Wallet,3.86,3.36,Headphones
+Flipkart Monsoon Sale in 2021! 735,2021-12-10 20:25:22,Monsoon Sale,2021,9148538.98,Home,32.57,40795,7937,7,Instagram,3776000,0.76,25.32,2.7,742239,Cash on Delivery,2.11,3.84,Perfume
+Flipkart No Cost EMI Sale in 2024! 736,2024-03-18 13:32:29,No Cost EMI Sale,2024,4364387.63,Books,42.66,23257,3284,5,Email,7709000,4.14,21.75,0.59,762572,Credit Card,11.13,4.81,Perfume
+Flipkart Deal of the Day in 2025! 737,2025-07-13 19:14:51,Deal of the Day,2025,3889242.88,Sports,66.56,32708,7209,5,Facebook,9510000,3.61,63.48,3.54,775306,Wallet,11.16,3.94,Perfume
+Flipkart Winter Sale in 2021! 738,2021-03-17 20:56:49,Winter Sale,2021,6198492.11,Books,60.3,5894,7947,3,Flipkart App,6962000,1.99,37.57,3.97,157172,Wallet,8.84,3.33,Shoes
+Flipkart Big Billion Days Sale in 2020! 739,2020-12-06 21:09:13,Big Billion Days Sale,2020,596992.49,Groceries,46.97,34753,5056,5,Instagram,1560000,0.56,22.62,2.84,397840,UPI,12.37,4.32,Laptop
+Flipkart Monsoon Sale in 2025! 740,2025-05-27 13:53:48,Monsoon Sale,2025,2624790.69,Electronics,31.59,34081,9589,2,Flipkart App,838000,0.92,39.23,3.43,249944,Debit Card,13.57,4.52,Smartphone
+Flipkart Festive Sale in 2022! 741,2022-10-14 2:30:34,Festive Sale,2022,2529293.5,Books,50.21,23605,3842,5,Twitter,2021000,1,62.34,2.99,113085,Wallet,3.3,3.91,Laptop
+Flipkart No Cost EMI Sale in 2020! 742,2020-06-05 1:38:34,No Cost EMI Sale,2020,9611537.18,Toys,16.41,42933,6110,3,Facebook,9824000,4.1,41.82,3.37,628499,Wallet,1.65,3.14,Laptop
+Flipkart No Cost EMI Sale in 2020! 743,2020-09-30 17:19:29,No Cost EMI Sale,2020,2256910.67,Home,59.99,26462,1500,4,Instagram,1705000,3.16,51.34,4.61,711885,Debit Card,2.99,3.48,Books
+Flipkart Deal of the Day in 2025! 744,2025-02-06 12:17:44,Deal of the Day,2025,8575088.32,Books,12.5,32145,5675,3,Email,3554000,1.83,33.01,1.23,866880,Cash on Delivery,12.48,4.88,Washing Machine
+Flipkart Flash Sale in 2025! 745,2025-09-28 14:14:49,Flash Sale,2025,236683.19,Beauty,15.01,27027,3990,6,Facebook,7793000,1.49,48.97,1.75,678999,Debit Card,14.28,3.17,Headphones
+Flipkart Winter Sale in 2024! 746,2024-06-21 10:37:37,Winter Sale,2024,2555741.36,Electronics,67.74,38151,3278,7,Twitter,5923000,3.66,58.76,1.1,202082,Credit Card,9.09,2.64,Perfume
+Flipkart Monsoon Sale in 2020! 747,2020-06-13 10:40:04,Monsoon Sale,2020,1815800.94,Fashion,63.02,21544,8944,1,Instagram,4764000,1.32,44.14,2.48,594648,Wallet,10.6,2.98,Washing Machine
+Flipkart Summer Sale in 2025! 748,2025-10-07 5:05:05,Summer Sale,2025,526958.24,Books,24.91,5480,6036,7,Email,2521000,0.32,35.92,4.66,889401,Debit Card,2.22,2.97,Headphones
+Flipkart Festive Sale in 2025! 749,2025-04-17 14:12:59,Festive Sale,2025,4370132.07,Books,26.87,13501,4399,6,Twitter,4269000,4.37,74.83,4.56,967150,Credit Card,2.86,4.96,Perfume
+Flipkart Summer Sale in 2022! 750,2022-10-08 10:54:52,Summer Sale,2022,8535854.21,Toys,37.87,43023,5803,5,Facebook,4245000,4,64.54,1.06,128970,Credit Card,6.35,3.39,Smartphone
+Flipkart GOAT Sale in 2020! 751,2020-10-09 13:21:36,GOAT Sale,2020,2777640.25,Fashion,28.4,44890,5295,6,Twitter,4199000,1.18,37.89,3.37,457270,Credit Card,9.6,3.14,Perfume
+Flipkart Winter Sale in 2023! 752,2023-03-15 17:17:14,Winter Sale,2023,4845412.4,Fashion,13.02,23023,8767,7,Flipkart App,9802000,4.97,18.45,4.21,840302,UPI,8.11,2.89,Headphones
+Flipkart No Cost EMI Sale in 2023! 753,2023-11-14 21:26:32,No Cost EMI Sale,2023,2413503.86,Beauty,7.72,10239,6451,2,Facebook,535000,1.57,47.33,3.91,871328,Wallet,7.87,3.78,Perfume
+Flipkart GOAT Sale in 2021! 754,2021-10-27 8:33:57,GOAT Sale,2021,9814677.2,Fashion,66.43,46610,3048,1,Flipkart App,2969000,1.85,30.24,2.49,426665,Cash on Delivery,1.8,3.95,Toys
+Flipkart Monsoon Sale in 2020! 755,2020-02-08 9:31:06,Monsoon Sale,2020,3449683.48,Toys,43.63,2281,1715,2,Twitter,747000,3.16,14.12,0.57,247777,Debit Card,9.34,4.02,Smartphone
+Flipkart Flash Sale in 2022! 756,2022-05-24 12:45:39,Flash Sale,2022,1383358.8,Beauty,61.03,19253,4730,4,Instagram,2110000,4.68,57.78,2.03,141153,Credit Card,7.45,4.71,Smartphone
+Flipkart GOAT Sale in 2022! 757,2022-10-05 11:59:16,GOAT Sale,2022,4876187.2,Books,47.69,7471,4086,7,Email,6809000,3.23,46.16,4.51,469557,UPI,11.29,3.59,Toys
+Flipkart Monsoon Sale in 2024! 758,2024-10-28 21:43:04,Monsoon Sale,2024,5650712.83,Toys,33.81,18683,7917,3,Instagram,3832000,0.63,26.59,2.15,292275,Wallet,11.25,3.29,Perfume
+Flipkart No Cost EMI Sale in 2021! 759,2021-11-21 0:35:48,No Cost EMI Sale,2021,1186431.81,Beauty,6.69,28238,9235,6,Flipkart App,7099000,2.17,47.61,1.76,840117,UPI,9.16,4.94,Shoes
+Flipkart Clearance Sale in 2022! 760,2022-09-24 12:53:27,Clearance Sale,2022,8951756.63,Books,31.79,43923,988,4,Email,5941000,0.34,44.5,2.2,829451,UPI,1.63,4.59,Washing Machine
+Flipkart Summer Sale in 2025! 761,2025-07-01 4:17:12,Summer Sale,2025,2411976.96,Groceries,30.75,5975,720,3,Email,5203000,0.12,22.68,3.38,966176,Wallet,1.7,2.65,Headphones
+Flipkart Clearance Sale in 2024! 762,2024-07-13 20:41:51,Clearance Sale,2024,4082987.75,Groceries,21,8375,5099,4,Email,1839000,2.76,38.44,4.76,685768,Wallet,4.04,3.91,Books
+Flipkart GOAT Sale in 2023! 763,2023-08-09 11:27:02,GOAT Sale,2023,566824.18,Home,49.35,40077,8934,6,Instagram,2366000,2.75,67.47,0.81,16955,Credit Card,2.4,2.94,Perfume
+Flipkart Winter Sale in 2024! 764,2024-04-03 23:22:28,Winter Sale,2024,5142384.39,Groceries,8.63,4527,9520,6,Instagram,8853000,0.6,24.91,4.19,45581,Wallet,8.62,4.38,Books
+Flipkart Deal of the Day in 2020! 765,2020-08-16 22:37:50,Deal of the Day,2020,1789571.26,Books,24.66,35392,3502,3,Facebook,4883000,0.79,11.17,2.77,293843,Debit Card,2.56,3.68,Toys
+Flipkart GOAT Sale in 2023! 766,2023-07-21 10:27:18,GOAT Sale,2023,2136278.77,Electronics,46.4,13584,6740,4,Email,4323000,4.27,23.9,4.51,237026,Cash on Delivery,3.68,4.13,Headphones
+Flipkart Summer Sale in 2023! 767,2023-06-24 9:16:18,Summer Sale,2023,9420423.98,Toys,54.36,18787,8689,7,Facebook,2850000,2.64,22.24,1.22,925637,Credit Card,2.17,4.06,Shoes
+Flipkart Festive Sale in 2025! 768,2025-09-25 2:06:51,Festive Sale,2025,7089864.18,Home,5,14016,5855,7,Facebook,1014000,2.97,24.73,3.09,326106,Debit Card,6.1,3.57,Headphones
+Flipkart No Cost EMI Sale in 2020! 769,2020-02-21 4:07:27,No Cost EMI Sale,2020,9737038.2,Fashion,46.66,12959,9357,6,Facebook,9263000,3.87,48.19,4.55,746476,Credit Card,11.06,4.26,Smartphone
+Flipkart No Cost EMI Sale in 2022! 770,2022-01-03 6:22:44,No Cost EMI Sale,2022,404741,Electronics,8.3,6747,3107,3,Email,2316000,1.84,23.75,4.03,460804,UPI,4.57,3.45,Headphones
+Flipkart No Cost EMI Sale in 2024! 771,2024-11-19 1:52:51,No Cost EMI Sale,2024,3518818.71,Sports,35.42,24145,8836,5,Instagram,2701000,0.77,79.93,0.97,97108,Debit Card,2.22,3.26,Books
+Flipkart Monsoon Sale in 2024! 772,2024-05-17 11:02:55,Monsoon Sale,2024,9349946.17,Home,52.81,7481,2686,5,Facebook,5395000,4.06,32.18,4.74,437165,Cash on Delivery,9.23,3.93,Perfume
+Flipkart Flash Sale in 2024! 773,2024-09-16 20:46:12,Flash Sale,2024,7810607.18,Groceries,55.77,6514,5155,1,Email,9925000,3.79,49.37,2.09,812993,UPI,4.05,3.77,Books
+Flipkart Festive Sale in 2024! 774,2024-03-07 7:22:17,Festive Sale,2024,2895495.1,Home,45.5,26729,8100,7,Flipkart App,8527000,1.17,23.63,4.14,713573,Wallet,3.64,2.95,Laptop
+Flipkart Big Billion Days Sale in 2020! 775,2020-04-27 22:49:25,Big Billion Days Sale,2020,379010.76,Sports,61.63,28573,5744,6,Flipkart App,1380000,0.19,19.16,3.79,286106,UPI,1.31,4.41,Books
+Flipkart Monsoon Sale in 2022! 776,2022-09-25 12:20:57,Monsoon Sale,2022,9370782.94,Sports,17.6,17658,2985,1,Email,3220000,1.61,62.3,2.26,849010,UPI,7.49,2.84,Smartphone
+Flipkart GOAT Sale in 2022! 777,2022-09-22 19:28:53,GOAT Sale,2022,6330242.35,Toys,47.6,4212,2228,4,Instagram,3335000,0.65,11.47,0.94,542149,Cash on Delivery,6.23,4.83,Shoes
+Flipkart Summer Sale in 2023! 778,2023-03-05 21:51:24,Summer Sale,2023,2436544.04,Home,45.78,25363,1261,2,Twitter,649000,3.22,29.67,4.87,20390,Wallet,4.04,4.85,Laptop
+Flipkart Winter Sale in 2021! 779,2021-10-15 12:15:42,Winter Sale,2021,8846141.65,Fashion,8.7,20781,6309,5,Twitter,9798000,2.29,63.86,4.43,19908,Debit Card,6.82,3.15,Shoes
+Flipkart Deal of the Day in 2025! 780,2025-06-17 18:27:23,Deal of the Day,2025,2937647.13,Toys,63.9,24879,4312,4,Instagram,2854000,1.13,47.76,1.77,333536,Wallet,7.63,2.78,Shoes
+Flipkart Summer Sale in 2023! 781,2023-06-27 5:47:23,Summer Sale,2023,375360.69,Books,47.51,8163,7387,5,Flipkart App,3927000,0.59,28.75,1.91,635781,UPI,10.32,4.99,Washing Machine
+Flipkart Big Billion Days Sale in 2024! 782,2024-11-02 18:19:56,Big Billion Days Sale,2024,6443012.36,Books,16.85,25847,9695,4,Flipkart App,552000,1.11,51.12,4.2,246384,UPI,9.63,3.27,Shoes
+Flipkart Winter Sale in 2020! 783,2020-10-13 5:32:42,Winter Sale,2020,5033965.84,Beauty,67.19,13544,9875,7,Facebook,3852000,1.41,42.7,1.71,897717,Cash on Delivery,10.29,3.14,Toys
+Flipkart Big Billion Days Sale in 2023! 784,2023-10-13 10:02:05,Big Billion Days Sale,2023,5813240.29,Electronics,38.86,41729,4353,4,Instagram,5550000,4.38,41.69,0.91,225558,UPI,8.42,3.89,Toys
+Flipkart Festive Sale in 2021! 785,2021-06-15 8:39:55,Festive Sale,2021,9778555.79,Fashion,29.05,47703,3912,4,Instagram,6949000,1.57,18.56,4.47,132126,UPI,12.82,2.96,Washing Machine
+Flipkart Big Billion Days Sale in 2023! 786,2023-12-03 13:18:47,Big Billion Days Sale,2023,5761799.09,Groceries,6.84,8086,8112,3,Twitter,9489000,0.54,22.63,1.78,456238,Wallet,6.4,4.74,Shoes
+Flipkart GOAT Sale in 2023! 787,2023-02-27 9:50:25,GOAT Sale,2023,748209.89,Books,44.14,15598,7442,3,Email,7212000,4.4,35.5,2.07,587318,Credit Card,6.63,3.09,Washing Machine
+Flipkart Flash Sale in 2022! 788,2022-02-05 13:37:21,Flash Sale,2022,6579109.12,Groceries,33.24,32275,2665,7,Instagram,8579000,2.84,55.39,1.92,897150,Cash on Delivery,11.57,3.42,Toys
+Flipkart Big Billion Days Sale in 2020! 789,2020-01-27 9:00:34,Big Billion Days Sale,2020,7478366.32,Home,17.04,40629,8685,1,Twitter,3170000,3.06,15.47,4.36,418621,Debit Card,7.06,2.52,Smartphone
+Flipkart Deal of the Day in 2020! 790,2020-04-09 17:04:00,Deal of the Day,2020,7232718.13,Home,51.19,6657,1216,6,Email,746000,4.72,42.58,2.55,152642,UPI,3.03,4.52,Smartphone
+Flipkart Festive Sale in 2024! 791,2024-07-23 12:31:17,Festive Sale,2024,285866.6,Groceries,46.72,23787,6367,1,Facebook,6822000,4.91,70.91,2.34,354164,UPI,3.98,3.86,Toys
+Flipkart Festive Sale in 2024! 792,2024-03-03 13:53:40,Festive Sale,2024,9945896.19,Fashion,28.65,25591,1871,3,Instagram,6226000,3.69,45.52,3.52,372585,Credit Card,12.77,3.18,Smartphone
+Flipkart Clearance Sale in 2024! 793,2024-09-02 15:07:38,Clearance Sale,2024,725917.81,Groceries,46.67,38255,3316,4,Twitter,3833000,1.07,60.69,3.62,159445,UPI,13.44,3.33,Toys
+Flipkart No Cost EMI Sale in 2022! 794,2022-07-01 21:00:27,No Cost EMI Sale,2022,7937371.1,Groceries,68.74,11367,1870,6,Twitter,9077000,3.06,46.42,4.57,105082,Wallet,13.52,4.87,Headphones
+Flipkart Clearance Sale in 2024! 795,2024-04-24 4:02:38,Clearance Sale,2024,5816914.04,Sports,29.33,8941,2031,7,Instagram,5756000,1.83,23.01,4.56,542755,UPI,6.49,3.2,Laptop
+Flipkart Monsoon Sale in 2021! 796,2021-03-23 20:18:51,Monsoon Sale,2021,1321413.09,Sports,64.45,9688,5651,5,Twitter,8541000,2.57,78.58,3.69,489917,Debit Card,10.37,4.16,Washing Machine
+Flipkart Monsoon Sale in 2022! 797,2022-02-03 18:02:48,Monsoon Sale,2022,1952535.69,Beauty,6.5,2232,4476,3,Twitter,7756000,1.57,49.02,1.27,95327,Debit Card,4.53,3.53,Perfume
+Flipkart Flash Sale in 2020! 798,2020-09-23 2:32:36,Flash Sale,2020,411158.25,Toys,41.66,9973,568,7,Facebook,5020000,0.68,28.36,2.8,415422,UPI,5.21,3.84,Books
+Flipkart Summer Sale in 2020! 799,2020-08-05 17:01:15,Summer Sale,2020,2500964.35,Groceries,69.46,32817,2100,7,Facebook,5297000,2.84,15.26,0.7,556971,Cash on Delivery,4.92,3.93,Laptop
+Flipkart GOAT Sale in 2023! 800,2023-11-04 15:31:20,GOAT Sale,2023,3866667.5,Toys,33.63,40079,1926,6,Email,2790000,0.71,40.97,1.11,304119,Cash on Delivery,6.1,2.67,Smartphone
+Flipkart Clearance Sale in 2025! 801,2025-01-31 1:11:31,Clearance Sale,2025,4567858.34,Beauty,8.65,3352,7014,6,Twitter,516000,4.03,31.04,3.75,552717,Wallet,11,3.36,Headphones
+Flipkart No Cost EMI Sale in 2021! 802,2021-03-14 1:45:57,No Cost EMI Sale,2021,112610.77,Electronics,17.74,40056,6070,7,Facebook,1800000,1.57,14.81,0.7,946719,Cash on Delivery,13.33,3.75,Smartphone
+Flipkart Winter Sale in 2023! 803,2023-10-07 5:15:54,Winter Sale,2023,6354755.16,Beauty,37.11,10263,3292,4,Instagram,9069000,1.83,61.85,4.75,692242,Credit Card,14.34,3.16,Perfume
+Flipkart GOAT Sale in 2023! 804,2023-08-27 4:09:02,GOAT Sale,2023,8300800.21,Books,13.58,39702,7040,1,Flipkart App,8726000,1.02,18.87,3,816937,UPI,6.72,4.78,Books
+Flipkart GOAT Sale in 2025! 805,2025-08-10 20:05:35,GOAT Sale,2025,2670957.83,Sports,14.55,22746,6077,2,Facebook,6543000,0.3,68.67,1.09,467511,Debit Card,10.63,3.91,Shoes
+Flipkart GOAT Sale in 2020! 806,2020-10-13 8:40:45,GOAT Sale,2020,8090729.52,Books,10.53,48753,7588,6,Email,8360000,4.34,34.09,2.75,941411,Credit Card,9.52,4.9,Shoes
+Flipkart Big Billion Days Sale in 2022! 807,2022-08-27 15:45:35,Big Billion Days Sale,2022,2375613.82,Books,33.51,16022,1464,2,Twitter,3400000,3.8,20.97,2.69,509088,Credit Card,3.52,4.32,Toys
+Flipkart Clearance Sale in 2023! 808,2023-11-28 7:25:13,Clearance Sale,2023,8760693.16,Fashion,36.21,46064,9591,7,Email,9961000,4.86,73.55,2.98,646054,Wallet,8.82,4.86,Shoes
+Flipkart Monsoon Sale in 2022! 809,2022-07-27 0:34:56,Monsoon Sale,2022,143680.78,Sports,15.13,47800,2232,1,Twitter,900000,3.7,36.52,0.84,746086,Debit Card,7.58,3.31,Laptop
+Flipkart GOAT Sale in 2022! 810,2022-07-10 11:01:09,GOAT Sale,2022,9627692.82,Sports,9.46,42043,5339,3,Instagram,6980000,4.23,25.01,1.06,682367,UPI,13.06,4.23,Smartphone
+Flipkart Festive Sale in 2022! 811,2022-10-24 2:42:20,Festive Sale,2022,8413967.75,Electronics,29.83,46355,9455,4,Instagram,664000,2.24,17.21,3.5,935540,Credit Card,8.26,3.14,Books
+Flipkart Flash Sale in 2021! 812,2021-06-15 17:45:53,Flash Sale,2021,1757195.66,Home,39.08,2138,7965,2,Flipkart App,7353000,1.6,68.58,2.68,864694,Debit Card,9.71,3.73,Smartphone
+Flipkart Winter Sale in 2020! 813,2020-09-06 15:19:39,Winter Sale,2020,1749012.01,Books,52.65,42423,8430,2,Facebook,6281000,2.52,75.64,3.19,551958,Debit Card,12.39,4.54,Headphones
+Flipkart Festive Sale in 2023! 814,2023-03-03 7:06:07,Festive Sale,2023,7822077.51,Fashion,12.3,1246,5237,3,Flipkart App,1698000,1.14,21.29,1.8,214359,Wallet,7.15,4.74,Toys
+Flipkart Monsoon Sale in 2021! 815,2021-02-09 22:37:07,Monsoon Sale,2021,5617974.9,Books,24.25,48686,8901,1,Instagram,1621000,0.11,25.55,3.7,798366,UPI,4.19,3.31,Shoes
+Flipkart Summer Sale in 2020! 816,2020-06-16 3:56:12,Summer Sale,2020,5461074,Home,17.45,20984,2719,1,Twitter,5337000,2.39,10.03,4.48,910457,Credit Card,11.58,3.87,Toys
+Flipkart Deal of the Day in 2024! 817,2024-03-13 4:07:17,Deal of the Day,2024,5815428.36,Toys,30.93,3630,5518,1,Twitter,2257000,4.78,19.64,3.73,397053,Cash on Delivery,6.87,2.63,Laptop
+Flipkart Festive Sale in 2021! 818,2021-10-18 8:14:16,Festive Sale,2021,1922441.86,Groceries,46.25,27646,3140,7,Twitter,3617000,0.54,64.78,1.9,85060,UPI,6.97,3.96,Shoes
+Flipkart No Cost EMI Sale in 2024! 819,2024-05-10 4:55:36,No Cost EMI Sale,2024,5605843.92,Sports,48.16,10805,2547,1,Email,6833000,3.54,56.11,3.17,369810,Credit Card,14.58,2.91,Toys
+Flipkart Clearance Sale in 2025! 820,2025-03-08 19:06:14,Clearance Sale,2025,2277650.6,Toys,60.07,23077,9176,3,Email,7241000,4.54,21.72,0.71,221915,Wallet,12.32,2.59,Headphones
+Flipkart GOAT Sale in 2023! 821,2023-05-22 1:17:40,GOAT Sale,2023,3059708.5,Groceries,16,3638,2611,5,Email,1095000,2.02,65.03,2.35,789887,UPI,1.11,4.14,Books
+Flipkart Clearance Sale in 2021! 822,2021-03-21 4:42:45,Clearance Sale,2021,9576306.03,Fashion,8.89,27260,8537,6,Instagram,4658000,4.43,16.8,0.54,634253,Wallet,13.41,4.14,Laptop
+Flipkart Summer Sale in 2023! 823,2023-06-05 14:50:23,Summer Sale,2023,1144275.84,Electronics,60.71,35549,4310,5,Email,5776000,3.47,16.65,0.95,643496,Credit Card,1.9,4.49,Smartphone
+Flipkart Deal of the Day in 2025! 824,2025-02-17 3:03:14,Deal of the Day,2025,4263962.36,Fashion,37.64,36404,5988,2,Instagram,3162000,1.2,35.94,3.86,325882,Credit Card,3.6,3.76,Laptop
+Flipkart Big Billion Days Sale in 2020! 825,2020-02-02 12:21:19,Big Billion Days Sale,2020,3178611.73,Beauty,35.75,11102,159,3,Facebook,8773000,3.23,54.39,1.04,995325,Debit Card,3.55,3.92,Toys
+Flipkart Big Billion Days Sale in 2024! 826,2024-05-29 23:16:48,Big Billion Days Sale,2024,4372464.08,Beauty,28.38,8064,9427,5,Email,8284000,3.32,78.16,3.33,791905,UPI,12.84,3.73,Toys
+Flipkart Monsoon Sale in 2022! 827,2022-06-20 1:33:16,Monsoon Sale,2022,347411.23,Sports,62.17,15384,1901,6,Flipkart App,5405000,4.62,75.3,2.04,490174,Cash on Delivery,5.91,3.85,Headphones
+Flipkart Winter Sale in 2025! 828,2025-10-17 5:41:53,Winter Sale,2025,8648411.76,Toys,9.13,29557,4699,7,Instagram,6338000,3.44,73.29,3.97,718851,UPI,8.35,3.09,Headphones
+Flipkart Festive Sale in 2023! 829,2023-05-23 1:53:21,Festive Sale,2023,7735502.08,Toys,54.91,10643,6611,3,Facebook,8524000,1.51,55.89,3.01,223034,Wallet,1.61,3.98,Shoes
+Flipkart Deal of the Day in 2024! 830,2024-05-14 11:26:47,Deal of the Day,2024,6610932.87,Books,61.38,23644,830,1,Twitter,5240000,2.35,73.26,3.87,737408,Debit Card,6.12,4.03,Books
+Flipkart GOAT Sale in 2024! 831,2024-11-09 7:10:21,GOAT Sale,2024,3923648.92,Toys,64.47,29133,8410,2,Flipkart App,7501000,0.31,27.04,3.65,275416,Debit Card,11.9,3.23,Toys
+Flipkart GOAT Sale in 2022! 832,2022-11-16 13:57:44,GOAT Sale,2022,8470340.66,Books,53.18,3072,6047,2,Flipkart App,1005000,4.06,50.11,1.75,86560,Credit Card,4.6,3.25,Headphones
+Flipkart Winter Sale in 2020! 833,2020-10-30 21:39:29,Winter Sale,2020,7189852.79,Sports,48.96,12337,7785,4,Facebook,3958000,0.43,19.89,1.57,365316,Cash on Delivery,9.96,4.3,Toys
+Flipkart Monsoon Sale in 2021! 834,2021-05-13 21:56:40,Monsoon Sale,2021,3195767.23,Electronics,42.16,37869,5886,5,Twitter,2706000,3.99,40.08,1.11,104133,Debit Card,1.12,4.55,Toys
+Flipkart Festive Sale in 2024! 835,2024-06-17 9:43:32,Festive Sale,2024,5520083.66,Toys,60.19,11542,6958,7,Facebook,5272000,4.1,36.14,4.44,31747,Wallet,9.22,3.86,Washing Machine
+Flipkart Deal of the Day in 2023! 836,2023-09-30 20:05:47,Deal of the Day,2023,6493230.99,Toys,33.28,4051,9782,5,Email,5725000,2.96,29.71,3.77,954836,Wallet,4.55,3.35,Toys
+Flipkart Deal of the Day in 2024! 837,2024-02-29 6:42:31,Deal of the Day,2024,5191671.3,Electronics,11.47,5877,4568,3,Twitter,8451000,3.99,32.15,0.9,381344,Wallet,3.44,4.93,Laptop
+Flipkart Summer Sale in 2023! 838,2023-08-05 7:36:38,Summer Sale,2023,613705.05,Home,67.74,29137,945,1,Flipkart App,9994000,1.29,24.96,1.81,499893,Cash on Delivery,12.37,3.91,Books
+Flipkart Deal of the Day in 2024! 839,2024-12-14 20:10:13,Deal of the Day,2024,563479.48,Electronics,60.86,36137,5021,7,Twitter,1743000,3.54,55.8,4.6,629027,UPI,6.12,4.99,Smartphone
+Flipkart Clearance Sale in 2024! 840,2024-06-08 18:38:19,Clearance Sale,2024,4650985.36,Fashion,16.91,5000,7461,3,Email,4680000,3.68,22.38,2.66,858866,Credit Card,9.08,4.35,Books
+Flipkart Deal of the Day in 2025! 841,2025-12-29 3:14:08,Deal of the Day,2025,5152814.89,Books,21.52,44785,5366,1,Instagram,6698000,0.19,64.33,3.17,680255,Wallet,12.67,3.91,Books
+Flipkart Flash Sale in 2023! 842,2023-08-20 13:35:54,Flash Sale,2023,9032147.28,Toys,46.77,27243,5749,1,Flipkart App,9955000,0.81,27.35,3.33,671139,Cash on Delivery,10.95,3.38,Shoes
+Flipkart Festive Sale in 2020! 843,2020-02-22 1:49:57,Festive Sale,2020,5727112.53,Fashion,68.25,10007,4256,6,Facebook,8130000,1.52,74.36,3.48,388095,UPI,12.85,4.94,Toys
+Flipkart Flash Sale in 2024! 844,2024-08-21 21:53:56,Flash Sale,2024,4472360.57,Books,46,30845,5854,1,Email,8931000,3.62,71.65,1.08,855457,Wallet,12.32,2.91,Books
+Flipkart GOAT Sale in 2023! 845,2023-11-27 9:47:54,GOAT Sale,2023,4487047.49,Groceries,65.25,38689,9415,7,Flipkart App,1125000,1.77,36.88,4.47,742739,Credit Card,11.19,2.99,Perfume
+Flipkart Festive Sale in 2022! 846,2022-09-07 16:19:16,Festive Sale,2022,9726185.84,Electronics,23.4,43231,2425,5,Instagram,4397000,2.92,30.32,1.1,570489,Debit Card,5.77,3.72,Books
+Flipkart Flash Sale in 2020! 847,2020-02-10 2:27:35,Flash Sale,2020,2810046.99,Fashion,25.37,22298,768,6,Instagram,4364000,3.83,18.01,4.84,577205,Wallet,11.5,2.77,Books
+Flipkart Festive Sale in 2025! 848,2025-01-13 1:37:24,Festive Sale,2025,8314338.89,Toys,69.23,31604,5590,5,Email,1678000,4.41,34.64,1.85,361896,UPI,11.55,4.47,Perfume
+Flipkart Flash Sale in 2020! 849,2020-10-04 22:51:17,Flash Sale,2020,529196.39,Fashion,60.77,30115,8647,5,Email,5454000,0.95,53.82,1.14,741381,UPI,6.13,4.64,Washing Machine
+Flipkart No Cost EMI Sale in 2021! 850,2021-11-13 19:30:15,No Cost EMI Sale,2021,8262022.34,Groceries,20.83,22151,7903,1,Instagram,4923000,1.96,78.67,2.83,241151,Cash on Delivery,10.06,4.8,Headphones
+Flipkart Summer Sale in 2021! 851,2021-12-24 10:25:36,Summer Sale,2021,3110186.5,Beauty,50.56,10929,8577,1,Flipkart App,3393000,4.34,29.54,4.71,224679,Wallet,5.05,3.62,Headphones
+Flipkart Deal of the Day in 2021! 852,2021-01-17 10:30:29,Deal of the Day,2021,197496.35,Home,20.32,25178,6806,5,Flipkart App,3793000,2.36,16.31,1.32,988844,Cash on Delivery,8.42,3.01,Toys
+Flipkart No Cost EMI Sale in 2020! 853,2020-07-30 20:42:02,No Cost EMI Sale,2020,4140652.2,Electronics,5.42,19559,7641,7,Instagram,6257000,0.87,27.4,1.59,500030,Wallet,7.1,3.29,Books
+Flipkart Deal of the Day in 2025! 854,2025-01-09 20:16:33,Deal of the Day,2025,5014536.39,Toys,32.56,39399,7460,1,Email,4503000,3.93,71.98,2.8,871876,Wallet,3.68,3.65,Washing Machine
+Flipkart GOAT Sale in 2022! 855,2022-04-01 14:53:31,GOAT Sale,2022,5916752.44,Electronics,10.47,20282,7991,3,Facebook,8445000,1.92,29.25,2.87,835003,Credit Card,11.58,4.25,Washing Machine
+Flipkart GOAT Sale in 2023! 856,2023-03-30 15:39:25,GOAT Sale,2023,6321407.24,Beauty,15.19,3670,929,6,Facebook,5015000,2.2,39.64,1.07,427985,Debit Card,3.4,2.8,Shoes
+Flipkart GOAT Sale in 2020! 857,2020-12-29 16:10:49,GOAT Sale,2020,5345970.53,Toys,25.83,19807,7579,1,Email,7327000,4.31,46.69,3.4,175013,Debit Card,1.86,4.58,Toys
+Flipkart Monsoon Sale in 2023! 858,2023-04-15 6:01:56,Monsoon Sale,2023,2023231.71,Beauty,15.76,41770,9161,2,Facebook,9368000,2.65,59.37,4.25,30321,Credit Card,3.07,3.57,Headphones
+Flipkart GOAT Sale in 2021! 859,2021-10-13 8:59:46,GOAT Sale,2021,7103840.59,Books,26.6,21428,893,2,Flipkart App,4710000,1.22,19.54,2.64,253636,Wallet,4.36,3.22,Shoes
+Flipkart Winter Sale in 2020! 860,2020-05-14 14:38:51,Winter Sale,2020,406177.02,Books,35.14,7159,7960,2,Twitter,1170000,2.28,76.31,0.84,34653,UPI,5.16,4.08,Headphones
+Flipkart Monsoon Sale in 2024! 861,2024-01-06 12:44:57,Monsoon Sale,2024,7688225.85,Fashion,35.1,45632,1668,7,Flipkart App,6523000,4.33,65.37,4.78,493354,UPI,4.17,3.12,Laptop
+Flipkart Summer Sale in 2022! 862,2022-02-19 14:40:39,Summer Sale,2022,7490604.36,Home,43.85,17768,1161,6,Flipkart App,3686000,3.6,57.48,2.8,666235,Debit Card,9.74,4.24,Washing Machine
+Flipkart Winter Sale in 2024! 863,2024-12-02 3:32:24,Winter Sale,2024,6451218.16,Books,28.93,14608,3826,3,Facebook,2048000,1.76,59.89,1.19,794230,Debit Card,6.91,4.13,Toys
+Flipkart Festive Sale in 2024! 864,2024-08-18 19:56:28,Festive Sale,2024,184361.47,Home,29.65,18324,1555,5,Instagram,6250000,2.27,36.83,4.57,58375,UPI,14.24,4.36,Headphones
+Flipkart Big Billion Days Sale in 2025! 865,2025-02-07 8:13:59,Big Billion Days Sale,2025,6439978.82,Toys,59.78,49757,3486,4,Facebook,6211000,0.81,11.59,4.58,363376,Wallet,7.1,3.47,Toys
+Flipkart GOAT Sale in 2021! 866,2021-08-05 9:46:02,GOAT Sale,2021,639469.26,Books,54.61,8664,1967,3,Twitter,6701000,2.65,73.11,4.17,815974,Credit Card,8.91,2.52,Books
+Flipkart GOAT Sale in 2023! 867,2023-02-03 19:03:12,GOAT Sale,2023,8552223.34,Fashion,59.81,24554,9753,7,Email,5342000,0.42,39.11,3.77,655652,Debit Card,1.48,4.27,Shoes
+Flipkart Big Billion Days Sale in 2022! 868,2022-08-06 17:05:10,Big Billion Days Sale,2022,4515085.84,Books,53.4,6659,9528,5,Twitter,5773000,2.43,69.23,0.58,824923,Cash on Delivery,2.66,4.33,Books
+Flipkart GOAT Sale in 2023! 869,2023-04-08 9:55:49,GOAT Sale,2023,4986860.61,Electronics,69.51,6444,3364,1,Flipkart App,5562000,0.26,19.41,3.01,791671,Credit Card,14.34,3.86,Books
+Flipkart Festive Sale in 2021! 870,2021-05-29 16:34:11,Festive Sale,2021,3349411.74,Books,56.74,47595,8231,1,Facebook,7020000,4.2,25.49,4.05,966519,Debit Card,3.33,2.59,Smartphone
+Flipkart Summer Sale in 2024! 871,2024-05-15 9:46:24,Summer Sale,2024,8038847.08,Beauty,64.33,23735,8921,1,Twitter,4073000,4.62,52.66,2.39,478274,UPI,2.01,4.44,Shoes
+Flipkart Deal of the Day in 2025! 872,2025-02-26 9:14:00,Deal of the Day,2025,8132573.86,Books,9.89,46755,8056,1,Email,1258000,3.25,24.49,1.73,11858,UPI,11.66,4.16,Headphones
+Flipkart Monsoon Sale in 2021! 873,2021-09-26 16:38:05,Monsoon Sale,2021,4909423.77,Beauty,13.16,42622,8766,4,Facebook,4667000,3.94,17.13,3.6,452747,Debit Card,7.11,4.57,Toys
+Flipkart Big Billion Days Sale in 2021! 874,2021-11-02 18:35:31,Big Billion Days Sale,2021,4312292.03,Sports,19.67,20923,4973,5,Facebook,7787000,2.99,75.37,3.55,272645,Debit Card,8.15,4.21,Washing Machine
+Flipkart Monsoon Sale in 2022! 875,2022-03-13 4:42:54,Monsoon Sale,2022,1286634.05,Beauty,51.15,4818,8197,6,Twitter,8062000,0.85,61.08,2,567980,Cash on Delivery,2.2,3.51,Perfume
+Flipkart Flash Sale in 2024! 876,2024-12-17 11:19:38,Flash Sale,2024,5418380.34,Sports,66.43,17071,151,5,Flipkart App,2634000,3.29,73.76,1.37,216455,Cash on Delivery,12.79,3.64,Headphones
+Flipkart Monsoon Sale in 2020! 877,2020-08-26 20:49:03,Monsoon Sale,2020,5424235.93,Home,58.57,6229,7883,4,Flipkart App,1579000,1.05,54.17,2.65,648694,UPI,13.96,4.72,Shoes
+Flipkart GOAT Sale in 2024! 878,2024-11-21 21:39:09,GOAT Sale,2024,8502203.44,Toys,25.57,1195,6132,4,Facebook,975000,1.83,65.38,3.49,584172,Cash on Delivery,1.78,4.61,Smartphone
+Flipkart Clearance Sale in 2020! 879,2020-02-09 16:50:14,Clearance Sale,2020,9525060.87,Home,30.79,11804,1052,5,Facebook,1533000,3.91,68.55,3.39,963621,UPI,3.87,4,Laptop
+Flipkart Summer Sale in 2024! 880,2024-12-05 10:38:36,Summer Sale,2024,4899052.22,Toys,46.89,36591,5990,3,Flipkart App,1582000,2.79,57.25,2.25,354947,Wallet,12.51,4.81,Books
+Flipkart Deal of the Day in 2023! 881,2023-01-17 12:38:34,Deal of the Day,2023,5976647.74,Sports,23.06,44456,5344,5,Flipkart App,2502000,1.31,71.48,0.61,625309,Wallet,4.27,4.9,Books
+Flipkart Winter Sale in 2023! 882,2023-02-22 18:02:52,Winter Sale,2023,349256.67,Home,35.32,20086,7763,7,Email,9619000,4.97,46.27,4.13,803557,Credit Card,4.49,4.42,Washing Machine
+Flipkart Winter Sale in 2020! 883,2020-09-29 5:19:10,Winter Sale,2020,3425432.23,Groceries,32.25,43444,5950,7,Flipkart App,2109000,2.41,71.05,1.96,889019,Debit Card,14.75,4.07,Books
+Flipkart Summer Sale in 2024! 884,2024-04-17 16:18:02,Summer Sale,2024,2181192.73,Sports,48.41,14392,6754,6,Instagram,8325000,2.18,16.85,4.24,805784,Wallet,13.68,3.65,Shoes
+Flipkart Deal of the Day in 2023! 885,2023-04-26 19:37:55,Deal of the Day,2023,5535388.2,Books,19.03,49431,2546,2,Email,9307000,4.44,22.75,2.51,890734,Cash on Delivery,3.42,2.52,Headphones
+Flipkart Winter Sale in 2024! 886,2024-11-01 3:09:23,Winter Sale,2024,3269401.82,Electronics,45.56,10985,7730,4,Facebook,6746000,0.55,13.98,1.36,370888,Wallet,5.72,3.45,Toys
+Flipkart No Cost EMI Sale in 2021! 887,2021-10-24 20:11:25,No Cost EMI Sale,2021,7713826.01,Sports,5.44,31832,5801,1,Instagram,8381000,1.73,29.6,1.67,417195,Credit Card,1.94,2.96,Smartphone
+Flipkart GOAT Sale in 2022! 888,2022-11-13 0:43:57,GOAT Sale,2022,5317228.41,Fashion,47.67,25045,3021,6,Email,8017000,2.09,46.7,3.75,525390,Credit Card,7.1,4.32,Smartphone
+Flipkart Festive Sale in 2025! 889,2025-06-17 15:38:23,Festive Sale,2025,3078713.18,Groceries,28.48,19178,6109,6,Instagram,8382000,0.45,60.88,2.16,364864,Wallet,10.06,4.27,Laptop
+Flipkart Flash Sale in 2024! 890,2024-05-30 9:21:24,Flash Sale,2024,8358114.05,Electronics,69.79,29668,9377,6,Instagram,4277000,2.07,78.4,4.89,465734,Credit Card,2.9,3.27,Toys
+Flipkart Winter Sale in 2022! 891,2022-07-14 6:16:25,Winter Sale,2022,1641022.83,Home,9.23,8458,7061,5,Flipkart App,1548000,1.19,76.32,2.55,430212,Credit Card,10.06,2.86,Shoes
+Flipkart Winter Sale in 2025! 892,2025-01-07 11:05:46,Winter Sale,2025,8424437.16,Fashion,30.55,24288,4589,6,Flipkart App,6959000,3.03,71.9,1.8,249865,UPI,6.25,3.49,Toys
+Flipkart Clearance Sale in 2020! 893,2020-07-27 3:37:26,Clearance Sale,2020,4452953.55,Sports,53.3,30835,6037,3,Flipkart App,7800000,4.75,70.21,0.79,44947,Cash on Delivery,7.02,3.39,Washing Machine
+Flipkart Summer Sale in 2021! 894,2021-10-10 4:35:28,Summer Sale,2021,282448.1,Electronics,13.69,7654,1213,7,Facebook,4385000,4.67,29.05,2.01,848975,Credit Card,3.08,2.59,Toys
+Flipkart Festive Sale in 2022! 895,2022-06-23 20:16:31,Festive Sale,2022,2659624.93,Electronics,22.42,40119,4866,2,Facebook,6623000,1.42,44.3,1.88,38235,Debit Card,14.81,3.23,Toys
+Flipkart Big Billion Days Sale in 2021! 896,2021-01-11 22:25:18,Big Billion Days Sale,2021,2470321.8,Home,44.9,11911,6419,5,Facebook,7517000,4.34,23.59,3.94,992840,Credit Card,3.5,2.94,Toys
+Flipkart Summer Sale in 2020! 897,2020-06-15 22:14:55,Summer Sale,2020,955683.41,Groceries,20.52,35500,1957,5,Email,6757000,3.31,72.17,1.73,618233,Wallet,12.74,4.48,Washing Machine
+Flipkart Big Billion Days Sale in 2021! 898,2021-03-29 7:10:01,Big Billion Days Sale,2021,4839270.61,Sports,49.31,23594,2762,6,Email,5278000,1.82,59.11,3.48,745132,UPI,14.05,4.2,Washing Machine
+Flipkart GOAT Sale in 2020! 899,2020-06-02 4:01:56,GOAT Sale,2020,7864805.33,Home,69.36,49366,5736,1,Instagram,9101000,3.38,78.7,2.88,958356,Wallet,5.9,3.85,Books
+Flipkart Flash Sale in 2025! 900,2025-08-11 17:27:44,Flash Sale,2025,5284976.39,Groceries,65.91,8813,665,5,Flipkart App,9865000,2.16,60.86,3.64,544756,Debit Card,14.4,4.3,Headphones
+Flipkart Festive Sale in 2020! 901,2020-03-31 9:07:00,Festive Sale,2020,6006875.26,Groceries,44.09,4998,7795,7,Instagram,4394000,2.58,11.13,1.73,753216,Wallet,6.69,4.88,Smartphone
+Flipkart Winter Sale in 2021! 902,2021-12-11 7:47:55,Winter Sale,2021,8773692.92,Toys,41.7,49093,1284,5,Flipkart App,4976000,4.44,46.7,0.88,380412,Debit Card,13.71,2.89,Headphones
+Flipkart Clearance Sale in 2023! 903,2023-08-07 17:33:41,Clearance Sale,2023,7664123.99,Toys,43.11,25034,7509,2,Twitter,3915000,3.73,73.74,2.54,260582,UPI,10.54,2.51,Shoes
+Flipkart Clearance Sale in 2024! 904,2024-04-06 19:49:41,Clearance Sale,2024,1845558.07,Books,16.39,36059,9965,1,Facebook,680000,0.76,34.11,2.74,511034,Cash on Delivery,12.91,4.89,Headphones
+Flipkart Big Billion Days Sale in 2025! 905,2025-10-03 1:12:09,Big Billion Days Sale,2025,9868423.74,Toys,50.33,16378,2527,1,Email,8519000,2.72,33.81,3.18,889746,Debit Card,4.93,4,Headphones
+Flipkart GOAT Sale in 2024! 906,2024-10-13 21:45:58,GOAT Sale,2024,8438965.89,Books,29.53,42032,6150,4,Email,946000,4.99,65.23,1.23,884466,Wallet,4.82,2.69,Perfume
+Flipkart Deal of the Day in 2025! 907,2025-07-30 2:03:53,Deal of the Day,2025,4872313.06,Home,56.44,11283,3895,5,Email,2477000,4.73,35.56,2.06,595994,Debit Card,10.61,2.83,Washing Machine
+Flipkart Big Billion Days Sale in 2023! 908,2023-12-22 8:44:26,Big Billion Days Sale,2023,8568751.15,Electronics,53.58,31484,6522,1,Twitter,2714000,0.81,26.88,3.84,287551,Wallet,9.74,3.95,Shoes
+Flipkart GOAT Sale in 2025! 909,2025-07-31 4:57:12,GOAT Sale,2025,3889005.93,Electronics,18.08,21632,1535,7,Email,8281000,3.32,73.36,2.58,762781,UPI,6.07,4.53,Laptop
+Flipkart GOAT Sale in 2021! 910,2021-05-10 0:00:05,GOAT Sale,2021,9567812.96,Books,7.64,34632,5595,1,Facebook,8920000,2.2,47.95,4.08,46949,Wallet,12.01,3.31,Perfume
+Flipkart Big Billion Days Sale in 2021! 911,2021-08-11 16:26:17,Big Billion Days Sale,2021,5154021.97,Home,8,5932,1375,5,Email,7613000,2.02,19.8,0.51,977899,UPI,11.32,2.64,Washing Machine
+Flipkart Festive Sale in 2022! 912,2022-08-30 12:19:38,Festive Sale,2022,4158720.31,Groceries,67.88,31428,9921,6,Email,3442000,4.58,46.34,2.49,26317,Cash on Delivery,14.44,3.3,Perfume
+Flipkart Summer Sale in 2021! 913,2021-05-04 22:07:27,Summer Sale,2021,8259082.8,Beauty,18.55,24065,8595,5,Twitter,2040000,1.32,55,4.26,954259,Debit Card,4.58,4.94,Laptop
+Flipkart Winter Sale in 2020! 914,2020-04-25 13:24:28,Winter Sale,2020,2993795.82,Home,8.6,42303,6864,2,Flipkart App,1266000,1.19,37.45,1.75,158703,Debit Card,4.49,3.71,Perfume
+Flipkart Deal of the Day in 2025! 915,2025-09-26 9:09:08,Deal of the Day,2025,6182098.93,Fashion,15.62,10262,5654,7,Facebook,4494000,0.82,30.94,0.82,765255,Cash on Delivery,1.35,3.72,Smartphone
+Flipkart Monsoon Sale in 2025! 916,2025-05-31 7:18:07,Monsoon Sale,2025,8700990.99,Home,25.23,44956,1410,2,Instagram,5168000,4.53,77.66,4.52,960357,Credit Card,7.82,3.3,Shoes
+Flipkart No Cost EMI Sale in 2024! 917,2024-05-26 21:27:28,No Cost EMI Sale,2024,918753.77,Groceries,58.05,8660,1433,5,Email,1142000,2.4,54.34,1.3,639943,Credit Card,4.5,3.77,Smartphone
+Flipkart Big Billion Days Sale in 2025! 918,2025-09-02 4:22:43,Big Billion Days Sale,2025,1534323.94,Fashion,57.44,3979,8188,6,Facebook,9687000,1.1,52.27,3.42,31197,Debit Card,10.71,2.9,Shoes
+Flipkart Monsoon Sale in 2025! 919,2025-11-26 12:19:04,Monsoon Sale,2025,8917734.37,Electronics,50.97,43572,964,3,Twitter,3349000,3.71,42.49,3.17,178950,UPI,9.55,3.67,Shoes
+Flipkart Deal of the Day in 2022! 920,2022-11-14 7:45:36,Deal of the Day,2022,220647.62,Books,25.9,36287,6078,6,Facebook,5259000,2.62,16.57,2.73,774664,Wallet,12.78,3.13,Smartphone
+Flipkart Summer Sale in 2025! 921,2025-10-20 2:44:11,Summer Sale,2025,9339900.93,Groceries,42.55,31988,6181,6,Flipkart App,722000,1.61,77.84,3.82,359909,Credit Card,14.22,3.93,Laptop
+Flipkart Festive Sale in 2023! 922,2023-04-17 20:13:38,Festive Sale,2023,5164644.23,Sports,18.92,42404,3582,3,Email,8425000,0.18,29.26,4.59,412336,Debit Card,2.03,3.99,Perfume
+Flipkart Clearance Sale in 2021! 923,2021-08-12 14:11:48,Clearance Sale,2021,2807271.66,Books,31.93,22104,199,1,Facebook,1625000,2.27,26.69,0.53,551515,Wallet,12.53,2.85,Laptop
+Flipkart Deal of the Day in 2023! 924,2023-11-27 5:02:47,Deal of the Day,2023,5343902.88,Home,7.12,8812,935,4,Flipkart App,3495000,4.69,52.29,3.47,663549,Cash on Delivery,14.26,3.31,Washing Machine
+Flipkart Monsoon Sale in 2021! 925,2021-04-17 16:09:19,Monsoon Sale,2021,4796024.01,Groceries,7.39,46378,8669,5,Twitter,9871000,0.83,40.49,3.57,881727,Debit Card,14.82,4.93,Toys
+Flipkart Summer Sale in 2025! 926,2025-02-19 6:26:17,Summer Sale,2025,7409962.33,Home,56.4,40699,146,7,Flipkart App,5690000,1.41,51.45,1.57,666019,Debit Card,10.15,3.89,Toys
+Flipkart Festive Sale in 2023! 927,2023-02-17 6:50:11,Festive Sale,2023,3378443.19,Beauty,30.51,43670,7800,6,Facebook,4977000,0.96,78.56,3.87,730348,UPI,14.29,2.83,Washing Machine
+Flipkart Big Billion Days Sale in 2022! 928,2022-09-27 1:13:53,Big Billion Days Sale,2022,5681465.89,Groceries,21.63,22218,3136,3,Email,4089000,0.18,63.69,3.29,642905,Cash on Delivery,6.93,4.29,Perfume
+Flipkart Clearance Sale in 2024! 929,2024-06-05 17:50:35,Clearance Sale,2024,2855596.77,Beauty,30.21,13417,6475,2,Email,5065000,3.77,57.89,2.78,837136,UPI,13.16,4.96,Smartphone
+Flipkart Flash Sale in 2020! 930,2020-06-10 10:32:10,Flash Sale,2020,9188232.23,Electronics,16.43,48812,5110,6,Email,7504000,4.43,63.81,0.79,843030,Credit Card,4.22,3.98,Books
+Flipkart Summer Sale in 2023! 931,2023-10-11 17:35:42,Summer Sale,2023,3259118.21,Beauty,9.8,3055,1515,3,Flipkart App,8800000,1.77,60.57,0.64,563200,Wallet,13.51,4.34,Washing Machine
+Flipkart Deal of the Day in 2022! 932,2022-08-25 3:57:41,Deal of the Day,2022,3479107.85,Books,7.27,11460,7699,3,Facebook,9418000,4.89,25.75,0.74,850512,Debit Card,3.4,2.69,Books
+Flipkart GOAT Sale in 2020! 933,2020-08-04 13:32:45,GOAT Sale,2020,5746107.48,Electronics,51.65,3609,893,6,Instagram,4958000,4.46,20.91,4.72,553900,Cash on Delivery,8.08,3.31,Headphones
+Flipkart Festive Sale in 2020! 934,2020-11-16 17:09:52,Festive Sale,2020,289182.78,Books,58.48,14239,1641,5,Twitter,2108000,1.35,25.26,2.58,144351,Debit Card,11.57,3.73,Laptop
+Flipkart Winter Sale in 2024! 935,2024-12-30 5:06:47,Winter Sale,2024,7536648.4,Toys,53.65,3248,6487,5,Facebook,2865000,4.26,65.06,3.99,427852,Wallet,2.03,4.43,Shoes
+Flipkart No Cost EMI Sale in 2023! 936,2023-03-06 4:26:06,No Cost EMI Sale,2023,4040001.16,Home,67.19,27148,1064,7,Flipkart App,5798000,3.3,17.39,3.71,486226,Cash on Delivery,6.67,3.1,Books
+Flipkart Big Billion Days Sale in 2022! 937,2022-03-24 11:41:10,Big Billion Days Sale,2022,305358.83,Fashion,18.29,25420,2230,2,Flipkart App,7362000,3.3,11.71,0.68,46732,Cash on Delivery,13.05,4,Toys
+Flipkart Monsoon Sale in 2024! 938,2024-01-10 17:18:03,Monsoon Sale,2024,9180820.37,Sports,30.27,25406,5735,1,Twitter,8794000,4.62,48.94,4.22,586315,Wallet,3.61,3.92,Shoes
+Flipkart Monsoon Sale in 2022! 939,2022-07-15 20:19:26,Monsoon Sale,2022,6454457.25,Toys,42.05,23873,2297,2,Email,2816000,0.22,46.17,4.57,716617,Cash on Delivery,4.49,2.75,Toys
+Flipkart No Cost EMI Sale in 2024! 940,2024-05-03 0:43:03,No Cost EMI Sale,2024,1178116.15,Electronics,13.39,41138,1066,3,Flipkart App,6185000,4.25,43.16,3.08,758438,Credit Card,9.16,3.81,Headphones
+Flipkart Big Billion Days Sale in 2023! 941,2023-03-23 5:31:20,Big Billion Days Sale,2023,6650885,Home,67.86,44871,4569,2,Facebook,6973000,3.4,22.71,4.79,641393,UPI,14.72,3.47,Shoes
+Flipkart Winter Sale in 2025! 942,2025-05-31 2:43:06,Winter Sale,2025,5820829.43,Sports,53.53,31773,754,7,Twitter,5961000,3.97,68.53,1.32,32403,Credit Card,3.31,4.94,Books
+Flipkart Clearance Sale in 2021! 943,2021-04-11 14:31:09,Clearance Sale,2021,9598556.24,Sports,49.14,35674,2733,3,Email,4563000,4.3,38.75,3.81,789944,Cash on Delivery,7.96,4.9,Perfume
+Flipkart Summer Sale in 2022! 944,2022-08-26 17:12:52,Summer Sale,2022,2627879.37,Books,28.11,33106,9768,7,Facebook,1727000,1.55,28.37,2.81,303108,Wallet,5.29,3.91,Laptop
+Flipkart No Cost EMI Sale in 2023! 945,2023-02-18 3:09:34,No Cost EMI Sale,2023,3564919.68,Sports,55.88,24976,3772,1,Facebook,1763000,2.76,25.76,3.58,808190,Wallet,14.51,3.95,Perfume
+Flipkart GOAT Sale in 2024! 946,2024-04-24 0:11:37,GOAT Sale,2024,7284343.54,Beauty,14.92,31816,7854,7,Facebook,2927000,4.99,18.02,4.45,568862,Debit Card,14.98,4.58,Smartphone
+Flipkart GOAT Sale in 2022! 947,2022-04-11 11:24:41,GOAT Sale,2022,1653976.58,Groceries,27.37,46076,6312,5,Instagram,7359000,1.87,45.74,1.27,511171,Credit Card,2.63,3.68,Shoes
+Flipkart Clearance Sale in 2023! 948,2023-11-25 21:33:21,Clearance Sale,2023,1978188.93,Electronics,15.62,13648,2977,4,Twitter,8556000,1.71,66.89,4.71,165069,Cash on Delivery,3.78,3.53,Books
+Flipkart Big Billion Days Sale in 2020! 949,2020-05-29 10:42:11,Big Billion Days Sale,2020,6940644.67,Home,14.57,46425,4727,3,Facebook,1937000,2.72,17.1,3.16,511576,UPI,3.03,3.27,Shoes
+Flipkart Festive Sale in 2020! 950,2020-01-29 10:58:23,Festive Sale,2020,4807358.56,Sports,68.23,2684,6993,2,Instagram,3966000,3.34,73.48,3.07,768134,Debit Card,2.96,4.3,Laptop
+Flipkart GOAT Sale in 2024! 951,2024-12-27 4:53:41,GOAT Sale,2024,6429975.32,Home,6.05,1819,9775,7,Facebook,8147000,1.51,73.89,3.55,703136,Debit Card,9.53,2.62,Shoes
+Flipkart GOAT Sale in 2021! 952,2021-06-26 1:22:29,GOAT Sale,2021,1214934.35,Beauty,46.14,46953,533,6,Facebook,9303000,3.88,63.4,3.79,777047,UPI,5.57,4.22,Perfume
+Flipkart Big Billion Days Sale in 2023! 953,2023-03-07 3:44:33,Big Billion Days Sale,2023,9945854.91,Beauty,22.67,22906,8269,7,Twitter,8789000,3.85,55.23,3.6,643737,Cash on Delivery,13.17,4.43,Headphones
+Flipkart GOAT Sale in 2021! 954,2021-06-02 9:35:25,GOAT Sale,2021,7021028.9,Fashion,25.24,5688,9446,3,Twitter,8505000,0.54,21.49,3.17,67206,UPI,10.63,4.94,Books
+Flipkart Clearance Sale in 2023! 955,2023-06-26 3:28:59,Clearance Sale,2023,5836283.29,Sports,62.96,3080,6194,7,Email,9724000,1.3,74.66,3.57,934928,Credit Card,7.41,3.89,Smartphone
+Flipkart GOAT Sale in 2023! 956,2023-02-07 14:03:43,GOAT Sale,2023,7148504.3,Toys,24.44,38101,341,6,Twitter,5147000,1.46,52.67,1.61,92931,Cash on Delivery,13.3,2.69,Toys
+Flipkart Big Billion Days Sale in 2021! 957,2021-11-15 7:39:54,Big Billion Days Sale,2021,1491168.08,Beauty,16.63,29146,4262,7,Email,2825000,2.4,21.8,2.95,807373,Credit Card,14.99,4.81,Shoes
+Flipkart Deal of the Day in 2024! 958,2024-03-10 6:02:22,Deal of the Day,2024,7895786.93,Toys,10.84,46636,8538,5,Email,2140000,3.8,53.01,1.93,322977,Debit Card,10.62,4.71,Toys
+Flipkart Deal of the Day in 2022! 959,2022-01-17 16:58:35,Deal of the Day,2022,8817525.11,Beauty,63.31,20775,6306,7,Flipkart App,7592000,3.18,36.21,2.75,742598,Debit Card,12.46,4.25,Laptop
+Flipkart Clearance Sale in 2025! 960,2025-03-01 2:58:03,Clearance Sale,2025,7129285.41,Fashion,52.7,22678,4744,7,Email,693000,0.84,62.88,1.89,894894,Wallet,4.49,2.68,Books
+Flipkart Clearance Sale in 2020! 961,2020-02-25 21:55:40,Clearance Sale,2020,3859933.09,Fashion,18.08,14548,5828,4,Twitter,6493000,3.56,38.39,1.09,415737,UPI,3.59,2.89,Toys
+Flipkart Big Billion Days Sale in 2021! 962,2021-01-01 2:00:17,Big Billion Days Sale,2021,2165743.88,Home,7.23,49561,8678,6,Twitter,2879000,3.42,79.45,2.06,585687,UPI,6.27,4.09,Smartphone
+Flipkart GOAT Sale in 2020! 963,2020-09-28 14:06:23,GOAT Sale,2020,9315924.01,Home,58.82,42723,6158,6,Facebook,8692000,3.34,33.17,2.57,76302,Cash on Delivery,4.63,4.29,Headphones
+Flipkart Festive Sale in 2023! 964,2023-09-22 13:32:13,Festive Sale,2023,9797164.48,Electronics,45.38,48132,1594,4,Flipkart App,7172000,1.11,45.91,0.8,816759,Wallet,8.34,4.14,Laptop
+Flipkart Monsoon Sale in 2022! 965,2022-06-07 12:20:05,Monsoon Sale,2022,5647621.34,Home,67.2,49236,1759,2,Instagram,3749000,3.91,60.72,4.92,916527,Wallet,14.02,3.54,Perfume
+Flipkart Flash Sale in 2020! 966,2020-11-18 9:33:21,Flash Sale,2020,2996513.97,Fashion,51.47,40318,2050,5,Instagram,5840000,1.46,45.49,2.65,581829,UPI,3.63,4.08,Shoes
+Flipkart Summer Sale in 2025! 967,2025-04-07 12:06:10,Summer Sale,2025,5131823.51,Electronics,21.22,5366,5232,7,Twitter,4177000,1.04,37.96,1.69,65721,Debit Card,2.41,4.74,Shoes
+Flipkart Deal of the Day in 2024! 968,2024-06-13 5:13:11,Deal of the Day,2024,1908751.82,Sports,48.41,25340,2407,3,Flipkart App,8829000,3.02,58.58,3.22,799155,Credit Card,14.87,4.01,Books
+Flipkart Deal of the Day in 2022! 969,2022-10-22 11:27:51,Deal of the Day,2022,2012948.16,Fashion,39.58,41027,2917,7,Twitter,1857000,4.7,69.92,4.06,919820,Debit Card,13.82,3.61,Headphones
+Flipkart Clearance Sale in 2021! 970,2021-04-18 3:58:16,Clearance Sale,2021,9897590.88,Groceries,59.81,47280,2465,1,Flipkart App,3369000,3.09,15.84,2.8,709519,Credit Card,6.72,2.57,Perfume
+Flipkart Winter Sale in 2025! 971,2025-02-24 6:10:36,Winter Sale,2025,3126608.17,Toys,12.09,6344,8989,4,Twitter,2952000,0.54,20.67,3.26,706251,UPI,10.9,3.78,Washing Machine
+Flipkart Deal of the Day in 2025! 972,2025-02-21 5:22:50,Deal of the Day,2025,1574081.96,Fashion,8.71,14981,2939,3,Instagram,6486000,3.78,24.98,1.09,220473,UPI,9.74,3.14,Perfume
+Flipkart Deal of the Day in 2020! 973,2020-09-02 21:31:16,Deal of the Day,2020,6903681.66,Beauty,51.35,36095,8054,2,Facebook,2680000,0.48,48.87,1.63,271326,Wallet,2.46,2.65,Perfume
+Flipkart Deal of the Day in 2022! 974,2022-05-01 4:08:51,Deal of the Day,2022,6308000.59,Books,67.21,8184,4310,2,Flipkart App,1149000,4.54,15.38,3.68,782921,UPI,14.84,2.7,Perfume
+Flipkart No Cost EMI Sale in 2020! 975,2020-03-22 4:46:34,No Cost EMI Sale,2020,2305127.02,Groceries,22.92,27175,781,3,Flipkart App,3184000,2.45,16.44,1.08,337383,Credit Card,7.61,3.46,Laptop
+Flipkart Festive Sale in 2022! 976,2022-11-05 20:20:41,Festive Sale,2022,5381283.16,Fashion,10.06,31490,2446,7,Facebook,561000,0.56,10.3,2.52,562588,Cash on Delivery,14.15,4.6,Shoes
+Flipkart Deal of the Day in 2024! 977,2024-04-07 13:26:02,Deal of the Day,2024,9424060.27,Books,15.32,32352,1187,5,Facebook,6291000,1.85,36.58,1.82,529575,Wallet,14.74,2.96,Headphones
+Flipkart Flash Sale in 2023! 978,2023-12-06 19:45:45,Flash Sale,2023,704780.24,Groceries,52.64,31713,7663,1,Instagram,6141000,2.12,11.81,1.7,118736,Credit Card,11.57,3.1,Laptop
+Flipkart Summer Sale in 2020! 979,2020-01-21 9:12:06,Summer Sale,2020,9161128.69,Electronics,59.54,17394,6233,1,Facebook,7162000,4.71,13.01,3.04,761160,Credit Card,13.13,4.85,Books
+Flipkart GOAT Sale in 2024! 980,2024-05-11 9:29:00,GOAT Sale,2024,8344269.38,Books,8.01,10185,1821,4,Flipkart App,3485000,4.94,53.35,3.9,401968,Credit Card,11.44,4.41,Perfume
+Flipkart No Cost EMI Sale in 2021! 981,2021-08-02 20:18:45,No Cost EMI Sale,2021,1007856.49,Home,26.65,41984,3694,2,Instagram,3927000,1.03,34.35,3.8,384397,UPI,14.14,4.27,Smartphone
+Flipkart Clearance Sale in 2023! 982,2023-05-06 19:49:38,Clearance Sale,2023,8960969.23,Toys,29.47,29251,714,7,Facebook,2998000,4.95,59.86,1.39,983255,UPI,14.45,3.93,Shoes
+Flipkart GOAT Sale in 2021! 983,2021-12-19 16:52:35,GOAT Sale,2021,939853.22,Beauty,58.98,44406,5567,4,Twitter,4709000,0.54,18.06,3.49,125978,UPI,8.18,4.62,Perfume
+Flipkart Clearance Sale in 2024! 984,2024-10-23 7:21:13,Clearance Sale,2024,7807882.54,Electronics,54.32,4708,9784,5,Flipkart App,6006000,0.64,17.8,0.64,519202,Credit Card,10.05,3.6,Perfume
+Flipkart Monsoon Sale in 2022! 985,2022-05-14 8:26:03,Monsoon Sale,2022,6456904.52,Electronics,27.28,27116,9577,3,Instagram,2420000,3,38.51,3.86,684595,Credit Card,10.74,3.12,Smartphone
+Flipkart Monsoon Sale in 2021! 986,2021-03-27 16:56:25,Monsoon Sale,2021,4889602.63,Electronics,36.97,17229,4176,2,Facebook,8199000,3.95,47.24,2.58,947994,Wallet,5.59,3.32,Books
+Flipkart Clearance Sale in 2021! 987,2021-10-18 12:21:54,Clearance Sale,2021,7570503.54,Fashion,60.71,24565,3193,7,Email,4323000,1.52,59.57,5,474742,Debit Card,1.79,3.8,Books
+Flipkart Big Billion Days Sale in 2024! 988,2024-02-26 4:21:33,Big Billion Days Sale,2024,9559582.18,Books,69,5525,6358,1,Facebook,7478000,1.23,25.41,2.76,581198,Credit Card,9.88,3.55,Books
+Flipkart Winter Sale in 2023! 989,2023-04-27 11:38:48,Winter Sale,2023,235439.31,Home,60.19,3517,7423,4,Facebook,5776000,3.41,17.7,0.91,371973,Credit Card,11.03,2.61,Laptop
+Flipkart Festive Sale in 2025! 990,2025-09-09 13:52:38,Festive Sale,2025,5733803.84,Groceries,23.73,41688,6193,3,Facebook,1792000,2.92,31.14,3.33,354489,UPI,10.66,3.98,Washing Machine
+Flipkart Deal of the Day in 2024! 991,2024-12-20 13:40:13,Deal of the Day,2024,2388782.08,Books,10.44,8875,6016,6,Email,3152000,0.6,74.93,3.46,33836,Wallet,3.6,4.83,Smartphone
+Flipkart No Cost EMI Sale in 2023! 992,2023-04-12 4:10:45,No Cost EMI Sale,2023,8876642.37,Home,56.97,24131,6757,1,Flipkart App,6065000,2.31,65.36,4.08,272753,Debit Card,4.12,3.04,Books
+Flipkart Winter Sale in 2020! 993,2020-01-28 17:42:41,Winter Sale,2020,3363878.01,Groceries,5.5,15371,7472,2,Facebook,1395000,1.73,29.44,0.76,188937,Debit Card,6.9,2.92,Shoes
+Flipkart Flash Sale in 2022! 994,2022-06-28 4:48:31,Flash Sale,2022,7052727.86,Groceries,10.86,40898,3798,7,Flipkart App,624000,0.87,70.26,1.31,689033,Credit Card,13.18,4.92,Headphones
+Flipkart No Cost EMI Sale in 2024! 995,2024-07-21 20:36:19,No Cost EMI Sale,2024,578563.49,Toys,15.4,27768,5592,3,Instagram,5004000,4.49,33.9,1.11,536238,Wallet,1.25,4.69,Laptop
+Flipkart Summer Sale in 2021! 996,2021-06-25 8:31:01,Summer Sale,2021,6820425.93,Books,45.01,18094,4191,3,Email,8573000,4.08,75.3,4.43,732718,Credit Card,13.33,4.18,Shoes
+Flipkart Big Billion Days Sale in 2025! 997,2025-07-16 11:10:53,Big Billion Days Sale,2025,8980836.55,Sports,50.61,40733,4342,3,Email,9648000,0.97,15.29,2.96,837258,Debit Card,1.64,4.15,Smartphone
+Flipkart Big Billion Days Sale in 2023! 998,2023-04-13 11:46:41,Big Billion Days Sale,2023,1382765.3,Groceries,25.88,11124,3545,4,Twitter,6070000,1.9,72.84,1.79,736501,Debit Card,2.09,3.81,Washing Machine
+Flipkart Monsoon Sale in 2022! 999,2022-12-29 9:24:50,Monsoon Sale,2022,9048505.36,Groceries,18.65,7562,1298,6,Flipkart App,6078000,0.2,62.94,2.23,299074,Wallet,6.63,3.6,Shoes
