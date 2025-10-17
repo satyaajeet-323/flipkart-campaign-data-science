@@ -29,7 +29,7 @@ PIPE_PATH = os.path.join(ART_DIR, "flipkart_pipeline.joblib")
 COLS_PATH = os.path.join(ART_DIR, "expected_columns.json")
 REF_PATH = os.path.join(ART_DIR, "reference_sample.csv")
 GRAPHS_DIR = os.path.join(REPO_DIR, "graphs")
-DEFAULT_DATASET = "flipkart_campaign.csv"  # Changed to local file
+DEFAULT_DATASET = "/mnt/data/flipkart_campaigns.csv"
 EXP_CSV_PATH = os.path.join(ART_DIR, "experiments.csv")
 
 LABEL_MAP = {0: "Low Performance", 1: "High Performance"}
@@ -122,17 +122,16 @@ st.caption("A storytelling dashboard that moves from context ➜ data ➜ EDA �
 # ----------------------------
 with st.sidebar:
     st.header("Controls")
+    uploaded = st.file_uploader("Upload CSV (optional)", type=["csv"])
 
     # Image size control
     img_width = st.slider("Image width (px)", min_value=480, max_value=1000, value=720, step=20)
 
-    # Load dataset for detecting sensitive attributes and target
     detected_sensitive = "platform"
     detected_target = "performance"
-    
-    try:
-        if os.path.exists(DEFAULT_DATASET):
-            _tmp_df = pd.read_csv(DEFAULT_DATASET)
+    if uploaded is not None:
+        try:
+            _tmp_df = pd.read_csv(io.BytesIO(uploaded.getvalue()))
             cand_sens = [
                 c for c in _tmp_df.columns
                 if ((pd.api.types.is_object_dtype(_tmp_df[c]) or 
@@ -152,8 +151,8 @@ with st.sidebar:
                 if pref_t in _tmp_df.columns:
                     detected_target = pref_t
                     break
-    except Exception as e:
-        st.warning(f"Could not load dataset for attribute detection: {e}")
+        except Exception:
+            pass
 
     sensitive_attr = st.text_input("Sensitive attribute (grouping column)", value=detected_sensitive)
     target_attr = st.text_input("Ground-truth column (optional)", value=detected_target)
@@ -164,7 +163,6 @@ with st.sidebar:
     st.divider()
     st.write("Artifacts status:", "`OK`" if inference_pipeline else f"`Degraded: {LOAD_ERR}`")
     st.write("Graphs folder:", f"`{GRAPHS_DIR}`")
-    st.write("Dataset file:", f"`{DEFAULT_DATASET}`")
 
 # ----------------------------
 # Helpers
@@ -256,12 +254,17 @@ def list_graph_images(patterns=("*.png","*.jpg","*.jpeg","*.webp")):
     return sorted(imgs)
 
 def load_dataset_for_info():
-    """Priority: DEFAULT_DATASET -> REF -> None"""
+    """Priority: uploaded -> DEFAULT_DATASET -> REF -> None"""
+    if uploaded is not None:
+        try:
+            return pd.read_csv(io.BytesIO(uploaded.getvalue())), "uploaded"
+        except Exception:
+            pass
+            
     if os.path.exists(DEFAULT_DATASET):
         try:
-            return pd.read_csv(DEFAULT_DATASET), "local_file"
-        except Exception as e:
-            st.error(f"Error loading dataset: {e}")
+            return pd.read_csv(DEFAULT_DATASET), "default_path"
+        except Exception:
             pass
             
     if REF is not None:
@@ -372,7 +375,7 @@ with tab_dataset:
 
     data, source = load_dataset_for_info()
     if data is None or data.empty:
-        st.warning(f"No dataset found. Please ensure '{DEFAULT_DATASET}' exists in the current folder.")
+        st.warning("No dataset found. Upload a CSV or place it at `/mnt/data/flipkart_campaigns.csv`.")
     else:
         st.caption(f"Loaded from: **{source}**")
         st.write(f"Shape: **{data.shape[0]} rows × {data.shape[1]} columns**")
@@ -579,21 +582,19 @@ with tab_pred:
         st.warning("Using rule-based predictions. Train and save a model for improved accuracy.")
     
     df_in = None
-    # Load data from local file
-    if os.path.exists(DEFAULT_DATASET):
+    if uploaded is not None:
         try:
-            df_in = pd.read_csv(DEFAULT_DATASET)
+            df_in = pd.read_csv(io.BytesIO(uploaded.getvalue()))
             if df_in.empty:
-                st.error("Dataset file is empty.")
+                st.error("Uploaded CSV is empty.")
                 df_in = None
             else:
-                st.write(f"Loaded dataset: {DEFAULT_DATASET}")
                 st.dataframe(df_in.head())
         except Exception as e:
             st.error(f"Could not read CSV: {e}")
             df_in = None
     else:
-        st.info(f"Dataset file '{DEFAULT_DATASET}' not found. Using demo data.")
+        st.info("Upload a CSV or use a minimal single record below.")
         demo = {
             'Total_amt_of_sale': 5000000,
             'avg_discount': 35.5,
@@ -695,64 +696,59 @@ We applied **SHAP (SHapley Additive exPlanations)** to interpret the trained mod
 # ----------------------------
 with tab_fair:
     st.subheader("Group comparison (selection rate & metrics)")
-    
-    # Load data from local file
-    if os.path.exists(DEFAULT_DATASET):
+    if uploaded is None:
+        st.info("Upload a CSV to compute group metrics.")
+    else:
         try:
-            df = pd.read_csv(DEFAULT_DATASET)
+            df = pd.read_csv(io.BytesIO(uploaded.getvalue()))
         except Exception as e:
             st.error(f"Could not read CSV: {e}")
             df = None
-    else:
-        st.info(f"Dataset file '{DEFAULT_DATASET}' not found.")
-        df = None
 
-    if df is not None:
-        if sensitive_attr not in df.columns:
-            cand = [
-                c for c in df.columns
-                if ((pd.api.types.is_object_dtype(df[c]) or 
-                     (hasattr(pd, 'CategoricalDtype') and isinstance(df[c].dtype, pd.CategoricalDtype)))
-                    and df[c].nunique() <= 30)
-            ]
-            st.warning(
-                f"Sensitive attribute `{sensitive_attr}` not found. "
-                f"Try a low-cardinality categorical column (e.g., `platform`, `campaign_type`, `target_audience`). "
-                f"Detected candidates: {', '.join(cand[:10]) if cand else 'None'}"
-            )
-        else:
-            al = align_columns(df.copy(), EXPECTED_COLS)
-            preds, proba = predict_df(al)
-            pred_hat = (proba >= threshold).astype(int) if proba is not None else preds.astype(int)
-
-            grp = df.groupby(df[sensitive_attr].astype(str), dropna=False)
-            summary = grp.apply(lambda g: pd.Series({
-                "n": int(len(g)),
-                "high_performance_rate": float((pred_hat[g.index] == 1).mean()),
-                "avg_conversion": float(g.get('conversion_rate', pd.Series([0]*len(g))).mean()),
-                "avg_sales": float(g.get('Total_amt_of_sale', pd.Series([0]*len(g))).mean()),
-            }))
-            st.write("**Performance rate by group**")
-            st.dataframe(summary.sort_values("high_performance_rate", ascending=False))
-
-            has_gt = bool(target_attr) and (target_attr in df.columns)
-            if has_gt:
-                y_true = create_performance_target(df, target_attr, perf_threshold)
-                acc_by_grp = grp.apply(lambda g: accuracy_score(y_true[g.index], pred_hat[g.index]))
-                f1_by_grp = grp.apply(lambda g: f1_score(y_true[g.index], pred_hat[g.index]))
-                st.write("**Accuracy by group**")
-                st.dataframe(acc_by_grp.to_frame("accuracy").sort_values("accuracy", ascending=False))
-                st.write("**F1 by group**")
-                st.dataframe(f1_by_grp.to_frame("f1").sort_values("f1", ascending=False))
-
-                overall_perf_rate = float((pred_hat == 1).mean())
-                summary["performance_gap_vs_overall"] = (summary["high_performance_rate"] - overall_perf_rate)
-                st.write("**Performance-rate gap vs overall** (positive = predicts 'High Performance' more often than average)")
-                st.dataframe(summary[["n", "high_performance_rate", "performance_gap_vs_overall"]])
+        if df is not None:
+            if sensitive_attr not in df.columns:
+                cand = [
+                    c for c in df.columns
+                    if ((pd.api.types.is_object_dtype(df[c]) or 
+                         (hasattr(pd, 'CategoricalDtype') and isinstance(df[c].dtype, pd.CategoricalDtype)))
+                        and df[c].nunique() <= 30)
+                ]
+                st.warning(
+                    f"Sensitive attribute `{sensitive_attr}` not found. "
+                    f"Try a low-cardinality categorical column (e.g., `platform`, `campaign_type`, `target_audience`). "
+                    f"Detected candidates: {', '.join(cand[:10]) if cand else 'None'}"
+                )
             else:
-                st.info("No ground-truth column set; showing performance rates only. For per-group accuracy/F1, set a ground-truth column.")
-    else:
-        st.info(f"Please ensure '{DEFAULT_DATASET}' exists in the current folder.")
+                al = align_columns(df.copy(), EXPECTED_COLS)
+                preds, proba = predict_df(al)
+                pred_hat = (proba >= threshold).astype(int) if proba is not None else preds.astype(int)
+
+                grp = df.groupby(df[sensitive_attr].astype(str), dropna=False)
+                summary = grp.apply(lambda g: pd.Series({
+                    "n": int(len(g)),
+                    "high_performance_rate": float((pred_hat[g.index] == 1).mean()),
+                    "avg_conversion": float(g.get('conversion_rate', pd.Series([0]*len(g))).mean()),
+                    "avg_sales": float(g.get('Total_amt_of_sale', pd.Series([0]*len(g))).mean()),
+                }))
+                st.write("**Performance rate by group**")
+                st.dataframe(summary.sort_values("high_performance_rate", ascending=False))
+
+                has_gt = bool(target_attr) and (target_attr in df.columns)
+                if has_gt:
+                    y_true = create_performance_target(df, target_attr, perf_threshold)
+                    acc_by_grp = grp.apply(lambda g: accuracy_score(y_true[g.index], pred_hat[g.index]))
+                    f1_by_grp = grp.apply(lambda g: f1_score(y_true[g.index], pred_hat[g.index]))
+                    st.write("**Accuracy by group**")
+                    st.dataframe(acc_by_grp.to_frame("accuracy").sort_values("accuracy", ascending=False))
+                    st.write("**F1 by group**")
+                    st.dataframe(f1_by_grp.to_frame("f1").sort_values("f1", ascending=False))
+
+                    overall_perf_rate = float((pred_hat == 1).mean())
+                    summary["performance_gap_vs_overall"] = (summary["high_performance_rate"] - overall_perf_rate)
+                    st.write("**Performance-rate gap vs overall** (positive = predicts 'High Performance' more often than average)")
+                    st.dataframe(summary[["n", "high_performance_rate", "performance_gap_vs_overall"]])
+                else:
+                    st.info("No ground-truth column set; showing performance rates only. For per-group accuracy/F1, set a ground-truth column.")
 
 # ----------------------------
 # Drift tab 
@@ -760,19 +756,15 @@ with tab_fair:
 with tab_drift:
     st.subheader("Data drift checks (PSI & KS)")
     if REF is None:
-        st.info("Missing reference_sample.csv in artifacts. Add reference file for drift analysis.")
+        st.info("Missing reference_sample.csv in artifacts. Upload a CSV to compare, or add reference file.")
+    elif uploaded is None:
+        st.info("Upload a CSV to compare with the reference sample.")
     else:
-        # Load current data from local file
-        if os.path.exists(DEFAULT_DATASET):
-            try:
-                cur = pd.read_csv(DEFAULT_DATASET)
-            except Exception as e:
-                st.error(f"Could not read dataset for drift: {e}")
-                cur = None
-        else:
-            st.info(f"Dataset file '{DEFAULT_DATASET}' not found.")
+        try:
+            cur = pd.read_csv(io.BytesIO(uploaded.getvalue()))
+        except Exception as e:
+            st.error(f"Could not read uploaded CSV for drift: {e}")
             cur = None
-            
         if cur is not None:
             num_cols = list(set(REF.columns).intersection(cur.columns))
             num_cols = [
